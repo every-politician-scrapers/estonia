@@ -14,20 +14,25 @@ class Legislature
     end
 
     field :position do
-      noko.xpath('following-sibling::p').text.tidy
+      noko.xpath('following-sibling::p[1]').text.tidy
     end
   end
 
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      container.map { |member| fragment(member => Member).to_h }
+      container.map { |member| fragment(member => Member).to_h } +
+        pm_container.map { |member| fragment(member => Member).to_h }
     end
 
     private
 
     def container
       noko.css('.list-with-image-vp .font-weight-bold')
+    end
+
+    def pm_container
+      noko.css('.col-xl-8 .mb-3 h3')
     end
   end
 end

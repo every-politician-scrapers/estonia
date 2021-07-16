@@ -22,7 +22,10 @@ query = <<SPARQL
     FILTER NOT EXISTS { ?held pq:P582 [] }
 
     OPTIONAL { ?item rdfs:label ?name FILTER(LANG(?name) = "et") }
-    OPTIONAL { ?positionItem rdfs:label ?position FILTER(LANG(?position) = "et") }
+
+    OPTIONAL { ?positionItem wdt:P1705 ?nativeLabel }
+    OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "et") }
+    BIND(COALESCE(?nativeLabel, ?positionLabel) AS ?position)
   }
   ORDER BY ?positionLabel ?began
 SPARQL
