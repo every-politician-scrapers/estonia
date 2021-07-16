@@ -1,24 +1,16 @@
 wdid,name,pid,position
-Q64850482,Signe Riisalo,Q24060088,
-Q73278011,Kaimar Karu,Q63472711,
-Q11869065,Kaja Kallas,Q737115,Eesti peaminister
-Q105069608,Eva-Maria Liimets,Q1760777,Eesti välisminister
-Q978349,Kalle Laanet,Q3741249,Eesti kaitseminister
-Q20933509,Liina Kersna,Q6866110,Eesti haridus- ja teadusminister
-Q98122403,Kristian Jaani,Q6866431,Eesti Vabariigi siseminister
-Q62975984,Tõnis Mölder,Q12361541,Eesti keskkonnaminister
-Q16403371,Indrek Saar,Q16402952,Kultuuriminister
+Q98122403,Kristian Jaani,Q6866431,Siseminister
+Q20933509,Liina Kersna,Q6866110,Haridus- ja teadusminister
+Q16405768,Maris Lauri,Q20528230,Justiitsminister
+Q978349,Kalle Laanet,Q3741249,Kaitseminister
+Q62975984,Tõnis Mölder,Q12361541,Keskkonnaminister
+Q16403144,Taavi Aas,Q16403845,Majandus- ja taristuminister
+Q11869065,Kaja Kallas,Q737115,Peaminister
+Q63383282,Tanel Kiik,Q24060082,Tervise- ja tööminister
+Q105069608,Eva-Maria Liimets,Q1760777,Välisminister
+Q62975823,Andres Sutt,Q20933474,Ettevõtlus- ja infotehnoloogiaminister
 Q22041600,Anneli Ott,Q16402952,Kultuuriminister
-Q1149033,Tõnis Lukas,Q16402952,Kultuuriminister
-Q16403144,Taavi Aas,Q16403845,Eesti majandus- ja taristuminister
-Q16405768,Maris Lauri,Q20528230,Eesti justiitsminister
-Q645970,Urmas Reinsalu,Q20528230,Eesti justiitsminister
-Q1375585,Jaak Aab,Q20528404,Riigihalduse minister
-Q62975823,Andres Sutt,Q20933474,Eesti ettevõtlusminister
-Q620859,Toomas Tõniste,Q21103025,Rahandusminister
-Q458003,Keit Pentus-Rosimannus,Q21103025,Rahandusminister
-Q12365130,Jevgeni Ossinovski,Q24060082,Eesti tervise- ja tööminister
-Q63383282,Tanel Kiik,Q24060082,Eesti tervise- ja tööminister
-Q52704406,Riina Sikkut,Q24060082,Eesti tervise- ja tööminister
-Q12376376,Tarmo Tamm,Q24060239,Maaeluminister
 Q3741429,Urmas Kruuse,Q24060239,Maaeluminister
+Q458003,Keit Pentus-Rosimannus,Q21103025,Rahandusminister
+Q1375585,Jaak Aab,Q20528404,Riigihalduse minister
+Q64850482,Signe Riisalo,Q24060088,Sotsiaalkaitseminister
