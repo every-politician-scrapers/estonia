@@ -2,11 +2,9 @@
 # frozen_string_literal: true
 
 require 'every_politician_scraper/scraper_data'
-require 'open-uri/cached'
 require 'pry'
 
-# TODO: allow ScraperData to use Cabinet here!
-class Legislature
+class MemberList
   # details for an individual member
   class Member < Scraped::HTML
     field :name do
@@ -37,5 +35,6 @@ class Legislature
   end
 end
 
-url = 'https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis'
-puts EveryPoliticianScraper::ScraperData.new(url).csv
+file = Pathname.new 'html/official.html'
+puts EveryPoliticianScraper::FileData.new(file).csv
+

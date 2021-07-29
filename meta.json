@@ -1,5 +1,6 @@
 {
     "cabinet": "Q105071498",
     "lang":    "et",
-    "agent":   "every-politican-scrapers/estonia-cabinet"
+    "agent":   "every-politican-scrapers/estonia-cabinet",
+    "site":    "https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis"
 }
