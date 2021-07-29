@@ -2,5 +2,12 @@
     "cabinet": "Q105071498",
     "lang":    "et",
     "agent":   "every-politican-scrapers/estonia-cabinet",
-    "site":    "https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis"
+    "source":  {
+      "url": "https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis",
+      "title": "Vabariigi Valitsuse 51. koosseis",
+      "lang": {
+        "code": "et",
+        "wikidata": "Q9072"
+      }
+    }
 }
