@@ -2,7 +2,7 @@ name: Get Wikidata info
 
 on:
   schedule:
-    - cron:  '30 7 * * *'
+    - cron:  '50 7 * * *'
 
 jobs:
   scheduled:
@@ -10,8 +10,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
-    - run: npm ci --no-audit
-    - run: npm test
     - name: Install wikibase-cli
       run: npm install -g wikibase-cli
     - name: Run SPARQL
