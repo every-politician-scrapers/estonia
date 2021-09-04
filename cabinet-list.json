@@ -1,0 +1,401 @@
+[
+  {
+    "item": {
+      "value": "Q2114143",
+      "label": "Konstantin Päts' third provisional cabinet"
+    },
+    "inception": "1918-11-27T00:00:00Z",
+    "abolished": "1919-05-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720350",
+      "label": "Otto Strandman's first cabinet"
+    },
+    "inception": "1919-05-08T00:00:00Z",
+    "abolished": "1919-11-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720418",
+      "label": "Jaan Tõnisson's first cabinet"
+    },
+    "inception": "1919-11-18T00:00:00Z",
+    "abolished": "1920-07-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1719753",
+      "label": "Ado Birk's cabinet"
+    },
+    "inception": "1920-07-28T00:00:00Z",
+    "abolished": "1920-07-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720419",
+      "label": "Jaan Tõnisson's second cabinet"
+    },
+    "inception": "1920-07-30T00:00:00Z",
+    "abolished": "1920-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720215",
+      "label": "Ants Piip's cabinet"
+    },
+    "inception": "1920-10-26T00:00:00Z",
+    "abolished": "1921-01-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720225",
+      "label": "Konstantin Päts' first cabinet"
+    },
+    "inception": "1921-01-25T00:00:00Z",
+    "abolished": "1922-11-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q290683",
+      "label": "Juhan Kukk's cabinet"
+    },
+    "inception": "1922-11-21T00:00:00Z",
+    "abolished": "1923-08-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720227",
+      "label": "Konstantin Päts' second cabinet"
+    },
+    "inception": "1923-08-02T00:00:00Z",
+    "abolished": "1924-03-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1719690",
+      "label": "Friedrich Akel's cabinet"
+    },
+    "inception": "1924-03-26T00:00:00Z",
+    "abolished": "1924-12-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1558967",
+      "label": "Jüri Jaakson's cabinet"
+    },
+    "inception": "1924-12-16T00:00:00Z",
+    "abolished": "1925-12-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720386",
+      "label": "Jaan Teemant's first cabinet"
+    },
+    "inception": "1925-12-15T00:00:00Z",
+    "abolished": "1926-07-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720387",
+      "label": "Jaan Teemant's second cabinet"
+    },
+    "inception": "1926-07-23T00:00:00Z",
+    "abolished": "1927-03-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720389",
+      "label": "Jaan Teemant's third cabinet"
+    },
+    "inception": "1927-03-04T00:00:00Z",
+    "abolished": "1927-12-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q12364925",
+      "label": "Jaan Tõnisson's third cabinet"
+    },
+    "inception": "1927-12-09T00:00:00Z",
+    "abolished": "1928-12-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q277961",
+      "label": "August Rei's cabinet"
+    },
+    "inception": "1928-12-04T00:00:00Z",
+    "abolished": "1929-07-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1666111",
+      "label": "Otto Strandman's 2nd cabinet"
+    },
+    "inception": "1929-07-09T00:00:00Z",
+    "abolished": "1931-02-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1453784",
+      "label": "Konstantin Päts' third cabinet"
+    },
+    "inception": "1931-02-12T00:00:00Z",
+    "abolished": "1932-02-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720391",
+      "label": "Jaan Teeman's fourth cabinet"
+    },
+    "inception": "1932-02-19T00:00:00Z",
+    "abolished": "1932-07-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1719868",
+      "label": "Karl Einbund's first cabinet"
+    },
+    "inception": "1932-07-19T00:00:00Z",
+    "abolished": "1932-11-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720228",
+      "label": "Konstantin Päts' fourth cabinet"
+    },
+    "inception": "1932-11-01T00:00:00Z",
+    "abolished": "1933-05-18T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720420",
+      "label": "Jaan Tõnisson's fourth cabinet"
+    },
+    "inception": "1933-05-18T00:00:00Z",
+    "abolished": "1933-10-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720230",
+      "label": "Konstantin Päts' fifth cabinet"
+    },
+    "inception": "1933-10-21T00:00:00Z",
+    "abolished": "1938-05-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1531403",
+      "label": "Kaarel Eenpalu's second cabinet"
+    },
+    "inception": "1938-05-09T00:00:00Z",
+    "abolished": "1939-10-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720428",
+      "label": "Jüri Uluots' cabinet"
+    },
+    "inception": "1939-10-12T00:00:00Z",
+    "abolished": "1940-06-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6217029",
+      "label": "Johannes Vares' cabinet"
+    },
+    "inception": "1940-06-21T00:00:00Z",
+    "abolished": "1940-08-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q12371708",
+      "label": "Otto Tief's cabinet"
+    },
+    "inception": "1944-09-18T00:00:00Z",
+    "abolished": "1953-01-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q12365388",
+      "label": "Johannes Sikkar's cabinet"
+    },
+    "inception": "1953-01-12T00:00:00Z",
+    "abolished": "1962-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q26425771",
+      "label": "Aleksander Warma's cabinet"
+    },
+    "inception": "1962-01-01T00:00:00Z",
+    "abolished": "1963-03-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q20191978",
+      "label": "Tõnis Kint's cabinet"
+    },
+    "inception": "1964-03-01T00:00:00Z",
+    "abolished": "1971-05-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q26425770",
+      "label": "Heinrich Mark's cabinet"
+    },
+    "inception": "1971-05-08T00:00:00Z",
+    "abolished": "1990-03-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q24952656",
+      "label": "Enno Penno's cabinet"
+    },
+    "inception": "1990-06-20T00:00:00Z",
+    "abolished": "1992-09-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720283",
+      "label": "Edgar Savisaar's Cabinet"
+    },
+    "inception": "1991-08-20T00:00:00Z",
+    "abolished": "1992-01-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720457",
+      "label": "Tiit Vähi's first cabinet"
+    },
+    "inception": "1992-01-30T00:00:00Z",
+    "abolished": "1992-10-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1466222",
+      "label": "Mart Laar's first cabinet"
+    },
+    "inception": "1992-10-21T00:00:00Z",
+    "abolished": "1994-11-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q505982",
+      "label": "Andres Tarand's cabinet"
+    },
+    "inception": "1994-11-08T00:00:00Z",
+    "abolished": "1995-04-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q505977",
+      "label": "Tiit Vähi's second cabinet"
+    },
+    "inception": "1995-04-17T00:00:00Z",
+    "abolished": "1995-11-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1720459",
+      "label": "Tiit Vähi's third cabinet"
+    },
+    "inception": "1995-11-06T00:00:00Z",
+    "abolished": "1997-03-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q505964",
+      "label": "Mart Siimann's cabinet"
+    },
+    "inception": "1997-03-17T00:00:00Z",
+    "abolished": "1999-03-25T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1228936",
+      "label": "Mart Laar's second cabinet"
+    },
+    "inception": "1999-03-25T00:00:00Z",
+    "abolished": "2002-01-28T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1234732",
+      "label": "Siim Kallas' cabinet"
+    },
+    "inception": "2002-01-28T00:00:00Z",
+    "abolished": "2003-04-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1530921",
+      "label": "Juhan Parts' cabinet"
+    },
+    "inception": "2003-04-10T00:00:00Z",
+    "abolished": "2005-04-13T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1719710",
+      "label": "Andrus Ansip's first cabinet"
+    },
+    "inception": "2005-04-13T00:00:00Z",
+    "abolished": "2007-04-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1719713",
+      "label": "Andrus Ansip's second cabinet"
+    },
+    "inception": "2007-04-05T00:00:00Z",
+    "abolished": "2011-04-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q671825",
+      "label": "Andrus Ansip's third cabinet"
+    },
+    "inception": "2011-04-06T00:00:00Z",
+    "abolished": "2014-03-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15980310",
+      "label": "Taavi Rõivas' first cabinet"
+    },
+    "inception": "2014-03-26T00:00:00Z",
+    "abolished": "2015-03-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q19776482",
+      "label": "Taavi Rõivas' second cabinet"
+    },
+    "inception": "2015-04-09T00:00:00Z",
+    "abolished": "2016-11-23T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q27907838",
+      "label": "Jüri Ratas' first cabinet"
+    },
+    "inception": "2016-11-23T00:00:00Z",
+    "abolished": "2019-04-29T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q63343147",
+      "label": "Jüri Ratas' second cabinet"
+    },
+    "inception": "2019-04-29T00:00:00Z",
+    "abolished": "2021-01-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q105071498",
+      "label": "Kaja Kallas' cabinet"
+    },
+    "inception": "2021-01-26T00:00:00Z"
+  }
+]
