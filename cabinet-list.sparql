@@ -1,0 +1,8 @@
+SELECT ?item ?itemLabel ?inception ?abolished
+WHERE {
+  ?item wdt:P31 wd:Q2421589. 
+  OPTIONAL { ?item wdt:P571 ?inception }
+  OPTIONAL { ?item wdt:P576 ?abolished }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+ORDER BY ?inception
