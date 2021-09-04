@@ -1,0 +1,12 @@
+SELECT DISTINCT ?item ?itemLabel ?itemDescription ?start ?end
+                ?partOf ?partOfLabel ?isa ?isaLabel ?ministry ?ministryLabel
+WHERE {
+  ?item wdt:P279* wd:Q83307 ; wdt:P1001 wd:Q191 .
+  OPTIONAL { ?item wdt:P361 ?partOf }
+  OPTIONAL { ?item wdt:P571 ?start }
+  OPTIONAL { ?item wdt:P576 ?end }
+  OPTIONAL { ?item wdt:P279 ?isa }
+  OPTIONAL { ?item wdt:P2389 ?ministry }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+ORDER BY ?itemLabel
