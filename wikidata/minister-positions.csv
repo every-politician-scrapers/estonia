@@ -1,36 +1,35 @@
-item,itemLabel,itemDescription,start,end,partOf,partOfLabel,isa,isaLabel,ministry,ministryLabel
-Q16402880,Minister of Agriculture,Estonian minister,,,Q2421589,Government of Estonia,Q10540834,agriculture minister,,
-Q16405106,Minister of Agriculture,Estonian cabinet position,,2015-04-09T00:00:00Z,Q2421589,Government of Estonia,Q10540834,agriculture minister,,
-Q16402952,Minister of Culture,Estonian cabinet minister,1990-04-10T00:00:00Z,,Q2421589,Government of Estonia,Q2621182,minister of culture,Q12367721,Ministry of Culture
-Q23725838,Minister of Culture and Education,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q2621182,minister of culture,Q12367721,Ministry of Culture
-Q23725838,Minister of Culture and Education,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q4018482,education minister,Q12367721,Ministry of Culture
-Q3741249,Minister of Defence,in Estonia,,,Q2421589,Government of Estonia,Q2518691,defence minister,Q6866745,Ministry of Defence
-Q21121665,Minister of Economic Affairs and Communications,Estonian cabinet position,,,Q2421589,Government of Estonia,Q17618153,economy minister,Q6866797,Ministry of Economic Affairs and Communications
-Q16403845,Minister of Economic Affairs and Infrastructure,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q83307,minister,,
-Q6866110,Minister of Education and Research,Estonian cabinet position,1918-01-01T00:00:00Z,,Q2421589,Government of Estonia,Q1266327,research minister,Q12363440,Ministry of Education and Research
-Q6866110,Minister of Education and Research,Estonian cabinet position,1918-01-01T00:00:00Z,,Q2421589,Government of Estonia,Q4018482,education minister,Q12363440,Ministry of Education and Research
-Q106996824,Minister of Energy,Estonian cabinet position,,,Q2421589,Government of Estonia,Q1126271,energy minister,,
-Q20933474,Minister of Entrepreneurship and Information Technology,Estonian cabinet position,,2019-04-29T00:00:00Z,Q2421589,Government of Estonia,Q83307,minister,,
-Q24254211,Minister of European Integration,,,,Q2421589,Government of Estonia,Q7330070,foreign minister,,
-Q21103025,Minister of Finance,Estonian finance minister,,,Q2421589,Government of Estonia,Q7614320,finance minister,Q12373345,Ministry of Finance
-Q1760777,Minister of Foreign Affairs,Minister of Foreign Affairs in Estonia,1918-02-24T00:00:00Z,,Q2421589,Government of Estonia,Q7330070,foreign minister,Q6867006,Ministry of Foreign Affairs
-Q24058803,Minister of Foreign Trade and Entrepreneurship,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q83307,minister,,
-Q63472711,Minister of Foreign Trade and Information Technology,Estonian cabinet position,2019-04-29T00:00:00Z,,Q2421589,Government of Estonia,Q83307,minister,,
-Q24060082,Minister of Health and Labour,Estonian cabinet minister,2014-03-26T00:00:00Z,,Q2421589,Government of Estonia,Q3273722,health minister,,
-Q24060082,Minister of Health and Labour,Estonian cabinet minister,2014-03-26T00:00:00Z,,Q2421589,Government of Estonia,Q12303322,minister of labour,,
-Q20528230,Minister of Justice,Estonian Cabinet position,,,Q2421589,Government of Estonia,Q17763739,justice minister,Q6867302,Ministry of Justice
-Q24061775,Minister of Population and Ethnic Affairs,Estonian cabinet position,,2009-05-21T00:00:00Z,Q2421589,Government of Estonia,Q83307,minister,,
-Q20528404,Minister of Public Administration,Estonian cabinet position,2015-04-09T00:00:00Z,,Q2421589,Government of Estonia,Q83307,minister,,
-Q106996576,Minister of Reform,Estonian cabinet position,,,Q2421589,Government of Estonia,Q83307,minister,,
-Q23268238,Minister of Regional Affairs,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q83307,minister,,
-Q24060239,Minister of Rural Affairs,Estonian cabinet position,2015-04-09T00:00:00Z,,Q2421589,Government of Estonia,Q10540834,agriculture minister,Q12373165,Ministry of Rural Affairs
-Q16402881,Minister of Social Affairs,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q22690704,minister of social affairs,Q12375270,Ministry of Social Affairs
-Q24060088,Minister of Social Protection,Estonian cabinet minister,2014-03-26T00:00:00Z,,Q2421589,Government of Estonia,Q22690704,minister of social affairs,,
-Q105474805,Minister of Transport and Communications,,,,Q2421589,Government of Estonia,Q12339722,transport minister,,
-Q105474805,Minister of Transport and Communications,,,,Q2421589,Government of Estonia,Q92773481,Minister of Communications,,
-Q12361541,Minister of the Environment,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q4574084,environment minister,Q16408655,Ministry of the Environment
-Q6866431,Minister of the Interior,Estonian Minister of the Interior,,,Q2421589,Government of Estonia,Q17578116,interior minister,Q4294315,Ministry of the Interior
-Q12372129,Prime Minister in duties of the President,"Estonian head of state, 1940-1992",1940-06-21T00:00:00Z,1992-10-08T00:00:00Z,,,Q14212,prime minister,,
-Q737115,Prime Minister of Estonia,position,1918-02-24T00:00:00Z,,Q2421589,Government of Estonia,Q14212,prime minister,,
-Q24067751,minister without portfolio,Estonian cabinet minister,,,Q2421589,Government of Estonia,Q1937160,minister without portfolio,,
-
+item,itemLabel,itemDescription,inception,abolition,partOf,partOfLabel,partStart,partEnd,isa,isaLabel,ministry,ministryLabel
+Q16402880,Minister of Agricultural Work,Estonian minister,1918-02-24T00:00:00Z,1992-07-02T00:00:00Z,Q2421589,Government of Estonia,,,Q10540834,agriculture minister,,
+Q16405106,Minister of Agriculture,Estonian cabinet position,1992-10-21T00:00:00Z,2015-04-09T00:00:00Z,Q2421589,Government of Estonia,,,Q10540834,agriculture minister,,
+Q16402952,Minister of Culture,Estonian cabinet minister,1990-04-10T00:00:00Z,,Q2421589,Government of Estonia,,,Q2621182,minister of culture,Q12367721,Ministry of Culture
+Q23725838,Minister of Culture and Education,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q2621182,minister of culture,Q12367721,Ministry of Culture
+Q23725838,Minister of Culture and Education,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q4018482,education minister,Q12367721,Ministry of Culture
+Q3741249,Minister of Defence,in Estonia,,,Q2421589,Government of Estonia,,,Q2518691,defence minister,Q6866745,Ministry of Defence
+Q21121665,Minister of Economic Affairs and Communications,Estonian cabinet position,,,Q2421589,Government of Estonia,,,Q17618153,economy minister,Q6866797,Ministry of Economic Affairs and Communications
+Q16403845,Minister of Economic Affairs and Infrastructure,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q6866110,Minister of Education and Research,Estonian cabinet position,1918-01-01T00:00:00Z,,Q2421589,Government of Estonia,,,Q1266327,research minister,Q12363440,Ministry of Education and Research
+Q6866110,Minister of Education and Research,Estonian cabinet position,1918-01-01T00:00:00Z,,Q2421589,Government of Estonia,,,Q4018482,education minister,Q12363440,Ministry of Education and Research
+Q106996824,Minister of Energy,Estonian cabinet position,,,Q2421589,Government of Estonia,,,Q1126271,energy minister,,
+Q20933474,Minister of Entrepreneurship and Information Technology,Estonian cabinet position,,2019-04-29T00:00:00Z,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q24254211,Minister of European Integration,,,,Q2421589,Government of Estonia,,,Q7330070,foreign minister,,
+Q21103025,Minister of Finance,Estonian finance minister,,,Q2421589,Government of Estonia,,,Q7614320,finance minister,Q12373345,Ministry of Finance
+Q1760777,Minister of Foreign Affairs,Minister of Foreign Affairs in Estonia,1918-02-24T00:00:00Z,,Q2421589,Government of Estonia,,,Q7330070,foreign minister,Q6867006,Ministry of Foreign Affairs
+Q24058803,Minister of Foreign Trade and Entrepreneurship,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q63472711,Minister of Foreign Trade and Information Technology,Estonian cabinet position,2019-04-29T00:00:00Z,,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q24060082,Minister of Health and Labour,Estonian cabinet minister,2014-03-26T00:00:00Z,,Q2421589,Government of Estonia,,,Q3273722,health minister,,
+Q24060082,Minister of Health and Labour,Estonian cabinet minister,2014-03-26T00:00:00Z,,Q2421589,Government of Estonia,,,Q12303322,minister of labour,,
+Q20528230,Minister of Justice,Estonian Cabinet position,,,Q2421589,Government of Estonia,,,Q17763739,justice minister,Q6867302,Ministry of Justice
+Q24061775,Minister of Population and Ethnic Affairs,Estonian cabinet position,,2009-05-21T00:00:00Z,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q20528404,Minister of Public Administration,Estonian cabinet position,2015-04-09T00:00:00Z,,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q106996576,Minister of Reform,Estonian cabinet position,,,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q23268238,Minister of Regional Affairs,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q83307,minister,,
+Q24060239,Minister of Rural Affairs,Estonian cabinet position,2015-04-09T00:00:00Z,,Q2421589,Government of Estonia,,,Q10540834,agriculture minister,Q12373165,Ministry of Rural Affairs
+Q16402881,Minister of Social Affairs,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q22690704,minister of social affairs,Q12375270,Ministry of Social Affairs
+Q24060088,Minister of Social Protection,Estonian cabinet minister,2014-03-26T00:00:00Z,,Q2421589,Government of Estonia,,,Q22690704,minister of social affairs,,
+Q105474805,Minister of Transport and Communications,Estonian cabinet position,,,Q2421589,Government of Estonia,,,Q12339722,transport minister,,
+Q105474805,Minister of Transport and Communications,Estonian cabinet position,,,Q2421589,Government of Estonia,,,Q30778264,communications minister,,
+Q12361541,Minister of the Environment,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q4574084,environment minister,Q16408655,Ministry of the Environment
+Q6866431,Minister of the Interior,Estonian Minister of the Interior,,,Q2421589,Government of Estonia,,,Q17578116,interior minister,Q4294315,Ministry of the Interior
+Q12372129,Prime Minister in duties of the President,"Estonian head of state, 1940-1992",1940-06-21T00:00:00Z,1992-10-08T00:00:00Z,,,,,Q14212,prime minister,,
+Q737115,Prime Minister of Estonia,Head of Government in Estonia,1918-02-24T00:00:00Z,,Q2421589,Government of Estonia,,,Q14212,prime minister,,
+Q24067751,minister without portfolio,Estonian cabinet minister,,,Q2421589,Government of Estonia,,,Q1937160,minister without portfolio,,
