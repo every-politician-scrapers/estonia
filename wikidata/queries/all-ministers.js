@@ -1,4 +1,8 @@
-module.exports = function (cabinet) {
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
+module.exports = function () {
   return `SELECT DISTINCT ?item ?itemLabel
           ?position ?positionLabel ?start ?end ?cabinet ?cabinetLabel
           ?source ?sourceName ?statedName
@@ -6,7 +10,7 @@ module.exports = function (cabinet) {
          (STRAFTER(STR(?held), '/statement/') AS ?psid)
   WHERE {
     # Positions that have been in the cabinet
-    ?position wdt:P361 wd:${cabinet} .
+    ?position wdt:P361 wd:${meta.cabinet.parent} .
 
     # People who have held positions
     ?item wdt:P31 wd:Q5 ; p:P39 ?held .
@@ -32,5 +36,5 @@ module.exports = function (cabinet) {
 
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en".  }
   }
-  ORDER BY ?itemLabel ?positionLabel ?began ?item`
+  ORDER BY ?itemLabel ?positionLabel ?start ?held`
 }

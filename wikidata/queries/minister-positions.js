@@ -1,9 +1,13 @@
-module.exports = function (jurisdiction) {
+const fs = require('fs');
+let rawmeta = fs.readFileSync('meta.json');
+let meta = JSON.parse(rawmeta);
+
+module.exports = function () {
   return `SELECT DISTINCT ?item ?itemLabel ?itemDescription ?inception ?abolition
                   ?partOf ?partOfLabel ?partStart ?partEnd
                   ?isa ?isaLabel ?ministry ?ministryLabel
   WHERE {
-    ?item wdt:P279* wd:Q83307 ; wdt:P1001 wd:${jurisdiction} .
+    ?item wdt:P279* wd:Q83307 ; wdt:P1001 wd:${meta.jurisdiction.id} .
     OPTIONAL {
       ?item          p:P361  ?partStatement .
       ?partStatement ps:P361 ?partOf .
@@ -16,5 +20,5 @@ module.exports = function (jurisdiction) {
     OPTIONAL { ?item wdt:P2389 ?ministry }
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
   }
-  ORDER BY ?itemLabel`
+  ORDER BY ?itemLabel ?inception ?isa`
 }
