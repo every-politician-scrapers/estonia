@@ -5,27 +5,24 @@ require 'every_politician_scraper/scraper_data'
 require 'pry'
 
 class MemberList
-  # details for an individual member
-  class Member < Scraped::HTML
-    field :name do
+  class Member
+    def name
       noko.text.tidy
     end
 
-    field :position do
+    def position
       noko.xpath('following-sibling::p[1]').text.tidy
     end
   end
 
-  # The page listing all the members
-  class Members < Scraped::HTML
-    field :members do
-      container.map { |member| fragment(member => Member).to_h } +
-        pm_container.map { |member| fragment(member => Member).to_h }
+  class Members
+    def members
+      super + pm_container.map { |member| fragment(member => Member).to_h }
     end
 
     private
 
-    def container
+    def member_container
       noko.css('.list-with-image-vp .font-weight-bold')
     end
 
