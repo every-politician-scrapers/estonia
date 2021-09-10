@@ -39,7 +39,7 @@ Q12359937,August Jürima,Estonian politician,Q6581097,male,1887-01-01T00:00:00Z,
 Q390919,August Kerem,Estonian politician,Q6581097,male,1889-10-01T00:00:00Z,11,1942-05-28T00:00:00Z,11
 Q762413,August Koern,Estonian politician,Q6581097,male,1900-04-27T00:00:00Z,11,1989-01-11T00:00:00Z,11
 Q16407072,August Peet,Estonian politician,Q6581097,male,1881-01-01T00:00:00Z,9,,
-Q725322,August Rei,Estonian politician (1886-1963),Q6581097,male,1886-03-22T00:00:00Z,11,1963-03-29T00:00:00Z,11
+Q725322,August Rei,Estonian politician,Q6581097,male,1886-03-22T00:00:00Z,11,1963-03-29T00:00:00Z,11
 Q12360291,Bernhard Roostfeld,Estonian politician,Q6581097,male,1885-01-05T00:00:00Z,11,1948-01-28T00:00:00Z,11
 Q3539685,Christian Kaarna,Estonian politician,Q6581097,male,1882-10-20T00:00:00Z,11,1943-01-01T00:00:00Z,11
 Q355241,Edgar Savisaar,Estonian politician,Q6581097,male,1950-05-31T00:00:00Z,11,,
@@ -91,7 +91,7 @@ Q1530269,Jaan Manitski,Estonian politician,Q6581097,male,1942-03-07T00:00:00Z,11
 Q7872875,Jaan Piiskar,Estonian politician,Q6581097,male,1883-02-11T00:00:00Z,11,1941-12-19T00:00:00Z,11
 Q1385836,Jaan Poska,Estonian politician (1866-1920),Q6581097,male,1866-01-24T00:00:00Z,11,1920-03-07T00:00:00Z,11
 Q3742400,Jaan Soots,Estonian general and politician,Q6581097,male,1880-03-12T00:00:00Z,11,1942-02-06T00:00:00Z,11
-Q710956,Jaan Tõnisson,Prime minister of Estonia (1868-1941),Q6581097,male,1868-12-22T00:00:00Z,11,1941-01-01T00:00:00Z,9
+Q710956,Jaan Tõnisson,Prime minister of Estonia,Q6581097,male,1868-12-22T00:00:00Z,11,1941-01-01T00:00:00Z,9
 Q12364933,Jaan Õunapuu,Estonian politician,Q6581097,male,1958-09-13T00:00:00Z,11,,
 Q1410118,Jaanus Marrandi,Estonian politician,Q6581097,male,1963-03-23T00:00:00Z,11,,
 Q1375483,Jaanus Tamkivi,Estonian politician,Q6581097,male,1959-11-17T00:00:00Z,11,,
@@ -107,7 +107,7 @@ Q12365481,Juhan Kartau,Estonian politician,Q6581097,male,1883-08-24T00:00:00Z,11
 Q887260,Juhan Kukk,Estonian politician,Q6581097,male,1885-04-13T00:00:00Z,11,1942-12-04T00:00:00Z,11
 Q16404613,Juhan Narma,Estonian politician,Q6581097,male,1888-10-14T00:00:00Z,11,1942-10-19T00:00:00Z,11
 Q312894,Juhan Parts,former Prime Minister of Estonia,Q6581097,male,1966-08-27T00:00:00Z,11,,
-Q1712982,Julius Seljamaa,Estonian politician (1883-1936),Q6581097,male,1883-04-08T00:00:00Z,11,1936-06-17T00:00:00Z,11
+Q1712982,Julius Seljamaa,Estonian politician,Q6581097,male,1883-04-08T00:00:00Z,11,1936-06-17T00:00:00Z,11
 Q983831,Jürgen Ligi,Estonian politician,Q6581097,male,1959-07-16T00:00:00Z,11,,
 Q12365796,Jüri Adams,Estonian politician,Q6581097,male,1947-11-22T00:00:00Z,11,,
 Q16404002,Jüri Annusson,Estonian politician,Q6581097,male,1884-07-11T00:00:00Z,11,1965-01-01T00:00:00Z,9
@@ -116,7 +116,7 @@ Q6321970,Jüri Mõis,Estonian politician,Q6581097,male,1956-10-25T00:00:00Z,11,,
 Q1424510,Jüri Pihl,Estonian politician (1954-2019),Q6581097,male,1954-03-17T00:00:00Z,11,2019-02-03T00:00:00Z,11
 Q1717901,Jüri Raidla,Estonian lawyer and politician,Q6581097,male,1957-07-02T00:00:00Z,11,,
 Q2621730,Jüri Ratas,Estonian politician,Q6581097,male,1978-07-02T00:00:00Z,11,,
-Q887277,Jüri Uluots,Estonian prime minister (1890-1945),Q6581097,male,1890-01-13T00:00:00Z,11,1945-01-09T00:00:00Z,11
+Q887277,Jüri Uluots,Estonian prime minister,Q6581097,male,1890-01-13T00:00:00Z,11,1945-01-09T00:00:00Z,11
 Q126704,Kaarel Eenpalu,Estonian politician,Q6581097,male,1888-05-28T00:00:00Z,11,1942-01-27T00:00:00Z,11
 Q126704,Kaarel Eenpalu,Estonian politician,Q6581097,male,1888-05-28T00:00:00Z,11,1942-01-28T00:00:00Z,11
 Q13570003,Kadri Simson,Estonian politician,Q6581072,female,1977-01-22T00:00:00Z,11,,
@@ -193,7 +193,7 @@ Q12371579,Oskar Kask,Estonian politician,Q6581097,male,1898-01-07T00:00:00Z,11,1
 Q2033805,Oskar Köster,Estonian politician,Q6581097,male,1890-12-20T00:00:00Z,11,1941-08-02T00:00:00Z,11
 Q16407298,Oskar Lõvi,,Q6581097,male,1892-03-06T00:00:00Z,11,1977-08-24T00:00:00Z,11
 Q16405639,Oskar Suursööt,Estonian politician,Q6581097,male,1893-05-30T00:00:00Z,11,1950-01-01T00:00:00Z,9
-Q887019,Otto Strandman,Estonian politician (1875-1941),Q6581097,male,1875-11-30T00:00:00Z,11,1941-02-05T00:00:00Z,11
+Q887019,Otto Strandman,Estonian politician,Q6581097,male,1875-11-30T00:00:00Z,11,1941-02-05T00:00:00Z,11
 Q1375532,Otto Tief,Prime Minister of Estonia (1889-1976),Q6581097,male,1889-08-14T00:00:00Z,11,1976-03-05T00:00:00Z,11
 Q17447029,Paavo Nõgene,,Q6581097,male,1980-03-13T00:00:00Z,11,,
 Q909010,Paul Kogerman,Estonian chemist and university teacher (1891-1951),Q6581097,male,1891-12-05T00:00:00Z,11,1951-07-27T00:00:00Z,11
