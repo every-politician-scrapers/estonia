@@ -46,7 +46,7 @@ Q355241,Edgar Savisaar,Estonian politician,Q6581097,male,1950-05-31T00:00:00Z,11
 Q450523,Eiki Nestor,Estonian politician,Q6581097,male,1953-09-05T00:00:00Z,11,,
 Q2063457,Eldar Efendijev,Estonian politician,Q6581097,male,1954-06-29T00:00:00Z,11,,
 Q1332782,Elmar Lipping,Estonian politician (1906-1994),Q6581097,male,1906-03-07T00:00:00Z,11,1994-01-05T00:00:00Z,11
-Q1340315,Endel Lippmaa,Estonian politician (1930-2015),Q6581097,male,1930-09-15T00:00:00Z,11,2015-07-30T00:00:00Z,11
+Q1340315,Endel Lippmaa,Estonian politician,Q6581097,male,1930-09-15T00:00:00Z,11,2015-07-30T00:00:00Z,11
 Q16407419,Enn Tupp,Estonian politician,Q6581097,male,1941-10-30T00:00:00Z,11,,
 Q12362302,Ernst Ein,Estonian politician,Q6581097,male,1898-12-28T00:00:00Z,11,1956-10-16T00:00:00Z,11
 Q16407915,Ervin Jüri Nõmmera,,Q6581097,male,1900-12-08T00:00:00Z,11,1988-11-12T00:00:00Z,11
@@ -79,7 +79,7 @@ Q16404252,Ilmar Mändmets,Estonian politician,Q6581097,male,1944-04-30T00:00:00Z
 Q12364503,Indrek Kannik,Estonian politician,Q6581097,male,1965-11-25T00:00:00Z,11,,
 Q16403371,Indrek Saar,Estonian politician and actor,Q6581097,male,1973-02-20T00:00:00Z,11,,
 Q1398025,Ivari Padar,Estonian politician,Q6581097,male,1965-03-12T00:00:00Z,11,,
-Q1375585,Jaak Aab,Estonian politician and former Minister of Social Affairs of Estonia,Q6581097,male,1960-04-09T00:00:00Z,11,,
+Q1375585,Jaak Aab,Estonian politician,Q6581097,male,1960-04-09T00:00:00Z,11,,
 Q253515,Jaak Aaviksoo,Estonian politician and physicist,Q6581097,male,1954-01-11T00:00:00Z,11,,
 Q1676747,Jaak Allik,Estonian politician,Q6581097,male,1946-10-08T00:00:00Z,11,,
 Q1676748,Jaak Jõerüüt,Estonian writer and politician,Q6581097,male,1947-12-09T00:00:00Z,11,,
@@ -123,7 +123,7 @@ Q13570003,Kadri Simson,Estonian politician,Q6581072,female,1977-01-22T00:00:00Z,
 Q13603999,Kaia Iva,Estonian politician,Q6581072,female,1964-04-28T00:00:00Z,11,,
 Q16405936,Kaido Kama,Estonian politician,Q6581097,male,1957-12-18T00:00:00Z,11,,
 Q73278011,Kaimar Karu,Estonian businessman and politician,Q6581097,male,1980-06-30T00:00:00Z,11,,
-Q11869065,Kaja Kallas,politician from Estonia,Q6581072,female,1977-06-18T00:00:00Z,11,,
+Q11869065,Kaja Kallas,Estonian politician,Q6581072,female,1977-06-18T00:00:00Z,11,,
 Q12366158,Kalev Kallo,Estonian politician and committed criminal,Q6581097,male,1948-12-06T00:00:00Z,11,,
 Q16404517,Kalev Kukk,Estonian politician,Q6581097,male,1951-06-03T00:00:00Z,11,,
 Q978349,Kalle Laanet,Estonian politician,Q6581097,male,1965-09-25T00:00:00Z,11,,
@@ -160,7 +160,7 @@ Q11049012,Mait Mihkel Mathiesen,Estonian politician,Q6581097,male,1949-12-28T00:
 Q509232,Maret Maripuu,Estonian politician,Q6581072,female,1974-07-16T00:00:00Z,11,,
 Q16403775,Margus Allikmaa,Estonian politician,Q6581097,male,1961-06-28T00:00:00Z,11,,
 Q6760839,Margus Hanson,Estonian politician,Q6581097,male,1958-01-06T00:00:00Z,11,,
-Q1783372,Margus Leivo,Estonian politician (1954-2019),Q6581097,male,1954-05-28T00:00:00Z,11,2019-08-21T00:00:00Z,11
+Q1783372,Margus Leivo,Estonian politician,Q6581097,male,1954-05-28T00:00:00Z,11,2019-08-21T00:00:00Z,11
 Q11716283,Margus Tsahkna,Estonian politician,Q6581097,male,1977-04-13T00:00:00Z,11,,
 Q439111,Marina Kaljurand,Estonian politician and badminton player,Q6581072,female,1962-09-06T00:00:00Z,11,,
 Q16405768,Maris Lauri,Estonian politician,Q6581072,female,1966-01-01T00:00:00Z,11,,
@@ -170,7 +170,7 @@ Q1453245,Mart Helme,"Estonian journalist, historian and diplomat",Q6581097,male,
 Q62930911,Mart Järvik,Estonian politician,Q6581097,male,1956-02-21T00:00:00Z,11,,
 Q307473,Mart Laar,Estonian politician and historian,Q6581097,male,1960-04-22T00:00:00Z,11,,
 Q1902900,Mart Opmann,Estonian politician,Q6581097,male,1956-03-27T00:00:00Z,11,,
-Q470939,Mart Siimann,Prime Minister of Estonia from 1997 to 1999,Q6581097,male,1946-09-21T00:00:00Z,11,,
+Q470939,Mart Siimann,Prime Minister of Estonia,Q6581097,male,1946-09-21T00:00:00Z,11,,
 Q62933420,Marti Kuusik,Estonian politician,Q6581097,male,1970-07-04T00:00:00Z,11,,
 Q12369924,Martin Helme,Estonian politician,Q6581097,male,1976-04-24T00:00:00Z,11,,
 Q20933560,Martin Repinski,Estonian politician,Q6581097,male,1986-08-06T00:00:00Z,11,,
@@ -245,7 +245,7 @@ Q24060017,Tiit Nuudi,Estonian politician,Q6581097,male,1949-10-22T00:00:00Z,11,,
 Q12376940,Tiit Tammsaar,Estonian politician,Q6581097,male,1951-11-07T00:00:00Z,11,,
 Q725427,Tiit Vähi,Estonian politician,Q6581097,male,1947-01-10T00:00:00Z,11,,
 Q544436,Tiiu Aro,Estonian politician,Q6581072,female,1952-06-18T00:00:00Z,11,,
-Q1565411,Toivo Asmer,Estonian politician,Q6581097,male,1947-01-08T00:00:00Z,11,,
+Q1565411,Toivo Asmer,Estonian racing driver and politician,Q6581097,male,1947-01-08T00:00:00Z,11,,
 Q2438863,Toivo Jürgenson,Estonian politician,Q6581097,male,1957-08-28T00:00:00Z,11,,
 Q16407429,Toivo Maimets,Estonian politician,Q6581097,male,1957-12-29T00:00:00Z,11,,
 Q7824113,Toomas Frey,Estonian scientist,Q6581097,male,1937-12-13T00:00:00Z,11,2020-09-23T00:00:00Z,11
