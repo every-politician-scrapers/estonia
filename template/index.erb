@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title><%= country %></title>
+  </head>
+  <body>
+    <%- table=CSV.table(csvfile) -%>
+    <h1><%= country %></h1>
+    <%- table.group_by { |row| row[:tab] }.each do |tab, rows| -%>
+    <table id="<%= tab %>">
+    <%- rows.group_by { |row| row[:title] }.each do |position, holders| -%>
+      <tr>
+        <td><%= position %></td>
+        <td><%= holders.map { |mem| mem[:personlabel] }.sort.join('<br />') %></td>
+      </tr>
+      <%- end -%>
+    </table>
+    <%- end -%>
+  </body>
+</html>
