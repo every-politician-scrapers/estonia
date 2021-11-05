@@ -1,4 +1,4 @@
-name: Mirror official site
+name: Mirror official cabinet site
 
 on:
   schedule:
@@ -11,13 +11,13 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install OS dependencies
       run: sudo apt-get install jq moreutils
-    - name: Mirror official site
-      run: curl -o html/official.html $(jq -r .source.url meta.json)
+    - name: Mirror official cabinet site
+      run: curl -o scraped/cabinet-official.html $(jq -r .cabinet.source.url meta.json)
     - name: Commit and push if changed
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add html
         timestamp=$(date -u)
-        git commit -m "Update html: ${timestamp}" || exit 0
+        git commit -m "Update cabinet html: ${timestamp}" || exit 0
         git push

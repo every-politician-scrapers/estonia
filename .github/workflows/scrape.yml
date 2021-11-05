@@ -1,4 +1,4 @@
-name: Compare current data
+name: Compare official cabinet data
 
 on:
   schedule:
@@ -18,20 +18,18 @@ jobs:
     - name: Install ruby dependencies
       run: bundle install
     - name: Scrape official site (mirrored earlier)
-      run: bundle exec ruby bin/scraper/official.rb | ifne tee data/official.csv
-    - name: Get current wikidata list
-      run: bundle exec ruby bin/scraper/wikidata.rb meta.json | ifne tee data/wikidata.csv
+      run: bundle exec ruby scrapers/cabinet-official.rb | ifne tee scraped/cabinet-official.csv
     - name: Generate diff
-      run: bundle exec ruby bin/diff.rb | tee data/diff.csv
+      run: bundle exec ruby bin/diff-cabinet-official.rb | tee diff/cabinet-official.csv
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
       with:
-        commit-message: Automated update
+        commit-message: Cabinet update
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
-        branch: data-update
+        branch: cabinet-update
         delete-branch: true
         title: 'Current member list'
         assignees: tmtmtmtm

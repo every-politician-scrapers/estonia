@@ -32,6 +32,6 @@ class MemberList
   end
 end
 
-file = Pathname.new 'html/official.html'
+file = Pathname.new 'scraped/cabinet-official.html'
 puts EveryPoliticianScraper::FileData.new(file).csv
 

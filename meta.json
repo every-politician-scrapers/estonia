@@ -6,14 +6,14 @@
     "cabinet": {
       "id": "Q105071498",
       "start": "2021-01-26",
-      "parent": "Q2421589"
-    },
-    "source": {
-      "url": "https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis",
-      "title": "Vabariigi Valitsuse 51. koosseis",
-      "lang": {
-        "code": "et",
-        "wikidata": "Q9072"
+      "parent": "Q2421589",
+      "source": {
+        "url": "https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis",
+        "title": "Vabariigi Valitsuse 51. koosseis",
+        "lang": {
+          "code": "et",
+          "wikidata": "Q9072"
+        }
       }
     },
     "agent": "every-politican-scrapers/estonia-cabinet"
