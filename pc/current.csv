@@ -1,124 +1,22 @@
-tab,title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image
-Executive,President,2021-10-11,Q12358575,Alar Karis,male,1958-03-26,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Alar%20Karis%20cropped.jpg
-Executive,Prime Minister,2021-01-26,Q11869065,Kaja Kallas,female,1977-06-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kaja%20Kallas%20%28crop%29.jpg
-Executive,Minister of Culture,2021-11-08,Q12376941,Tiit Terik,male,1979-06-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tiit%20Terik%202013.jpg
-Executive,Minister of Defence,2021-01-26,Q978349,Kalle Laanet,male,1965-09-25,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kalle%20Laanet%202021.jpg
-Executive,Minister of Education and Research,2021-01-26,Q20933509,Liina Kersna,female,1980-04-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Liina%20Kersna.jpg
-Executive,Minister of Entrepreneurship and Information Technology,2021-01-26,Q62975823,Andres Sutt,male,1967-11-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Andres%20Sutt.jpg
-Executive,Minister of the Environment,2021-01-26,Q62975984,Tõnis Mölder,male,1989-10-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B5nis%20M%C3%B6lder.jpg
-Executive,Minister of Finance,2021-01-26,Q458003,Keit Pentus-Rosimannus,female,1976-03-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Keit%20Pentus-Rosimannus%20%28crop%29.jpg
-Executive,Minister of Foreign Affairs,2021-01-26,Q105069608,Eva-Maria Liimets,female,1974-05-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Eva-Maria%20Liimets%20%28crop%29.jpg
-Executive,Minister of Health and Labour,2021-01-26,Q63383282,Tanel Kiik,male,1989-01-23,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tanel%20Kiik.jpg
-Executive,Minister of the Interior,2021-01-26,Q98122403,Kristian Jaani,male,1976-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristian%20Jaani%20%28crop%29.jpg
-Executive,Minister of Justice,2021-01-26,Q16405768,Maris Lauri,female,1966-01-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Maris%20Lauri.jpg
-Executive,Minister of Public Administration,2021-01-26,Q1375585,Jaak Aab,male,1960-04-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Jaak%20Aab%202017-06-09.jpg
-Executive,Minister of Rural Affairs,2021-01-26,Q3741429,Urmas Kruuse,male,1965-07-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Urmas%20Kruuse%20%28crop%29.jpg
-Executive,Minister of Social Protection,2021-01-26,Q64850482,Signe Riisalo,female,1968-10-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Signe%20Riisalo.jpg
-Executive,mayor of Tallinn,2019-04-11,Q4250802,Mihhail Kõlvart,male,1977-11-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Official%20photo%20of%20mayor%202019%20nr2.jpg
-Executive,mayor of Tartu,2014-04-08,Q13607430,Urmas Klaas,male,1971-03-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RE%20Urmas%20Klaas.jpg
-Executive,Auditor General,2018-03-07,Q61110563,Janar Holm,male,1976-01-01,9,,,
-Executive,Chancellor of Justice,2015-03-31,Q16407395,Ülle Madise,female,1974-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Clle%20Madise.jpg
-Executive,Commander of the Estonian Defence Forces,2018-12-05,Q28790814,Martin Herem,male,1973-12-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Herem%20%282021%29%20extract.jpg
-Executive,Governor of the Bank of Estonia,2019-06-07,Q61742853,Madis Müller,male,1977-01-20,11,,,
-Riigikogu,President of the Riigikogu,2021-03-18,Q2621730,Jüri Ratas,male,1978-07-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCri%20Ratas%202017-05.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q17446896,Yoko Alender,female,1979-06-13,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Alender%2C%20Yoko.IMG%202599.JPG
-Riigikogu,Member of the Riigikogu,2019-04-04,Q27430407,Raimond Kaljulaid,male,1982-01-27,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-04,Q29420141,Ruuben Kaalep,male,1993-09-21,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Ruuben%20Kaalep.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q53998188,Helle-Moonika Helme,female,1966-07-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Helle-Moonika%20Helme.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q62976118,Marek Jürgenson,male,1977-09-09,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-04,Q62976265,Merry Aart,female,1953-03-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Merry%20Aart.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q983831,Jürgen Ligi,male,1959-07-16,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCrgen%20Ligi%2C%202011.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12366820,Kersti Sarapuu,female,1954-05-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Kersti%20Sarapuu.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12372175,Peeter Ernits,male,1953-06-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Peeter%20Ernits.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16403371,Indrek Saar,male,1973-02-20,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Indrek%20Saar%202017-05-25.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16404020,Mihhail Korb,male,1980-08-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Korb%2C%20Mihhail.IMG%202249.JPG
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16405090,Henn Põlluaas,male,1960-02-16,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Henn%20P%C3%B5lluaas.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q62975881,Andrus Seeme,male,1969-11-08,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-04,Q62976151,Maria Jufereva-Skuratovski,female,1979-10-11,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-04,Q704436,Jüri Jaanson,male,1965-10-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RE%20J%C3%BCri%20Jaanson.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q1594612,Heiki Kranich,male,1961-10-09,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-04,Q1789192,Kristen Michal,male,1975-07-12,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristen%20Michal.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q3735691,Eerik-Niiles Kross,male,1967-09-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kross%2C%20Eerik-Niiles.IMG%202106.JPG
-Riigikogu,Member of the Riigikogu,2019-04-04,Q3739506,Üllar Saaremäe,male,1969-11-23,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Saarem%C3%A4e%20%C3%9Cllar.IMG%203346.JPG
-Riigikogu,Member of the Riigikogu,2019-04-04,Q11158997,Sven Sester,male,1969-07-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/IRL%20Sven%20Sester.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12358481,Aivar Sõerd,male,1964-11-22,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RE%20Aivar%20S%C3%B5erd.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12365130,Jevgeni Ossinovski,male,1986-03-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/SDE%20Jevgeni%20Ossinovski.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12369791,Marika Tuus-Laul,female,1951-05-12,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/KE%20Marika%20Tuus.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12378637,Viktor Vassiljev,male,1953-04-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/KE%20Viktor%20Vassiljev.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q13608089,Aivar Kokk,male,1960-04-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/IRL%20Aivar%20Kokk.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q20933560,Martin Repinski,male,1986-08-06,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Martin%20Repinski.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q156469,Siim Kallas,male,1948-10-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Siim%20Kallas%2C%20arvamusfestival%202014.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q460589,Vilja Toomast,female,1962-08-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Vilja%20Savisaar-Toomast.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q1398025,Ivari Padar,male,1965-03-12,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Ivari%20Padar%20at%20Laulupidu%20cropped.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12376376,Tarmo Tamm,male,1953-12-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/KE%20Tarmo%20Tamm.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16403802,Madis Milling,male,1970-11-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Madis%20Milling.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16404493,Heidy Purga,female,1975-03-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Heidy%20Purga.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16405450,Viktoria Ladõnskaja-Kubits,female,1981-07-20,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Viktoria%20Lad%C3%B5nskaja.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16406227,Raivo E. Tamm,male,1965-07-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Raivo%20E%20Tamm.IMG%2020200614%20120053.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16406609,Urmas Reitelmann,male,1958-07-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Urmas%20Reitelmann.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q20528493,Erki Savisaar,male,1978-06-16,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Erki%20Savisaar.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q29419731,Paul Puustusmaa,male,1964-01-01,9,,,http://commons.wikimedia.org/wiki/Special:FilePath/Paul%20Puustusmaa.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q42889094,Erkki Keldo,male,1990-11-07,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-04,Q2285186,Signe Kivi,female,1957-02-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Baltijas%20Asamblejas%2038.sesija%20%2849140855051%29.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q3744878,Leo Kunnas,male,1967-11-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Leo%20Kunnas.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12375092,Siret Kotka-Repinski,female,1986-07-27,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Siret%20Kotka.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q14483307,Heljo Pikhof,female,1958-10-20,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/SDE%20Heljo%20Pikhof.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q20528341,Uno Kaskpeit,male,1957-06-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Uno%20Kaskpeit.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q20933467,Dmitri Dmitrijev,male,1982-06-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Dmitri%20Dmitrijev.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q20933507,Jaanus Karilaid,male,1977-02-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Jaanus%20Karilaid.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q3736458,Ants Laaneots,male,1948-01-16,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Ants%20Laaneots.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q11857954,Enn Eesmaa,male,1946-06-07,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/KE%20Enn%20Eesmaa.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12363696,Hele Everaus,female,1953-01-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Hele%20Everaus.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q13628736,Helmen Kütt,female,1961-07-28,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/SDE%20Helmen%20K%C3%BCtt.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q16404443,Tarmo Kruusimäe,male,1967-04-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kruusim%C3%A4e.%20IMG%2020200827%20180615.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q231327,Kristina Šmigun-Vähi,female,1977-02-23,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristina%20%C5%A0migun%20Otep%C3%A4%C3%A4%20MK.JPG
-Riigikogu,Member of the Riigikogu,2019-04-04,Q528974,Kaido Höövelson,male,1984-11-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Baruto%20Kaito%202008%20May.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q2012757,Mihhail Lotman,male,1952-09-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Lotman%2C%20Mihhail.IMG%203151.JPG
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12358062,Aadu Must,male,1951-03-25,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/KE%20Aadu%20Must.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12359339,Anti Poolamets,male,1971-02-22,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Anti%20Poolamets.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12364786,Jaak Valge,male,1955-03-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Jaak%20Valge.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12377090,Toomas Kivimägi,male,1963-02-16,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Toomas%20Kivim%C3%A4gi.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q52704406,Riina Sikkut,female,1983-01-12,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Riina%20Sikkut.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q61111821,Siim Pohlak,male,1985-01-01,9,,,http://commons.wikimedia.org/wiki/Special:FilePath/Siim%20Pohlak.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q62976243,Riho Breivel,male,1952-08-26,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Riho%20Breivel.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q724437,Helir-Valdor Seeder,male,1964-09-07,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Helir-Valdor%20Seeder.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q1399218,Hanno Pevkur,male,1977-04-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Hanno%20Pevkur%2C%202011.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q1900847,Marko Mihkelson,male,1969-11-30,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/IRL%20Marko%20Mihkelson.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q3741812,Mihhail Stalnuhhin,male,1961-09-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/KE%20Mihhail%20Stalnuhhin.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q11032994,Urve Tiidus,female,1954-06-06,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RE%20Urve%20Tiidus.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12372782,Priit Sibul,male,1977-12-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Priit%20Sibul.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q20933540,Andres Metsoja,male,1978-11-25,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Andres%20Metsoja.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q28840779,Igor Kravtšenko,male,1973-03-28,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-04,Q618373,Annely Akkermann,female,1972-10-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/IRL%20Annely%20Akkermann.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q7909441,Valdo Randpere,male,1958-02-04,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RE%20Valdo%20Randpere.jpg
-Riigikogu,Member of the Riigikogu,2019-04-04,Q12366267,Kalvi Kõva,male,1974-11-16,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/SDE%20Kalvi%20K%C3%B5va.jpg
-Riigikogu,Member of the Riigikogu,2019-04-29,Q53998190,Natalia Malleus,female,1954-01-23,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-29,Q63473367,Heiki Hepner,male,1966-07-15,11,,,
-Riigikogu,Member of the Riigikogu,2019-04-29,Q12371725,Oudekki Loone,female,1979-02-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Loone%2C%20Oudekki.IMG%205044.JPG
-Riigikogu,Member of the Riigikogu,2019-04-29,Q4755832,Andrei Korobeinik,male,1980-11-05,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RE%20Andrei%20Korobeinik.jpg
-Riigikogu,Member of the Riigikogu,2019-04-29,Q63473688,Peeter Rahnel,male,1957-01-01,9,,,http://commons.wikimedia.org/wiki/Special:FilePath/Peeter%20Rahnel%20Mulgi%20peol%2026.05.2018.jpg
-Riigikogu,Member of the Riigikogu,2019-06-12,Q72398401,Kalle Grünthal,male,1960-02-24,11,,,
-Riigikogu,Member of the Riigikogu,2019-06-13,Q6109557,Jaak Juske,male,1976-12-12,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Juske%2C%20Jaak.20180308%20182216.jpg
-Riigikogu,Member of the Riigikogu,2019-06-13,Q12368349,Lauri Läänemets,male,1983-01-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Lauri%20L%C3%A4%C3%A4nemets.jpg
-Riigikogu,Member of the Riigikogu,2019-09-13,Q28071329,Marko Šorin,male,1974-06-09,11,,,
-Riigikogu,Member of the Riigikogu,2019-09-30,Q72398917,Mart Võrklaev,male,1984-05-30,11,,,
-Riigikogu,Member of the Riigikogu,2019-10-26,Q62976082,Kert Kingo,female,1968-03-05,11,,,
-Riigikogu,Member of the Riigikogu,2020-11-05,Q62934345,Rene Kokk,male,1980-03-04,11,,,
-Riigikogu,Member of the Riigikogu,2020-11-10,Q1453245,Mart Helme,male,1949-10-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Mart%20Helme.jpg
-Riigikogu,Member of the Riigikogu,2020-11-22,Q449851,Mailis Reps,female,1975-01-13,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Mailis%20Reps%202017-05-25.jpg
-Riigikogu,Member of the Riigikogu,2020-12-16,Q16407265,Marko Torm,male,1980-03-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Marko%20Torm%20portree.jpg
-Riigikogu,Member of the Riigikogu,2021-01-11,Q16407919,Eduard Odinets,male,1976-01-01,9,,,
-Riigikogu,Member of the Riigikogu,2021-01-26,Q2621730,Jüri Ratas,male,1978-07-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCri%20Ratas%202017-05.jpg
-Riigikogu,Member of the Riigikogu,2021-01-26,Q645970,Urmas Reinsalu,male,1975-06-22,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Urmas%20Reinsalu%202017-05-25%20%28cropped%29.jpg
-Riigikogu,Member of the Riigikogu,2021-01-26,Q16405586,Alar Laneman,male,1962-05-06,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Alar%20Laneman.jpg
-Riigikogu,Member of the Riigikogu,2021-01-27,Q107335464,Õnne Pillak,female,1983-02-23,11,,,
-Riigikogu,Member of the Riigikogu,2021-01-27,Q12369691,Margit Sutrop,female,1963-10-13,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Margit%20Sutrop%202014.JPG
-Riigikogu,Member of the Riigikogu,2021-01-27,Q12369924,Martin Helme,male,1976-04-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Helme%2C%20Martin.IMG%206116.JPG
-Riigikogu,Member of the Riigikogu,2021-01-27,Q12369996,Mati Raidma,male,1965-04-07,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RE%20Mati%20Raidma.jpg
-Riigikogu,Member of the Riigikogu,2021-01-27,Q16404987,Toomas Järveoja,male,1961-04-23,11,,,
-Riigikogu,Member of the Riigikogu,2021-01-27,Q20933595,Aivar Viidik,male,1968-04-09,11,,,
-Riigikogu,Member of the Riigikogu,2021-01-27,Q107335392,Timo Suslov,male,1981-07-02,11,,,
-Riigikogu,Member of the Riigikogu,2021-01-27,Q11023034,Ivi Eenmaa,female,1943-06-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Eenmaa%2C%20Ivi.IMG%200385.JPG
-Riigikogu,Member of the Riigikogu,2021-01-28,Q107335485,Sulev Kannimäe,male,1955-06-16,11,,,
-Riigikogu,Member of the Riigikogu,2021-03-06,Q544436,Tiiu Aro,female,1952-06-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Aro%20ja%20Tuisk.IMG%2020200625%20103514.jpg
-Riigikogu,Member of the Riigikogu,2021-11-04,Q22041600,Anneli Ott,female,1976-05-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Anneli%20Ott.jpg
+title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image
+President,2021-10-11,Q12358575,Alar Karis,male,1958-03-26,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Alar%20Karis%20cropped.jpg
+Prime Minister,2021-01-26,Q11869065,Kaja Kallas,female,1977-06-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kaja%20Kallas%20%28crop%29.jpg
+Minister of Culture,2021-11-08,Q12376941,Tiit Terik,male,1979-06-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tiit%20Terik%202013.jpg
+Minister of Defence,2021-01-26,Q978349,Kalle Laanet,male,1965-09-25,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kalle%20Laanet%202021.jpg
+Minister of Education and Research,2021-01-26,Q20933509,Liina Kersna,female,1980-04-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Liina%20Kersna.jpg
+Minister of Entrepreneurship and Information Technology,2021-01-26,Q62975823,Andres Sutt,male,1967-11-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Andres%20Sutt.jpg
+Minister of the Environment,2021-01-26,Q62975984,Tõnis Mölder,male,1989-10-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B5nis%20M%C3%B6lder.jpg
+Minister of Finance,2021-01-26,Q458003,Keit Pentus-Rosimannus,female,1976-03-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Keit%20Pentus-Rosimannus%20%28crop%29.jpg
+Minister of Foreign Affairs,2021-01-26,Q105069608,Eva-Maria Liimets,female,1974-05-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Eva-Maria%20Liimets%20%28crop%29.jpg
+Minister of Health and Labour,2021-01-26,Q63383282,Tanel Kiik,male,1989-01-23,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tanel%20Kiik.jpg
+Minister of the Interior,2021-01-26,Q98122403,Kristian Jaani,male,1976-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristian%20Jaani%20%28crop%29.jpg
+Minister of Justice,2021-01-26,Q16405768,Maris Lauri,female,1966-01-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Maris%20Lauri.jpg
+Minister of Public Administration,2021-01-26,Q1375585,Jaak Aab,male,1960-04-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Jaak%20Aab%202017-06-09.jpg
+Minister of Rural Affairs,2021-01-26,Q3741429,Urmas Kruuse,male,1965-07-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Urmas%20Kruuse%20%28crop%29.jpg
+Minister of Social Protection,2021-01-26,Q64850482,Signe Riisalo,female,1968-10-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Signe%20Riisalo.jpg
+Auditor General,2018-03-07,Q61110563,Janar Holm,male,1976-01-01,9,,,
+Chancellor of Justice,2015-03-31,Q16407395,Ülle Madise,female,1974-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Clle%20Madise.jpg
+Commander of the Estonian Defence Forces,2018-12-05,Q28790814,Martin Herem,male,1973-12-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Herem%20%282021%29%20extract.jpg
+Governor of the Bank of Estonia,2019-06-07,Q61742853,Madis Müller,male,1977-01-20,11,,,
+President of the Riigikogu,2021-03-18,Q2621730,Jüri Ratas,male,1978-07-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCri%20Ratas%202017-05.jpg
+Mayor of Tallinn,2019-04-11,Q4250802,Mihhail Kõlvart,male,1977-11-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Official%20photo%20of%20mayor%202019%20nr2.jpg

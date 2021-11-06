@@ -1,26 +1,24 @@
-tab,position,title,slug
-Executive,Q890005,President,president
-Executive,Q737115,Prime Minister,prime-minister
-Executive,Q16402952,Minister of Culture,culture
-Executive,Q3741249,Minister of Defence,defence
-Executive,Q6866110,Minister of Education and Research,education
-Executive,Q20933474,Minister of Entrepreneurship and Information Technology,technology
-Executive,Q12361541,Minister of the Environment,environment
-Executive,Q21103025,Minister of Finance,finance
-Executive,Q1760777,Minister of Foreign Affairs,foreign
-Executive,Q24060082,Minister of Health and Labour,health
-Executive,Q6866431,Minister of the Interior,interior
-Executive,Q20528230,Minister of Justice,justice
-Executive,Q20528404,Minister of Public Administration,public-administration
-Executive,Q106996576,Minister of Reform,reform
-Executive,Q23268238,Minister of Regional Affairs,regional
-Executive,Q24060239,Minister of Rural Affairs,rural
-Executive,Q24060088,Minister of Social Protection,social
-Executive,Q3740505,mayor of Tallinn,tallinn-mayor
-Executive,Q6627739,mayor of Tartu,tartu-mayor
-Executive,Q20528241,Auditor General,auditor-general
-Executive,Q14564648,Chancellor of Justice,chancellor-of-justice
-Executive,Q16409416,Commander of the Estonian Defence Forces,edf-commander
-Executive,Q20529053,Governor of the Bank of Estonia,central-bank
-Riigikogu,Q16412384,President of the Riigikogu,speaker
-Riigikogu,Q61976148,Member of the Riigikogu,riigikogu
+position,title
+Q890005,President
+Q737115,Prime Minister
+Q16402952,Minister of Culture
+Q3741249,Minister of Defence
+Q6866110,Minister of Education and Research
+Q20933474,Minister of Entrepreneurship and Information Technology
+Q12361541,Minister of the Environment
+Q21103025,Minister of Finance
+Q1760777,Minister of Foreign Affairs
+Q24060082,Minister of Health and Labour
+Q6866431,Minister of the Interior
+Q20528230,Minister of Justice
+Q20528404,Minister of Public Administration
+Q106996576,Minister of Reform
+Q23268238,Minister of Regional Affairs
+Q24060239,Minister of Rural Affairs
+Q24060088,Minister of Social Protection
+Q20528241,Auditor General
+Q14564648,Chancellor of Justice
+Q16409416,Commander of the Estonian Defence Forces
+Q20529053,Governor of the Bank of Estonia
+Q16412384,President of the Riigikogu
+Q3740505,Mayor of Tallinn

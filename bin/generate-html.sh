@@ -23,9 +23,9 @@ qsv dedup -s person -D wikidata/results/extraneous-bios.csv $SORTED_BIOS > $UNIQ
 
 # Generate current.csv
 qsv join position pc/wanted-positions.csv position $HOLDERS |
-  qsv select tab,position,title,slug,person,start > $TMPFILE
+  qsv select position,title,person,start > $TMPFILE
 qsv join person $TMPFILE person $UNIQUE_BIOS |
-  qsv select tab,title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image |
+  qsv select title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image |
   ifne tee pc/current.csv
 
 # Generate HTML
