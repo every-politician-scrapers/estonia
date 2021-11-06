@@ -6,7 +6,7 @@ SORTED_BIOS=$(mktemp)
 UNIQUE_BIOS=$(mktemp)
 
 # Current holders of each wanted position
-qsv select position pc/wanted-positions.csv |
+qsv select position wikidata/wanted-positions.csv |
   qsv behead |
   xargs wd sparql bin/holders.js -f csv > $TMPFILE
 sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' $TMPFILE > $HOLDERS
@@ -22,12 +22,12 @@ sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' $TMPFILE > $S
 qsv dedup -s person -D wikidata/results/extraneous-bios.csv $SORTED_BIOS > $UNIQUE_BIOS
 
 # Generate current.csv
-qsv join position pc/wanted-positions.csv position $HOLDERS |
+qsv join position wikidata/wanted-positions.csv position $HOLDERS |
   qsv select position,title,person,start > $TMPFILE
 qsv join person $TMPFILE person $UNIQUE_BIOS |
   qsv select title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image |
-  ifne tee pc/current.csv
+  ifne tee html/current.csv
 
 # Generate HTML
-erb country=$(jq -r .jurisdiction.name meta.json) csvfile=pc/current.csv -r csv -T- template/index.erb |
-  ifne tee pc/index.html
+erb country=$(jq -r .jurisdiction.name meta.json) csvfile=html/current.csv -r csv -T- template/index.erb |
+  ifne tee html/index.html
