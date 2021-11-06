@@ -1,0 +1,24 @@
+body {
+  background-color: linen;
+  font-family: Verdana;
+}
+
+h1, h2, h3, h4, h5, h6 {font-family: Georgia }
+
+table {
+  border-collapse: separate;
+  border-spacing: 20px 4px;
+}
+td { text-indent: 20px }
+
+td.download {
+  padding: 10px;
+  text-align: right;
+}
+
+td.download a {
+  font-size: 125%;
+  text-decoration: none
+}
+
+

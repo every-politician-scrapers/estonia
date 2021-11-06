@@ -1,6 +1,9 @@
+<meta charset="UTF-8">
 <html>
   <head>
     <title><%= country %></title>
+    <script src="https://kit.fontawesome.com/fa7d412e6b.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="stylesheet.css">
   </head>
   <body>
     <%- table=CSV.table(csvfile) -%>
@@ -12,7 +15,9 @@
         <td><%= holders.map { |mem| mem[:personlabel] }.sort.join('<br />') %></td>
       </tr>
       <%- end -%>
+      <tr>
+        <td colspan="2" class="download"><a class="fas fa-file-download" href="current.csv"> CSV</a></td>
+      </tr>
     </table>
-    <div id="csv"><a href="current.csv">CSV</a></div>
   </body>
 </html>
