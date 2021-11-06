@@ -25,13 +25,13 @@ jobs:
       id: cpr
       uses: peter-evans/create-pull-request@v3
       with:
-        commit-message: Legislature update
+        commit-message: Update legislature membership
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: legislature-update
         delete-branch: true
-        title: 'Current member list'
+        title: 'Current Riigikogu list'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs

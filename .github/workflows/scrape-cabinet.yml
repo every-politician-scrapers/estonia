@@ -25,13 +25,13 @@ jobs:
       id: cpr
       uses: peter-evans/create-pull-request@v3
       with:
-        commit-message: Cabinet update
+        commit-message: Update cabinet membership
         committer: GitHub <noreply@github.com>
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: cabinet-update
         delete-branch: true
-        title: 'Current member list'
+        title: 'Current cabinet members'
         assignees: tmtmtmtm
         reviewers: tmtmtmtm
     - name: Check outputs
