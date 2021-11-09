@@ -22,7 +22,14 @@ qsv select person $HOLDERS |
 
 # TODO: prioritise 'preferred'
 echo "id,name,gender,dob,dod,image" > $BIO_CSV
-jq -r '[.id, .labels.en, .claims.P21[0].value, .claims.P569[0].value, .claims.P570[0].value, .claims.P18[0].value] | @csv' $RAWBIOS |
+jq -r '[
+    .id,
+    .labels.en,
+    (.claims.P21 | sort_by(.rank) | reverse | first.value),
+    (.claims.P569 | sort_by(.rank) | reverse | first.value),
+    (.claims.P570 | sort_by(.rank) | reverse | first.value),
+    (.claims.P18 | sort_by(.rank) | reverse | first.value)
+  ] | @csv' $RAWBIOS |
   sed -e 's/Q6581097/male/' -e 's/Q6581072/female/' >> $BIO_CSV
 
 # Generate current.csv
