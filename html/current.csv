@@ -1,26 +1,26 @@
-title,start,person,personLabel,genderLabel,dob,dobPrecision,dod,dodPrecision,image
-President,2021-10-11,Q12358575,Alar Karis,male,1958-03-26,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Alar%20Karis%20cropped.jpg
-Prime Minister,2021-01-26,Q11869065,Kaja Kallas,female,1977-06-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kaja%20Kallas%20%28crop%29.jpg
-Minister of Culture,2021-11-08,Q12376941,Tiit Terik,male,1979-06-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tiit%20Terik%202013.jpg
-Minister of Defence,2021-01-26,Q978349,Kalle Laanet,male,1965-09-25,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kalle%20Laanet%202021.jpg
-Minister of Education and Research,2021-01-26,Q20933509,Liina Kersna,female,1980-04-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Liina%20Kersna.jpg
-Minister of Entrepreneurship and Information Technology,2021-01-26,Q62975823,Andres Sutt,male,1967-11-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Andres%20Sutt.jpg
-Minister of the Environment,2021-01-26,Q62975984,Tõnis Mölder,male,1989-10-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B5nis%20M%C3%B6lder.jpg
-Minister of Finance,2021-01-26,Q458003,Keit Pentus-Rosimannus,female,1976-03-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Keit%20Pentus-Rosimannus%20%28crop%29.jpg
-Minister of Foreign Affairs,2021-01-26,Q105069608,Eva-Maria Liimets,female,1974-05-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Eva-Maria%20Liimets%20%28crop%29.jpg
-Minister of Health and Labour,2021-01-26,Q63383282,Tanel Kiik,male,1989-01-23,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tanel%20Kiik.jpg
-Minister of the Interior,2021-01-26,Q98122403,Kristian Jaani,male,1976-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristian%20Jaani%20%28crop%29.jpg
-Minister of Justice,2021-01-26,Q16405768,Maris Lauri,female,1966-01-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Maris%20Lauri.jpg
-Minister of Public Administration,2021-01-26,Q1375585,Jaak Aab,male,1960-04-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Jaak%20Aab%202017-06-09.jpg
-Minister of Rural Affairs,2021-01-26,Q3741429,Urmas Kruuse,male,1965-07-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Urmas%20Kruuse%20%28crop%29.jpg
-Minister of Social Protection,2021-01-26,Q64850482,Signe Riisalo,female,1968-10-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Signe%20Riisalo.jpg
-Auditor General,2018-03-07,Q61110563,Janar Holm,male,1976-01-01,9,,,
-Chancellor of Justice,2015-03-31,Q16407395,Ülle Madise,female,1974-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Clle%20Madise.jpg
-Commander of the Estonian Defence Forces,2018-12-05,Q28790814,Martin Herem,male,1973-12-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Herem%20%282021%29%20extract.jpg
-Governor of the Bank of Estonia,2019-06-07,Q61742853,Madis Müller,male,1977-01-20,11,,,
-President of the Riigikogu,2021-03-18,Q2621730,Jüri Ratas,male,1978-07-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCri%20Ratas%202017-05.jpg
-Mayor of Tallinn,2019-04-11,Q4250802,Mihhail Kõlvart,male,1977-11-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Official%20photo%20of%20mayor%202019%20nr2.jpg
-Ambassador to Finland,2020-10-22,Q16412204,Sven Sakkov,male,1971-09-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/EU%20cyber%20security%20conference%202017%20%2837383454305%29.jpg
-Ambassador to Russia,2018-01-01,Q1768297,Margus Laidre,male,1959-09-18,11,,,
-Ambassador to Sweden,2019-01-01,Q6760838,Margus Kolga,male,1966-05-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Margus%20Kolga%202012.jpg
-Ambassador to the United States,2021-05-01,Q61400279,Kristjan Prikk,male,1977-02-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristjan%20Prikk%20in%202019.jpg
+position,person,personID,start,gender,DOB,dobp,DOD,dodp,image
+President,Alar Karis,Q12358575,2021-10-11,male,1958-03-26,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Alar%20Karis%20cropped.jpg
+Prime Minister,Kaja Kallas,Q11869065,2021-01-26,female,1977-06-18,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kaja%20Kallas%20%28crop%29.jpg
+Minister of Culture,Tiit Terik,Q12376941,2021-11-08,male,1979-06-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tiit%20Terik%202013.jpg
+Minister of Defence,Kalle Laanet,Q978349,2021-01-26,male,1965-09-25,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kalle%20Laanet%202021.jpg
+Minister of Education and Research,Liina Kersna,Q20933509,2021-01-26,female,1980-04-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Liina%20Kersna.jpg
+Minister of Entrepreneurship and Information Technology,Andres Sutt,Q62975823,2021-01-26,male,1967-11-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Andres%20Sutt.jpg
+Minister of the Environment,Tõnis Mölder,Q62975984,2021-01-26,male,1989-10-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/T%C3%B5nis%20M%C3%B6lder.jpg
+Minister of Finance,Keit Pentus-Rosimannus,Q458003,2021-01-26,female,1976-03-03,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Keit%20Pentus-Rosimannus%20%28crop%29.jpg
+Minister of Foreign Affairs,Eva-Maria Liimets,Q105069608,2021-01-26,female,1974-05-31,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Eva-Maria%20Liimets%20%28crop%29.jpg
+Minister of Health and Labour,Tanel Kiik,Q63383282,2021-01-26,male,1989-01-23,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Tanel%20Kiik.jpg
+Minister of the Interior,Kristian Jaani,Q98122403,2021-01-26,male,1976-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristian%20Jaani%20%28crop%29.jpg
+Minister of Justice,Maris Lauri,Q16405768,2021-01-26,female,1966-01-01,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/RK%20Maris%20Lauri.jpg
+Minister of Public Administration,Jaak Aab,Q1375585,2021-01-26,male,1960-04-09,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Jaak%20Aab%202017-06-09.jpg
+Minister of Rural Affairs,Urmas Kruuse,Q3741429,2021-01-26,male,1965-07-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Urmas%20Kruuse%20%28crop%29.jpg
+Minister of Social Protection,Signe Riisalo,Q64850482,2021-01-26,female,1968-10-08,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Signe%20Riisalo.jpg
+Auditor General,Janar Holm,Q61110563,2018-03-07,male,1976-01-01,9,,,
+Chancellor of Justice,Ülle Madise,Q16407395,2015-03-31,female,1974-12-11,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/%C3%9Clle%20Madise.jpg
+Commander of the Estonian Defence Forces,Martin Herem,Q28790814,2018-12-05,male,1973-12-17,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Martin%20Herem%20%282021%29%20extract.jpg
+Governor of the Bank of Estonia,Madis Müller,Q61742853,2019-06-07,male,1977-01-20,11,,,
+President of the Riigikogu,Jüri Ratas,Q2621730,2021-03-18,male,1978-07-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%BCri%20Ratas%202017-05.jpg
+Mayor of Tallinn,Mihhail Kõlvart,Q4250802,2019-04-11,male,1977-11-24,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Official%20photo%20of%20mayor%202019%20nr2.jpg
+Ambassador to Finland,Sven Sakkov,Q16412204,2020-10-22,male,1971-09-14,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/EU%20cyber%20security%20conference%202017%20%2837383454305%29.jpg
+Ambassador to Russia,Margus Laidre,Q1768297,2018-01-01,male,1959-09-18,11,,,
+Ambassador to Sweden,Margus Kolga,Q6760838,2019-01-01,male,1966-05-02,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Margus%20Kolga%202012.jpg
+Ambassador to the United States,Kristjan Prikk,Q61400279,2021-05-01,male,1977-02-15,11,,,http://commons.wikimedia.org/wiki/Special:FilePath/Kristjan%20Prikk%20in%202019.jpg
