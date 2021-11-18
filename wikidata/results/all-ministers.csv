@@ -59,7 +59,7 @@ Q725322,August Rei,Q12372129,Prime Minister in duties of the President,1945-01-0
 Q12360291,Bernhard Roostfeld,Q16402880,Minister of Agricultural Work,,,,,,,,,,,,,,,Q12360291-EEB2D6F2-513C-46C9-AA5F-E95854D4C2FE
 Q3539685,Christian Kaarna,Q16402881,Minister of Social Affairs,,,,,,,,,,,,,,,Q3539685-65C828BA-AEB1-4EFA-881B-979F2DF16C1D
 Q355241,Edgar Savisaar,Q21121665,Minister of Economic Affairs and Communications,2005-04-13,2007-04-05,,,,Q57640,Andrus Ansip,Q312894,Juhan Parts,,,,,,Q355241-08ce325c-4cdf-44b2-6925-5ecca095d81a
-Q355241,Edgar Savisaar,Q6866431,Minister of the Interior,1995-04-12,1995-10-10,,,,Q16405936,Kaido Kama,Q659781,Märt Rask,,,,,,Q355241-4ef64207-45eb-e884-1ac7-2b7a11caecc2
+Q355241,Edgar Savisaar,Q6866431,Minister of the Interior,1995-04-12,1995-10-10,,,,Q16405936,Kaido Kama,Q659781,Märt Rask,,,https://www.riigiteataja.ee/akt/13146319,,,Q355241-4ef64207-45eb-e884-1ac7-2b7a11caecc2
 Q355241,Edgar Savisaar,Q737115,Prime Minister of Estonia,1991-08-20,1992-01-29,,,,Q1375532,Otto Tief,Q725427,Tiit Vähi,,,,,,Q355241-9A0359E1-35F7-4A19-9B2C-250279839BEF
 Q450523,Eiki Nestor,Q16402881,Minister of Social Affairs,1999-03-25,2002-01-28,,,,,,,,,,,,,Q450523-6CAAE69F-3CDB-4AB7-BC09-B58CB11062D3
 Q2063457,Eldar Efendijev,Q24061775,Minister of Population and Ethnic Affairs,2002-01-28,2003-04-10,,,,,,,,,,,,,Q2063457-b65fce96-4aea-bf21-cc37-f77801e79f2f
@@ -67,6 +67,7 @@ Q1332782,Elmar Lipping,Q1760777,Minister of Foreign Affairs,,,,,,,,,,,,,,,Q13327
 Q1340315,Endel Lippmaa,Q24254211,Minister of European Integration,1995-11-17,1996-08-06,,,,,,,,,,,,,Q1340315-4f848520-48b0-601a-4d7f-10f691dd32d2
 Q1340315,Endel Lippmaa,Q24067751,minister without portfolio,1990-01-01,1992-01-01,,,,,,,,,,,,,Q1340315-09df9c9c-4d4a-7dd5-7e90-629adbde974b
 Q16407419,Enn Tupp,Q3741249,Minister of Defence,1994-06-01,1995-04-01,,,,,,,,,,,,,Q16407419-6EC63FDA-45EF-4A25-A505-DC02FC616B25
+Q20528493,Erki Savisaar,Q12361541,Minister of the Environment,2021-11-18,,,,,Q62975984,Tõnis Mölder,,,,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,Erki Savisaar,Keskkonnaminister,Q20528493-2ef7a58d-4a1c-a651-0e9f-a1f1af7c6a94
 Q12362302,Ernst Ein,Q6866431,Minister of the Interior,1933-10-03,1933-10-21,,,,,,,,,,,,,Q12362302-38EE7AAC-8339-4013-8D0C-1F4CE555372B
 Q16407915,Ervin Jüri Nõmmera,Q21103025,Minister of Finance,,,,,,,,,,,,,,,Q16407915-C54BB9B4-71DB-4FB7-AAA2-A86824FF7DE7
 Q293175,Ester Tuiksoo,Q16405106,Minister of Agriculture,2004-04-05,2007-04-05,,,,,,,,,,,,,Q293175-721FE916-F955-4301-BBD4-E27AE4953625
@@ -368,7 +369,7 @@ Q886992,Tõnis Kint,Q12372129,Prime Minister in duties of the President,1970-12-
 Q1149033,Tõnis Lukas,Q16402952,Minister of Culture,2019-04-29,2021-01-26,Q63343147,Jüri Ratas' second cabinet,,,,Q22041600,Anneli Ott,,,,,,Q1149033-0ce65adf-448b-0dc1-865e-c45c334a1066
 Q1149033,Tõnis Lukas,Q6866110,Minister of Education and Research,1999-03-25,2002-01-28,,,,,,,,,,,,,Q1149033-edd686af-409e-8bd9-f233-982c7c44cffe
 Q1149033,Tõnis Lukas,Q6866110,Minister of Education and Research,2007-04-05,2011-04-05,,,,,,,,,,,,,Q1149033-ad8ad95e-4b85-d7ef-6ec4-73f9d5ed96f7
-Q62975984,Tõnis Mölder,Q12361541,Minister of the Environment,2021-01-26,,Q105071498,Kaja Kallas' cabinet,,Q103205431,Rain Epler,,,,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,Tõnis Mölder,Keskkonnaminister,Q62975984-50cbe508-46c6-5380-ad81-5e1a336d5ee4
+Q62975984,Tõnis Mölder,Q12361541,Minister of the Environment,2021-01-26,2021-11-18,Q105071498,Kaja Kallas' cabinet,,Q103205431,Rain Epler,Q20528493,Erki Savisaar,,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,Tõnis Mölder,Keskkonnaminister,Q62975984-50cbe508-46c6-5380-ad81-5e1a336d5ee4
 Q743319,Tõnis Palts,Q21103025,Minister of Finance,2003-04-10,2003-10-06,,,,,,Q441874,Taavi Veskimägi,,,,,,Q743319-CC03C377-A148-4C3A-9714-34E1244F8EDE
 Q7900720,Urmas Arumäe,Q20528230,Minister of Justice,1994-06-02,1994-11-08,,,,Q16405936,Kaido Kama,,,,,,,,Q7900720-083586E3-3483-438E-AB07-948F84CBB461
 Q3741429,Urmas Kruuse,Q24060082,Minister of Health and Labour,2014-03-26,2015-03-30,,,,Q3785077,Taavi Rõivas,Q12373563,Rannar Vassiljev,,,,,,Q3741429-aa3fff4f-4b6e-deb5-0324-6575b1e6efa5
