@@ -647,9 +647,11 @@
                 "page": "Estonian Wikipedia"
               },
               {
-                "text": "Keit Pentus",
-                "type": "internal",
-                "page": ":et:Keit Pentus"
+                "type": "interwiki",
+                "wiki": {
+                  "wiki": "",
+                  "lang": "et"
+                }
               }
             ],
             "formatting": {
