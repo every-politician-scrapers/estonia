@@ -1,0 +1,224 @@
+{
+  "title": "Kristian Jaani",
+  "pageID": 66522177,
+  "categories": [
+    "Living people",
+    "1976 births",
+    "Politicians from Tallinn",
+    "Government ministers of Estonia",
+    "21st-century Estonian politicians",
+    "Ministers of the Interior of Estonia",
+    "Estonian police officers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kristian Jaani (born 11 December 1976) is an Estonian politician and a former high-ranking police officer.",
+              "formatting": {
+                "bold": [
+                  "Kristian Jaani"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Minister of the Interior in the cabinet of Prime Minister Kaja Kallas.",
+              "links": [
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Estonia)"
+                },
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Kaja Kallas' cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kaja Kallas"
+                }
+              ]
+            },
+            {
+              "text": "He was nominated by the Centre Party as an independent in January 2021 and officially joined the party on 9 June 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He graduated with degrees in police and internal security at the Estonian Academy of Security Sciences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Estonian Academy of Security Sciences"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1976",
+          "month": "12",
+          "day": "11",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kristian Jaani"
+          },
+          "image": {
+            "text": "Kristian Jaani (crop).jpg"
+          },
+          "office": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Ministry of the Interior (Estonia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Kaja Kallas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaja Kallas"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 January 2021"
+          },
+          "predecessor": {
+            "text": "Alar Laneman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alar Laneman"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent (2021) Centre Party (2021-present)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              },
+              {
+                "text": "Centre Party",
+                "type": "internal",
+                "page": "Estonian Centre Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 11, 1976"
+          },
+          "birth_place": {
+            "text": "Tallinn, Estonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tallinn"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Estonian Academy of Security Sciences",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Estonian Academy of Security Sciences"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Foreign, interior ministers join Center Party",
+          "url": "https://news.err.ee/1608240036/foreign-interior-ministers-join-center-party",
+          "publisher": "ERR News",
+          "access-date": "9 June 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Kristian Jaani",
+          "url": "https://www.valitsus.ee/en/prime-minister-ministers/minister-interior-kristian-jaani",
+          "url-status": "live",
+          "access-date": "27 January 2021",
+          "website": "Estonian Government",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "26 January 2021",
+          "title": "Who's who: Estonia's new government",
+          "work": "ERR",
+          "url": "https://news.err.ee/1608084379/who-s-who-estonia-s-new-government",
+          "url-status": "live",
+          "access-date": "27 January 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Alar Laneman",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of the Interior",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

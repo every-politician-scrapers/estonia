@@ -1,0 +1,154 @@
+{
+  "title": "Madis Müller",
+  "pageID": 67070995,
+  "categories": [
+    "Living people",
+    "1977 births",
+    "Estonian bankers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Madis Müller (born 20 January 1977 in Tallinn) is an Estonian banker.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tallinn"
+                },
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Madis Müller"
+                ]
+              }
+            },
+            {
+              "text": "Since 2019, he is the chairman of the Bank of Estonia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bank of Estonia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian banker",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "title": "Madis Müller",
+          "url": "https://www.eestipank.ee/en/madis-muller",
+          "website": "Eesti Pank",
+          "access-date": "11 March 2021",
+          "language": "en",
+          "date": "29 October 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A former government and World Bank advisor, Müller served as the deputy chairman of the Bank of Estonia from 2011 to 2019."
+            },
+            {
+              "text": "In this capacity, he was responsible for the implementation of monetary policy decisions and for managing the central bank’s financial assets."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "European Central Bank (ECB), Ex-Officio Member of the Governing Council (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "European Central Bank"
+              },
+              {
+                "text": "Governing Council",
+                "type": "internal",
+                "page": "Governing Council of the European Central Bank"
+              }
+            ]
+          },
+          {
+            "text": "International Monetary Fund (IMF), Ex-Officio Member of the Board of Governors (since 2019)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "International Monetary Fund"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "3"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "estonia-bio-stub"
+        }
+      ]
+    }
+  ]
+}

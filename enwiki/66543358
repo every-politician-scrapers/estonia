@@ -1,0 +1,356 @@
+{
+  "title": "Andres Sutt",
+  "pageID": 66543358,
+  "categories": [
+    "Living people",
+    "1967 births",
+    "Politicians from Tartu",
+    "Government ministers of Estonia",
+    "Estonian Reform Party politicians",
+    "21st-century Estonian politicians",
+    "Members of the Riigikogu, 2019–2023",
+    "University of Tartu alumni",
+    "Harvard Law School alumni",
+    "Recipients of the Order of the White Star, 3rd Class"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andres Sutt (born 11 November 1967) is an Estonian politician.",
+              "links": [
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andres Sutt"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Minister of Entrepreneurship and Information Technology in the cabinet of Prime Minister Kaja Kallas.",
+              "links": [
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Kaja Kallas' cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kaja Kallas"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sutt graduated cum laude from the University of Tartu in 1993 with a degree in economics and finance.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tartu"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "cum laude"
+                ]
+              }
+            },
+            {
+              "text": "In 2008, he graduated from the Advanced Management Program from INSEAD, and in 2015 with a degree in Negotiations and Leadership from Harvard Law School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "INSEAD"
+                },
+                {
+                  "type": "internal",
+                  "page": "Harvard Law School"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 1992 to 1993, Sutt was the Chief Specialist of Eesti Pank's Central Bank Policy Department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eesti Pank"
+                }
+              ]
+            },
+            {
+              "text": "From 1993 to 1996, the Deputy Head of the Banking Supervision Department, and from 1997 to 1999 Deputy Head of the Central Bank Policy Department."
+            },
+            {
+              "text": "From 1999 until 2001, he was the Adviser to the Executive Director of the International Monetary Fund’s (IMF) Nordic-Baltic Constituency and Member of the Board of Directors from 2009 until 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Monetary Fund"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Senior Adviser to the Executive Director of the European Financial Stability Facility (EFSF) from 2012 to 2013 and Head of the Banking Division of the European Stability Mechanism (ESM) from 2013 to 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Financial Stability Facility"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Stability Mechanism"
+                }
+              ]
+            },
+            {
+              "text": "From 2017 to 2018, he worked as the Director of Regulatory Relations of Eesti Energia and as a member of the Management Board of the company.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eesti Energia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2008, he was awarded the Order of the White Star, Class III.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of the White Star"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Andres Sutt 2021. aastal Arvamusfestivalil.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Andres_Sutt_2021._aastal_Arvamusfestivalil.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Andres_Sutt_2021._aastal_Arvamusfestivalil.jpg",
+          "caption": "Andres Sutt at the Opinion Festival 2021 in Paide, Estonia",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1967",
+          "month": "11",
+          "day": "11",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Andres Sutt"
+          },
+          "image": {
+            "text": "Andres Sutt (crop).jpg"
+          },
+          "caption": {
+            "text": "Andres Sutt in 2021"
+          },
+          "office": {
+            "text": "Minister of Entrepreneurship and Information Technology",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Entrepreneurship and Information Technology"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Kaja Kallas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaja Kallas"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 January 2021"
+          },
+          "predecessor": {
+            "text": "Raul Siem",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Raul Siem"
+              }
+            ]
+          },
+          "party": {
+            "text": "Reform Party",
+            "links": [
+              {
+                "text": "Reform Party",
+                "type": "internal",
+                "page": "Estonian Reform Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 11, 1967"
+          },
+          "birth_place": {
+            "text": "Tartu, Estonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tartu"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tartu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tartu"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Sutt: tunnetan, mis Eestile korda läheb",
+          "url": "https://majandus24.postimees.ee/590042/sutt-tunnetan-mis-eestile-korda-laheb",
+          "first": "Andrus",
+          "last": "Karnau",
+          "date": "7 October 2011",
+          "access-date": "30 January 2021",
+          "work": "Postimees",
+          "language": "et",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "CV",
+          "url": "https://www.energia.ee/-/doc/8457332/ettevottest/pdf/andres_sutt_cv_eng.pdf",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210130192326/https://www.energia.ee/-/doc/8457332/ettevottest/pdf/andres_sutt_cv_eng.pdf",
+          "archive-date": "30 January 2021",
+          "access-date": "30 January 2021",
+          "website": "Eesti Energia",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Andres Sutt",
+          "url": "https://www.valitsus.ee/en/prime-minister-ministers/minister-entrepreneurship-and-information-technology-andres-sutt",
+          "url-status": "live",
+          "access-date": "29 January 2021",
+          "website": "Estonia Government",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "24 January 2021",
+          "title": "Kallas: We tried to put together a balanced government",
+          "work": "ERR",
+          "url": "https://news.err.ee/1608084472/kallas-we-tried-to-put-together-a-balanced-government",
+          "url-status": "live",
+          "access-date": "29 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Andres Sutt",
+          "url": "https://www.sihtasutus.ut.ee/sihtasutusest/juhtimine/andres-sutt-1",
+          "access-date": "29 January 2021",
+          "website": "Tartu Ülikooli Sihtasutus",
+          "language": "et",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ettevõtlus- ja infotehnoloogiaminister Andres Sutt",
+          "url": "https://www.mkm.ee/et/ministeerium-kontaktid/ettevotlus-ja-infotehnoloogiaminister-andres-sutt",
+          "access-date": "30 January 2021",
+          "website": "Majandus- ja Kommunikatsiooniministeerium",
+          "language": "et",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Teenetemärkide kavalerid",
+          "url": "https://www.president.ee/et/vabariik/teenetemargid/kavaler/5486/*",
+          "access-date": "30 January 2021",
+          "website": "Vabariigi President",
+          "language": "et",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Raul Siem",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Entrepreneurship and Information Technology",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

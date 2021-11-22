@@ -1,0 +1,104 @@
+{
+  "title": "Janar Holm",
+  "pageID": 67085582,
+  "categories": [
+    "Living people",
+    "1976 births",
+    "Estonian civil servants"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Janar Holm (born 17 August 1976 in Kuressaare) is an Estonian civil servant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kuressaare"
+                },
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Janar Holm"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since on 7 March 2018, he is Auditor General of Estonia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Auditor General of Estonia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2004–2006, he was the director of the National Examinations and Qualifications Centre."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Janar Holm 2021. aasta Arvamusfestivalil.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Janar_Holm_2021._aasta_Arvamusfestivalil.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Janar_Holm_2021._aasta_Arvamusfestivalil.jpg",
+          "caption": "Janar Holm at the Opinion Festival 2021 in Paide, Estonia",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian civil servant (born 1976)",
+          "template": "short description"
+        },
+        {
+          "date": "March 2021",
+          "template": "one source"
+        }
+      ],
+      "references": [
+        {
+          "title": "Auditor General Janar Holm",
+          "url": "https://www.riigikontroll.ee/Riigikontrol%C3%B6r/tabid/109/language/en-US/Default.aspx",
+          "website": "www.riigikontroll.ee",
+          "access-date": "13 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "estonia-bio-stub"
+        }
+      ]
+    }
+  ]
+}

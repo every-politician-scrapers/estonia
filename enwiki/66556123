@@ -1,0 +1,244 @@
+{
+  "title": "Signe Riisalo",
+  "pageID": 66556123,
+  "categories": [
+    "Living people",
+    "1968 births",
+    "Politicians from Tallinn",
+    "Government ministers of Estonia",
+    "Women government ministers of Estonia",
+    "21st-century Estonian politicians",
+    "21st-century Estonian women politicians",
+    "Estonian Reform Party politicians",
+    "Tallinn University alumni",
+    "University of Tartu alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Signe Riisalo (born 8 October 1968) is an Estonian politician.",
+              "formatting": {
+                "bold": [
+                  "Signe Riisalo"
+                ]
+              }
+            },
+            {
+              "text": "she serves as Minister of Social Protection in the cabinet of Prime Minister Kaja Kallas.",
+              "links": [
+                {
+                  "text": "Minister of Social Protection",
+                  "type": "internal",
+                  "page": "Ministry of Social Affairs (Estonia)"
+                },
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Kaja Kallas' cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kaja Kallas"
+                }
+              ]
+            },
+            {
+              "text": "She is affiliated with the Reform Party.",
+              "links": [
+                {
+                  "text": "Reform Party",
+                  "type": "internal",
+                  "page": "Estonian Reform Party"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Signe Riisalo 2021. aasta Arvamusfestivalil.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Signe_Riisalo_2021._aasta_Arvamusfestivalil.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Signe_Riisalo_2021._aasta_Arvamusfestivalil.jpg",
+          "caption": "Signe Riisalo at the Opinion Festival 2021 in Paide, Estonia",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1968",
+          "month": "10",
+          "day": "8",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2021",
+            "1",
+            "26"
+          ],
+          "post": ",",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Signe Riisalo"
+          },
+          "image": {
+            "text": "Signe Riisalo (crop).jpg"
+          },
+          "caption": {
+            "text": "Signe Riisalo (2021)"
+          },
+          "office": {
+            "text": "Minister of Social Protection",
+            "links": [
+              {
+                "text": "Minister of Social Protection",
+                "type": "internal",
+                "page": "Ministry of Social Affairs (Estonia)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Kaja Kallas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaja Kallas"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 January 2021"
+          },
+          "predecessor": {
+            "text": "Tanel Kiik (as Minister of Social Affairs)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tanel Kiik"
+              }
+            ]
+          },
+          "party": {
+            "text": "Reform Party",
+            "links": [
+              {
+                "text": "Reform Party",
+                "type": "internal",
+                "page": "Estonian Reform Party"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 8, 1968"
+          },
+          "birth_place": {
+            "text": "Tallinn, Estonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tallinn"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tallinn University University of Tartu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tallinn University"
+              },
+              {
+                "type": "internal",
+                "page": "University of Tartu"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Signe Riisalo",
+          "url": "https://www.valitsus.ee/en/prime-minister-ministers/minister-social-protection-signe-riisalo",
+          "url-status": "live",
+          "access-date": "30 January 2021",
+          "website": "Estonia Government",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "26 January 2021",
+          "title": "Who's who: Estonia's new government",
+          "work": "ERR",
+          "url": "https://news.err.ee/1608084379/who-s-who-estonia-s-new-government",
+          "url-status": "live",
+          "access-date": "27 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "24 January 2021",
+          "title": "Kallas: We tried to put together a balanced government",
+          "work": "ERR",
+          "url": "https://news.err.ee/1608084472/kallas-we-tried-to-put-together-a-balanced-government",
+          "url-status": "live",
+          "access-date": "29 January 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Tanel Kiik",
+          "as": "Minister of Social Affairs",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Social Protection",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

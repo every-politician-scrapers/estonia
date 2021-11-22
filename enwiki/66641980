@@ -1,0 +1,186 @@
+{
+  "title": "Erki Savisaar",
+  "pageID": 66641980,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "Estonian Centre Party politicians",
+    "Members of the Riigikogu, 2015–2019",
+    "Members of the Riigikogu, 2019–2023",
+    "Tallinn University alumni",
+    "People from Põlva Parish"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Erki Savisaar (born 16 June 1978 in Vastse-Kuuste, Põlva County) is an Estonian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vastse-Kuuste"
+                },
+                {
+                  "type": "internal",
+                  "page": "Põlva County"
+                },
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Erki Savisaar"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the XIII and XIV Riigikogu.",
+              "links": [
+                {
+                  "text": "XIII",
+                  "type": "internal",
+                  "page": "XIII Riigikogu"
+                },
+                {
+                  "type": "internal",
+                  "page": "XIV Riigikogu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Savisaar in is the son of former Prime Minister of Estonia Edgar Savisaar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Estonia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Edgar Savisaar"
+                }
+              ]
+            },
+            {
+              "text": "In 2003, he graduated from Tallinn University in applied informatics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tallinn University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2012 to 2015 he was the head of Tallinna Linnatranspordi AS's IT Department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tallinna Linnatranspordi AS"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 2015 he is a member of Estonian Centre Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Estonian Centre Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018, he received Baltic Assembly Medal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Baltic Assembly"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Erki Savisaar 2021. aasta Arvamusfestivalil.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Erki_Savisaar_2021._aasta_Arvamusfestivalil.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Erki_Savisaar_2021._aasta_Arvamusfestivalil.jpg",
+          "caption": "Erki Savisaar at the Opinion Festival 2021 in Paide, Estonia",
+          "links": []
+        },
+        {
+          "file": "File:RK Erki Savisaar.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/RK_Erki_Savisaar.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/RK_Erki_Savisaar.jpg",
+          "caption": "Erki Savisaar",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "101_biographies_2019",
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/2015/02/101_biographies_2019.pdf",
+          "website": "riigikogu.ee",
+          "access-date": "4 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://ekspress.delfi.ee/artikkel/71089717/erki-savisaar-me-seisame-isaga-samade-vaartuste-eest?",
+          "title": "Erki Savisaar: \"Me seisame isaga samade väärtuste eest!",
+          "first": "Kristjan",
+          "last": "Pihl",
+          "work": "Eesti Ekspress",
+          "date": "24 March 2015",
+          "accessdate": "6 February 2021",
+          "language": "et",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

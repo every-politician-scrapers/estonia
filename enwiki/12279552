@@ -1,0 +1,592 @@
+{
+  "title": "Jaak Aab",
+  "pageID": 12279552,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "21st-century Estonian politicians",
+    "Estonian Centre Party politicians",
+    "Government ministers of Estonia",
+    "Members of the Riigikogu, 1999–2003",
+    "Members of the Riigikogu, 2007–2011",
+    "Members of the Riigikogu, 2019–2023",
+    "Mayors of places in Estonia",
+    "People from Tõrva Parish"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jaak Aab (born 9 April 1960) is an Estonian politician of the Centre Party who has been serving as the Minister of Education and Research since 2020.",
+              "links": [
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonians"
+                },
+                {
+                  "text": "Centre Party",
+                  "type": "internal",
+                  "page": "Estonian Centre Party"
+                },
+                {
+                  "text": "Minister of Education and Research",
+                  "type": "internal",
+                  "page": "Minister of Education and Research (Estonia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jaak Aab"
+                ]
+              }
+            },
+            {
+              "text": "He previously served twice as the Minister of Public Administration from 2017 to 2018 and 2019 to 2020 and as the Minister of Social Affairs (Estonia) from 2005 to 2007.",
+              "links": [
+                {
+                  "text": "Minister of Public Administration",
+                  "type": "internal",
+                  "page": "Minister of Public Administration (Estonia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Social Affairs (Estonia)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1960",
+          "month": "4",
+          "day": "9",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jaak Aab"
+          },
+          "image": {
+            "text": "Jaak Aab (crop).jpg"
+          },
+          "imagesize": {
+            "text": "250px"
+          },
+          "caption": {
+            "text": "Jaak Aab in 2021"
+          },
+          "office1": {
+            "text": "Minister of Public Administration",
+            "links": [
+              {
+                "text": "Minister of Public Administration",
+                "type": "internal",
+                "page": "Minister of Public Administration (Estonia)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Kaja Kallas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaja Kallas"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 January 2021"
+          },
+          "predecessor1": {
+            "text": "Anneli Ott",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anneli Ott"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Jüri Ratas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jüri Ratas"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "29 April 2019"
+          },
+          "term_end2": {
+            "text": "25 November 2020"
+          },
+          "predecessor2": {
+            "text": "Janek Mäggi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janek Mäggi"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Anneli Ott",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anneli Ott"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Jüri Ratas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jüri Ratas"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "12 June 2017"
+          },
+          "term_end3": {
+            "text": "2 May 2018"
+          },
+          "predecessor3": {
+            "text": "Mihhail Korb",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mihhail Korb"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Janek Mäggi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Janek Mäggi"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister of Education and Research",
+            "links": [
+              {
+                "text": "Minister of Education and Research",
+                "type": "internal",
+                "page": "Minister of Education and Research (Estonia)"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Jüri Ratas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jüri Ratas"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "25 November 2020"
+          },
+          "term_end4": {
+            "text": "26 January 2021"
+          },
+          "predecessor4": {
+            "text": "Mailis Reps",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mailis Reps"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Liina Kersna",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liina Kersna"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Minister of Social Affairs",
+            "links": [
+              {
+                "text": "Minister of Social Affairs",
+                "type": "internal",
+                "page": "Minister of Social Affairs (Estonia)"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Andrus Ansip",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrus Ansip"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "13 April 2005"
+          },
+          "term_end5": {
+            "text": "5 April 2007"
+          },
+          "predecessor5": {
+            "text": "Marko Pomerants",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marko Pomerants"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Maret Maripuu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maret Maripuu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 9, 1960"
+          },
+          "birth_place": {
+            "text": "Taagepera, Estonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Taagepera"
+              }
+            ]
+          },
+          "party": {
+            "text": "Estonian Centre Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Estonian Centre Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tallinn University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tallinn University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Minister Jaak Aab",
+          "url": "https://www.hm.ee/en/ministry/minister-jaak-aab",
+          "publisher": "Ministry of Education and Research",
+          "access-date": "25 November 2020",
+          "archive-url": "https://web.archive.org/web/20201125215810/https://www.hm.ee/en/ministry/minister-jaak-aab",
+          "archive-date": "25 November 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jaak Aab attended school in Ala (Helme Parish in Valga County) and in Viljandi.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Helme Parish"
+                },
+                {
+                  "type": "internal",
+                  "page": "Valga County"
+                },
+                {
+                  "type": "internal",
+                  "page": "Viljandi"
+                }
+              ]
+            },
+            {
+              "text": "After graduating from high school in 1978, he studied to become a teacher in Russian language and literature from 1978 to 1986 at the Pedagogical Institute in Tallinn (Tallinna Pedagoogiline Instituut, today known as the University of Tallinn).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Russian language"
+                },
+                {
+                  "text": "literature",
+                  "type": "internal",
+                  "page": "Russian literature"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tallinn"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tallinn"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Tallinna Pedagoogiline Instituut"
+                ]
+              }
+            },
+            {
+              "text": "From 1984 to 1991, he was active as a teacher in Ala and Võhma.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Võhma"
+                }
+              ]
+            },
+            {
+              "text": "From 1991 to 1994, Aab worked in Finland.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Finland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Upon returning to Estonia, Aab started working in politics."
+            },
+            {
+              "text": "From November 1994 to January 1996, he served as a senior mayor of the city of Võhma.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Võhma"
+                }
+              ]
+            },
+            {
+              "text": "From August 1998 to February 2002, Aab held the office of senior mayor."
+            },
+            {
+              "text": "From February 2002 to March 2003, Aab was the representative in the Estonian Parliament (Riigikogu).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riigikogu"
+                }
+              ]
+            },
+            {
+              "text": "From July 2003 to April 2005, he was the executive director of the Association of Estonian Cities and Muncipilaties (Eesti Linnade ja Valdade Liit), before Prime Minister Andrus Ansip appointed him to his cabinet in 2005.",
+              "links": [
+                {
+                  "text": "Association of Estonian Cities and Muncipilaties",
+                  "type": "external",
+                  "site": "https://www.elvl.ee/web/eng"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrus Ansip"
+                },
+                {
+                  "text": "cabinet",
+                  "type": "internal",
+                  "page": "Andrus Ansip's cabinet"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Eesti Linnade ja Valdade Liit"
+                ]
+              }
+            },
+            {
+              "text": "From 13 April 2005 to 5 April 2007, Jaak Aab was the Minister of Social Affairs of the Republic of Estonia."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since April 2007, Aab has been a representative of the Estonian Parliament and acting chairman of the Social Committee."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.valitsus.ee/en/government-members/minister-public-administration-jaak-aab",
+          "title": "Minister of Public Administration Jaak Aab",
+          "website": "Government of the Republic of Estonia",
+          "language": "en",
+          "access-date": "2020-01-10",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jaak Aab is married to teacher Kaie Aab (born 1958)."
+            },
+            {
+              "text": "The couple has two daughters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Marko Pomerants",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Social Affairs",
+          "years": "2005–2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Maret Maripuu",
+          "template": "s-aft"
+        },
+        {
+          "before": "Mihhail Korb",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Public Administration",
+          "years": "2017–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Janek Mäggi",
+          "template": "s-aft"
+        },
+        {
+          "before": "Janek Mäggi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Public Administration",
+          "years": "2019–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Anneli Ott",
+          "template": "s-aft"
+        },
+        {
+          "before": "Mailis Reps",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Education and Research",
+          "years": "2020–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Liina Kersna",
+          "template": "s-aft"
+        },
+        {
+          "before": "Anneli Ott",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Public Administration",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "topic": "biography",
+          "date": "April 2017",
+          "template": "expand german"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Estonian Ministry of Social Affairs: short biography",
+            "links": [
+              {
+                "text": "short biography",
+                "type": "external",
+                "site": "https://web.archive.org/web/20070126021723/http://www.sm.ee/est/pages/goproweb0080"
+              },
+              {
+                "type": "internal",
+                "page": "Estonian Ministry of Social Affairs"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
