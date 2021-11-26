@@ -19,8 +19,9 @@ jobs:
         sudo unzip -j -d /usr/local/bin /tmp/qsv.zip
     - name: Run mirroring
       run: |-
-        git rm -rf enwiki
+        git rm -rf --ignore-unmatch enwiki
         bash bin/wtf_enwiki.sh
+        git add enwiki
     - name: Create pull request
       id: cpr
       uses: peter-evans/create-pull-request@v3
