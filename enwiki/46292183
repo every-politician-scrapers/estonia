@@ -333,62 +333,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "rows": "2",
-          "before": "Jürgen Ligi",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Finance",
-          "years": "2014–2015",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Sven Sester",
-          "template": "s-aft"
-        },
-        {
-          "title": "Minister of Education and Research",
-          "years": "2016",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Mailis Reps",
-          "template": "s-aft"
-        },
-        {
-          "before": "Raivo Aeg",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Justice",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "estonia-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -205,40 +205,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Tanel Kiik",
-          "as": "Minister of Social Affairs",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Social Protection",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "estonia-politician-stub"
-        }
-      ]
     }
   ]
 }

@@ -345,67 +345,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Urmas Reinsalu",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Foreign Affairs",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "foreign ministers of the european union member states"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "estonia-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Eva-Maria Liimets, Estonia Government",
-            "links": [
-              {
-                "text": "Eva-Maria Liimets",
-                "type": "external",
-                "site": "https://www.valitsus.ee/en/prime-minister-ministers/minister-foreign-affairs-eva-maria-liimets"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }
