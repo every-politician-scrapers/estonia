@@ -4,13 +4,18 @@
   "categories": [
     "Living people",
     "1958 births",
+    "Estonian geneticists",
     "Estonian biologists",
     "Estonian civil servants",
-    "People from Tartu",
     "Miina Härma Gymnasium alumni",
     "Estonian University of Life Sciences alumni",
+    "Estonian University of Life Sciences faculty",
+    "University of Tartu faculty",
+    "Rectors of the University of Tartu",
     "Presidents of Estonia",
-    "Recipients of the Order of the White Star, 4th Class"
+    "Rectors of universities in Estonia",
+    "Recipients of the Order of the White Star, 4th Class",
+    "People from Tartu"
   ],
   "sections": [
     {
@@ -20,12 +25,22 @@
         {
           "sentences": [
             {
-              "text": "Alar Karis (born 26 March 1958) is an Estonian biologist, civil servant and politician who is serving as the sixth President of Estonia since 11 October 2021.",
+              "text": "Alar Karis (born 26 March 1958) is an Estonian molecular geneticist, developmental biologist, civil servant and politician who is serving as the sixth President of Estonia since 11 October 2021.",
               "links": [
                 {
                   "text": "Estonian",
                   "type": "internal",
                   "page": "Estonia"
+                },
+                {
+                  "text": "molecular geneticist",
+                  "type": "internal",
+                  "page": "Molecular genetics"
+                },
+                {
+                  "text": "developmental biologist",
+                  "type": "internal",
+                  "page": "Developmental biology"
                 },
                 {
                   "type": "internal",
