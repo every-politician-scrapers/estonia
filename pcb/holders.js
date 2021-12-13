@@ -1,7 +1,7 @@
 module.exports = (...positions) => {
   positions = positions.map(value => `wd:${value}`).join(' ')
 
-  return `SELECT DISTINCT ?person ?position ?start ?end ?ps
+  return `SELECT DISTINCT ?person ?position ?start ?end ?prev ?next ?ps
     WITH {
       SELECT DISTINCT ?person ?position ?startNode ?endNode ?ps
       WHERE {
@@ -15,15 +15,15 @@ module.exports = (...positions) => {
             ?ps pq:P5054 ?cabinet .
             OPTIONAL { ?cabinet p:P571 [ a wikibase:BestRank ; psv:P571 ?cabinetInception ] }
             OPTIONAL { ?cabinet p:P580 [ a wikibase:BestRank ; psv:P580 ?cabinetStart ] }
-            OPTIONAL { ?cabinet p:P576 [ a wikibase:BestRank ; psv:P571 ?cabinetAbolished ] }
-            OPTIONAL { ?cabinet p:P582 [ a wikibase:BestRank ; psv:P580 ?cabinetEnd ] }
+            OPTIONAL { ?cabinet p:P576 [ a wikibase:BestRank ; psv:P576 ?cabinetAbolished ] }
+            OPTIONAL { ?cabinet p:P582 [ a wikibase:BestRank ; psv:P582 ?cabinetEnd ] }
           }
           OPTIONAL {
             ?ps pq:P2937 ?term .
             OPTIONAL { ?term p:P571 [ a wikibase:BestRank ; psv:P571 ?termInception ] }
             OPTIONAL { ?term p:P580 [ a wikibase:BestRank ; psv:P580 ?termStart ] }
-            OPTIONAL { ?term p:P576 [ a wikibase:BestRank ; psv:P571 ?termAbolished ] }
-            OPTIONAL { ?term p:P582 [ a wikibase:BestRank ; psv:P580 ?termEnd ] }
+            OPTIONAL { ?term p:P576 [ a wikibase:BestRank ; psv:P576 ?termAbolished ] }
+            OPTIONAL { ?term p:P582 [ a wikibase:BestRank ; psv:P582 ?termEnd ] }
           }
           wd:Q18354756 p:P580/psv:P580 ?farFuture .
 
@@ -36,8 +36,10 @@ module.exports = (...positions) => {
       INCLUDE %statements .
       ?startNode wikibase:timeValue ?startV ; wikibase:timePrecision ?startP .
       ?endNode   wikibase:timeValue ?endV   ; wikibase:timePrecision ?endP .
-
       FILTER (?startV < NOW() && YEAR(?endV) >= 2000)
+
+      OPTIONAL { ?ps pq:P1365 ?prev }
+      OPTIONAL { ?ps pq:P1366 ?next }
 
       BIND (
         COALESCE(
