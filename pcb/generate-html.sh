@@ -7,13 +7,13 @@ BIO_CSV=$(mktemp)
 
 PERSON_PROPS="en,P31,P18,P21,P27,P1559,P1477,P2561,P735,P734,P1950,P5056,P2652,P569,P19,P570,P22,P25,P26,P40,P3373,P39,P69,P511,P102,P3602,sitelinks"
 
-# Current holders of each wanted position
+# Holders of each wanted position
 qsv select position wikidata/wanted-positions.csv |
   qsv behead |
   xargs wd sparql pcb/holders.js -f csv > $TMPFILE
 sed -e 's#http://www.wikidata.org/entity/##g' -e 's/T00:00:00Z//g' $TMPFILE > $HOLDERS
 
-# Biographical info for current officeholders
+# Biographical info for officeholders
 qsv select person $HOLDERS |
   qsv dedup |
   qsv sort |
@@ -38,12 +38,15 @@ jq -r '[
 # TODO: other positions
 # TODO: relations
 
-# Generate current.csv
+# Generate holders21.csv
 qsv join position wikidata/wanted-positions.csv position $HOLDERS |
-  qsv select position,title,person,start > $TMPFILE
+  qsv select position,title,person,start,end > $TMPFILE
 qsv join person $TMPFILE id $BIO_CSV |
-  qsv select title,name,person,start,gender,dob,dod,image,enwiki |
-  qsv rename position,person,personID,start,gender,DOB,DOD,image,enwiki > html/current.csv
+  qsv select title,name,person,start,end,gender,dob,dod,image,enwiki |
+  qsv rename position,person,personID,start,end,gender,DOB,DOD,image,enwiki > html/holders21.csv
+
+# Generate current.csv
+qsv search -s end -v . html/holders21.csv | qsv select \!end > html/current.csv
 
 # Generate HTML
 erb country="$(jq -r .jurisdiction.name meta.json)" csvfile=html/current.csv -r csv -T- pcb/index.erb > html/index.html
