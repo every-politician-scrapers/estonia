@@ -51,6 +51,15 @@
                   "page": "Tõnu Anton"
                 }
               ]
+            },
+            {
+              "text": "In December 2021 Madise was re-appointed by the Riigikogu for a second term as Chancellor of Justice.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riigikogu"
+                }
+              ]
             }
           ]
         }
@@ -59,10 +68,6 @@
         {
           "description": "Estonian legal scholar",
           "template": "short description"
-        },
-        {
-          "date": "June 2019",
-          "template": "one source"
         },
         {
           "df": "yes",
@@ -91,7 +96,7 @@
             ]
           },
           "president": {
-            "text": "Toomas Hendrik Ilves Kersti Kaljulaid",
+            "text": "Toomas Hendrik Ilves Kersti Kaljulaid Alar Karis",
             "links": [
               {
                 "type": "internal",
@@ -100,6 +105,10 @@
               {
                 "type": "internal",
                 "page": "Kersti Kaljulaid"
+              },
+              {
+                "type": "internal",
+                "page": "Alar Karis"
               }
             ]
           },
@@ -178,6 +187,14 @@
               }
             ]
           }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     }
