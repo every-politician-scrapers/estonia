@@ -1,0 +1,22 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q890005,President of Estonia,Q191,Q191,,,,,,,President of Estonia
+Q737115,Prime Minister of Estonia,Q191,Q191,,Q6622051,1918-02-24,,,,Prime Minister of Estonia
+Q3741249,Minister of Defence,Q191,Q191,,,,,,,Minister of Defence (Estonia)
+Q6866110,Minister of Education and Research,Q191,Q191,,,1918,,,,Minister of Education and Research (Estonia)
+Q12361541,Minister of the Environment,Q191,Q191,,,,,,,
+Q21103025,Minister of Finance,Q191,Q191,,,,,,,Minister of Finance (Estonia)
+Q1760777,Minister of Foreign Affairs,Q191,Q191,,,1918-02-24,,,,Minister of Foreign Affairs (Estonia)
+Q6866431,Minister of the Interior,Q191,Q191,,Q12361672,,,,,
+Q20528230,Minister of Justice,Q191,Q191,,,,,,,
+Q20528404,Minister of Public Administration,Q191,Q191,,,2015-04-09,,,,Minister of Public Administration (Estonia)
+Q23268238,Minister of Regional Affairs,Q191,Q191,,,,,,,
+Q20528241,Auditor General,Q191,Q191,,,,,,,
+Q14564648,Chancellor of Justice,Q191,Q191,,,1938,,,,Chancellor of Justice (Estonia)
+Q16409416,Commander of the Estonian Defence Forces,Q191,Q191,,,1918,,,,Commander of the Estonian Defence Forces
+Q20529053,Governor of the Bank of Estonia,Q191,,,,,,,,
+Q16412384,President of the Riigikogu,Q191,Q191,,,,,,,
+Q3740505,mayor of Tallinn,Q191,Q4450503,,Q33124296,,,,,
+Q65261815,ambassador of Estonia to Finland,Q191,Q33,,,,,,,
+Q40770362,ambassador of Estonia to Russia,Q159,,,Q6561130,,,,,
+Q41539745,ambassador of Estonia to Sweden,Q191,Q34,,,,,,,
+Q30591832,Estonian Ambassador to the United States,Q191,,,,,,,,List of ambassadors of Estonia to the United States
