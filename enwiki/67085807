@@ -251,16 +251,11 @@
             "text": "March 26, 1958"
           },
           "birth_place": {
-            "text": "Tartu, Estonian SSR, Soviet Union",
+            "text": "Tartu, Estonia",
             "links": [
               {
                 "type": "internal",
                 "page": "Tartu"
-              },
-              {
-                "text": "Estonian SSR",
-                "type": "internal",
-                "page": "Estonian Soviet Socialist Republic"
               }
             ]
           },
