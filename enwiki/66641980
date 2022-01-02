@@ -146,28 +146,6 @@
           "description": "Estonian politician",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "title": "101_biographies_2019",
-          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/2015/02/101_biographies_2019.pdf",
-          "website": "riigikogu.ee",
-          "access-date": "4 February 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://ekspress.delfi.ee/artikkel/71089717/erki-savisaar-me-seisame-isaga-samade-vaartuste-eest?",
-          "title": "Erki Savisaar: \"Me seisame isaga samade väärtuste eest!",
-          "first": "Kristjan",
-          "last": "Pihl",
-          "work": "Eesti Ekspress",
-          "date": "24 March 2015",
-          "accessdate": "6 February 2021",
-          "language": "et",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -148,34 +148,6 @@
           "description": "Estonian diplomat",
           "template": "short description"
         }
-      ],
-      "references": [
-        {
-          "url": "http://krkk.icds.ee/images/Kontakt/CV-MARGUS-KOLGA-2018.pdf",
-          "title": "CV Margus Kolga",
-          "website": "Kõrgemad Riigikaitsekursused",
-          "language": "English",
-          "accessdate": "21 May 2018",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.un.org/News/Press/docs/2010/bio4255.doc.htm",
-          "title": "New Permanent Representative of Estonia Presents Credentials",
-          "author": "United Nations Department of Public Information",
-          "date": "16 December 2010",
-          "accessdate": "13 January 2012",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.president.ee/et/vabariik/teenetemargid/kavaler/3954/*",
-          "title": "Vabariigi President",
-          "website": "www.president.ee",
-          "access-date": "2018-05-21",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

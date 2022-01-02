@@ -126,38 +126,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.baltictimes.com/estonia__tiit_terik_elected_chair_of_tallinn_council/",
-          "title": "Estonia: Tiit Terik elected chair of Tallinn council",
-          "website": "www.baltictimes.com",
-          "access-date": "2020-01-22",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://cor.europa.eu/en/members/pages/memberprofile.aspx?MemberId=2038357",
-          "title": "Members of the European Committee of the Regions",
-          "access-date": "2020-01-27",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.ccre.org/en/actualites/view/3966",
-          "title": "CEMR Presidency",
-          "access-date": "2020-01-27",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.tallinn.ee/eng/Resume-of-Tiit-Terik",
-          "title": "Website of Tallinn, resume of Tiit Terik",
-          "language": "en",
-          "access-date": "2020-01-21",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

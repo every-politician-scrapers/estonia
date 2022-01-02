@@ -274,18 +274,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "101 lühielulugu",
-          "date": "2019",
-          "publisher": "Eesti Rahvusraamatukogu, Riigikogu Kantselei",
-          "url": "https://dea.digar.ee/cgi-bin/dea?a=d&d=JVsadaykslyhiel201901.2.41&e=---et-25--1--txt-txIN%7ctxTI%7ctxAU%7ctxTA-",
-          "language": "et",
-          "format": "e-publication",
-          "template": "citation",
-          "type": "book"
-        }
       ]
     }
   ]
