@@ -173,37 +173,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Signe Riisalo",
-          "url": "https://www.valitsus.ee/en/prime-minister-ministers/minister-social-protection-signe-riisalo",
-          "url-status": "live",
-          "access-date": "30 January 2021",
-          "website": "Estonia Government",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "26 January 2021",
-          "title": "Who's who: Estonia's new government",
-          "work": "ERR",
-          "url": "https://news.err.ee/1608084379/who-s-who-estonia-s-new-government",
-          "url-status": "live",
-          "access-date": "27 January 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "24 January 2021",
-          "title": "Kallas: We tried to put together a balanced government",
-          "work": "ERR",
-          "url": "https://news.err.ee/1608084472/kallas-we-tried-to-put-together-a-balanced-government",
-          "url-status": "live",
-          "access-date": "29 January 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

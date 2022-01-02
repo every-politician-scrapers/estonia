@@ -371,54 +371,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.err.ee/971450/ratas-ei-pea-puhkenud-skandaali-valitsuskriisiks",
-          "title": "Ratas ei pea puhkenud skandaali valitsuskriisiks",
-          "last": "ERR",
-          "first": "Elo Ellermaa {{!}}",
-          "date": "16 August 2019",
-          "website": "ERR",
-          "language": "et",
-          "access-date": "23 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bloomberg.com/news/articles/2019-08-16/nationalist-targeting-police-chief-has-estonia-staring-at-crisis",
-          "title": "Estonia Government Nears Collapse After Nationalist Party Targets Police Chief",
-          "newspaper": "Bloomberg.com",
-          "date": "16 August 2019",
-          "access-date": "28 January 2021",
-          "via": "www.bloomberg.com",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.delfi.ee/a/86368931",
-          "title": "Kuhu kadus riigi raha? Riigieelarve suur puudujääk ja kärped on hoiatuste eiramise tagajärg",
-          "website": "Ärileht",
-          "access-date": "23 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.delfi.ee/a/88058721",
-          "title": "PEAMINISTRIUURING {{!}} Jüri Ratase sobivus peaministriks püstitas rekordi",
-          "website": "Eesti Päevaleht",
-          "access-date": "23 December 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://epl.delfi.ee/a/88842145",
-          "title": "KOALITSIOONIUURING &#124; Praegust võimuliitu toetab kõigest veerand valijaid",
-          "website": "Eesti Päevaleht",
-          "access-date": "28 January 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

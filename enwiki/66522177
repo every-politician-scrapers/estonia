@@ -156,35 +156,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Foreign, interior ministers join Center Party",
-          "url": "https://news.err.ee/1608240036/foreign-interior-ministers-join-center-party",
-          "publisher": "ERR News",
-          "access-date": "9 June 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Kristian Jaani",
-          "url": "https://www.valitsus.ee/en/prime-minister-ministers/minister-interior-kristian-jaani",
-          "url-status": "live",
-          "access-date": "27 January 2021",
-          "website": "Estonian Government",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "26 January 2021",
-          "title": "Who's who: Estonia's new government",
-          "work": "ERR",
-          "url": "https://news.err.ee/1608084379/who-s-who-estonia-s-new-government",
-          "url-status": "live",
-          "access-date": "27 January 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

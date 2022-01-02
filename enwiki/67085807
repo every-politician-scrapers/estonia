@@ -286,28 +286,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "CV: Alar Karis",
-          "url": "https://www.etis.ee/CV/Alar_Karis",
-          "website": "www.etis.ee",
-          "access-date": "13 March 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Tambur",
-          "first": "Silver",
-          "date": "2021-08-31",
-          "title": "Alar Karis elected president of Estonia",
-          "url": "https://estonianworld.com/life/alar-karis-elected-president-of-estonia/",
-          "access-date": "2021-08-31",
-          "website": "Estonian World",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

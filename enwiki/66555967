@@ -198,27 +198,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Tanel Kiik",
-          "url": "https://www.sm.ee/en/minister-health-and-labour-tanel-kiik",
-          "url-status": "live",
-          "access-date": "30 January 2021",
-          "website": "Estonia Government",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "26 January 2021",
-          "title": "Who's who: Estonia's new government",
-          "work": "ERR",
-          "url": "https://news.err.ee/1608084379/who-s-who-estonia-s-new-government",
-          "url-status": "live",
-          "access-date": "27 January 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

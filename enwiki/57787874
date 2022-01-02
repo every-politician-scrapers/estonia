@@ -233,28 +233,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "date": "2021-01-24",
-          "title": "Reform, Center announce incoming ministers",
-          "url": "https://news.err.ee/1608083107/reform-center-announce-incoming-ministers",
-          "url-status": "live",
-          "access-date": "2021-04-19",
-          "website": "ERR",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Liina Kersna",
-          "url": "https://www.valitsus.ee/en/prime-minister-ministers/minister-education-and-research-liina-kersna",
-          "url-status": "live",
-          "access-date": "2021-04-19",
-          "website": "Eesti Vabariigi Valitsus {{!}} Government of Estonia",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
