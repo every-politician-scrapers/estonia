@@ -1,8 +1,12 @@
 position,title
 Q890005,President
 Q737115,Prime Minister
+Q16405106,Minister of Agriculture
 Q16402952,Minister of Culture
+Q23725838,Minister of Culture and Education
 Q3741249,Minister of Defence
+Q21121665,Minister of Economic Affairs and Communications
+Q16403845,Minister of Economic Affairs and Infrastructure
 Q6866110,Minister of Education and Research
 Q20933474,Minister of Entrepreneurship and Information Technology
 Q12361541,Minister of the Environment
@@ -12,10 +16,12 @@ Q24058803,Minister of Foreign Trade and Entrepreneurship
 Q24060082,Minister of Health and Labour
 Q6866431,Minister of the Interior
 Q20528230,Minister of Justice
+Q24061775,Minister of Population and Ethnic Affairs
 Q20528404,Minister of Public Administration
 Q106996576,Minister of Reform
 Q23268238,Minister of Regional Affairs
 Q24060239,Minister of Rural Affairs
+Q16402881,Minister of Social Affairs
 Q24060088,Minister of Social Protection
 Q20528241,Auditor General
 Q14564648,Chancellor of Justice
