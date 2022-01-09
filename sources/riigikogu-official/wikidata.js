@@ -3,7 +3,7 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
-  return `SELECT DISTINCT ?id ?name (STRAFTER(STR(?statement), '/statement/') AS ?psid)
+  return `SELECT DISTINCT ?id ?name (STRAFTER(STR(?ps), '/statement/') AS ?psid)
     WHERE {
       # Current members of the Riigikogu
       ?item p:P39 ?ps .

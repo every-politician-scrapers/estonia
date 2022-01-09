@@ -32,6 +32,5 @@ class MemberList
   end
 end
 
-file = Pathname.new 'scraped/cabinet-official.html'
-puts EveryPoliticianScraper::FileData.new(file).csv
-
+file = Pathname.new 'official.html'
+puts EveryPoliticianScraper::FileData.new(file).csv if file.exist? && !file.empty?

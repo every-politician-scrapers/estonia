@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Estonia",
+      "id": "Q191"
+    },
+    "legislature": {
+      "id": "Q230003",
+      "member": "Q61976148",
+      "term": {
+        "id": "Q61976148",
+        "start": "2019-04-04"
+      }
+    },
+    "source": {
+        "url":   "https://www.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/",
+        "title": "Riigikogu liikmed - Riigikogu",
+        "lang":  {
+            "code": "et",
+            "wikidata": "Q9072"
+        }
+    },
+    "agent": "every-politican-scrapers/estonia-cabinet"
+}

@@ -35,5 +35,5 @@ class Legislature
   end
 end
 
-file = Pathname.new 'scraped/legislature-official.html'
+file = Pathname.new 'official.html'
 puts EveryPoliticianScraper::FileData.new(file, klass: Legislature::Members).csv
