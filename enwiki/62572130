@@ -46,9 +46,18 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Mihhail Kõlvart.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Mihhail_K%C3%B5lvart.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Mihhail_K%C3%B5lvart.jpg",
+          "caption": "Mihhail Kõlvart",
+          "links": []
+        }
+      ],
       "templates": [
         {
-          "description": "Estonian politician)",
+          "description": "Estonian politician",
           "template": "short description"
         },
         {
