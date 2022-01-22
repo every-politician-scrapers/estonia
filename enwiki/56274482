@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Martin Herem (born 17 December 1973) is an Estonian Lieutenant general and the current Commander of the Estonian Defence Forces since 2018.",
+              "text": "Martin Herem (born 17 December 1973) is an Estonian lieutenant general and the current Commander of the Estonian Defence Forces since 2018.",
               "links": [
                 {
                   "text": "Estonian",
@@ -23,8 +23,9 @@
                   "page": "Estonia"
                 },
                 {
+                  "text": "lieutenant general",
                   "type": "internal",
-                  "page": "Lieutenant general"
+                  "page": "lieutenant general"
                 },
                 {
                   "type": "internal",
@@ -67,11 +68,12 @@
         {
           "sentences": [
             {
-              "text": "On 18 February 2021, Martin Herem was promoted to the rank of Lieutenant general.",
+              "text": "On 18 February 2021, Martin Herem was promoted to the rank of lieutenant general.",
               "links": [
                 {
+                  "text": "lieutenant general",
                   "type": "internal",
-                  "page": "Lieutenant general"
+                  "page": "lieutenant general"
                 }
               ]
             }
