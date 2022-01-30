@@ -145,6 +145,10 @@
         {
           "description": "Estonian politician",
           "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
         }
       ]
     }
