@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Tiit Terik (born June 15, 1979; Tallinn) is an Estonian politician.",
+              "text": "Tiit Terik (born 15 June 1979; Tallinn) is an Estonian politician.",
               "links": [
                 {
                   "type": "internal",
@@ -77,10 +77,14 @@
           "template": "short description"
         },
         {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1979",
           "month": "6",
           "day": "15",
-          "mf": "yes",
+          "df": "yes",
           "template": "birth date and age"
         }
       ],

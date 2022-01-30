@@ -144,6 +144,10 @@
           "template": "short description"
         },
         {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
           "year": "1965",
           "month": "9",
           "day": "25",
