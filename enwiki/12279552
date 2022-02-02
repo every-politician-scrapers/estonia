@@ -69,6 +69,11 @@
           "template": "short description"
         },
         {
+          "topic": "biography",
+          "date": "April 2017",
+          "template": "expand german"
+        },
+        {
           "year": "1960",
           "month": "4",
           "day": "9",
