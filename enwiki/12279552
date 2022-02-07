@@ -4,7 +4,7 @@
   "categories": [
     "1960 births",
     "Living people",
-    "21st-century Estonian politicians",
+    "People from Tõrva Parish",
     "Estonian Centre Party politicians",
     "Education and Research ministers of Estonia",
     "Social affairs ministers of Estonia",
@@ -12,7 +12,7 @@
     "Members of the Riigikogu, 2007–2011",
     "Members of the Riigikogu, 2019–2023",
     "Mayors of places in Estonia",
-    "People from Tõrva Parish"
+    "Tallinn University alumni"
   ],
   "sections": [
     {
@@ -69,7 +69,7 @@
           "template": "short description"
         },
         {
-          "topic": "biography",
+          "topic": "bio",
           "date": "April 2017",
           "template": "expand german"
         },
@@ -282,11 +282,16 @@
             "text": "April 9, 1960"
           },
           "birth_place": {
-            "text": "Taagepera, Estonia",
+            "text": "Taagepera, Estonian SSR",
             "links": [
               {
                 "type": "internal",
                 "page": "Taagepera"
+              },
+              {
+                "text": "Estonian SSR",
+                "type": "internal",
+                "page": "Estonian Soviet Socialist Republic"
               }
             ]
           },
