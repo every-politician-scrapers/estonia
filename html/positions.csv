@@ -1,5 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q890005,President of Estonia,Q191,Q191,,,,,,,President of Estonia
+Q890005,President of Estonia,Q191,Q191,,,1938-04-24,,,,President of Estonia
 Q737115,Prime Minister of Estonia,Q191,Q191,,Q6622051,1918-02-24,,,,Prime Minister of Estonia
 Q16405106,Minister of Agriculture,Q191,Q191,,,1992-10-21,2015-04-09,Q16402880,Q24060239,
 Q16402952,Minister of Culture,Q191,Q191,,,1990-04-10,,,Q23725838,
