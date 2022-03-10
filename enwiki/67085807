@@ -1,292 +1,35 @@
 {
-  "title": "Alar Karis",
-  "pageID": 67085807,
-  "categories": [
-    "Living people",
-    "1958 births",
-    "Estonian geneticists",
-    "Estonian biologists",
-    "Estonian civil servants",
-    "Miina Härma Gymnasium alumni",
-    "Estonian University of Life Sciences alumni",
-    "Estonian University of Life Sciences faculty",
-    "University of Tartu faculty",
-    "Rectors of the University of Tartu",
-    "Presidents of Estonia",
-    "Rectors of universities in Estonia",
-    "Recipients of the Order of the White Star, 4th Class",
-    "People from Tartu"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Alar Karis (born 26 March 1958) is an Estonian molecular geneticist, developmental biologist, civil servant and politician who, since 11 October 2021, serves as the sixth President of Estonia.",
-              "links": [
-                {
-                  "text": "Estonian",
-                  "type": "internal",
-                  "page": "Estonia"
-                },
-                {
-                  "text": "molecular geneticist",
-                  "type": "internal",
-                  "page": "Molecular genetics"
-                },
-                {
-                  "text": "developmental biologist",
-                  "type": "internal",
-                  "page": "Developmental biology"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of Estonia"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Alar Karis"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "President of Estonia",
-          "template": "short description"
-        },
-        {
-          "date": "August 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "yes",
-          "year": "1958",
-          "month": "3",
-          "day": "26",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Sirje Karis",
-          "from": "1977",
-          "template": "marriage"
-        },
-        {
-          "transcription": "ˈɑlɑr ˈkɑris",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Alar Karis"
-          },
-          "image": {
-            "text": "Alar Karis December 2021 (3) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Karis in 2021"
-          },
-          "office1": {
-            "text": "President of Estonia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of Estonia"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Kaja Kallas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaja Kallas"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "11 October 2021"
-          },
-          "predecessor1": {
-            "text": "Kersti Kaljulaid",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kersti Kaljulaid"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Director of the Estonian National Museum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Estonian National Museum"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 April 2018"
-          },
-          "term_end2": {
-            "text": "7 September 2021"
-          },
-          "predecessor2": {
-            "text": "Tõnis Lukas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tõnis Lukas"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Kertu Saks"
-          },
-          "office3": {
-            "text": "Auditor General of Estonia",
-            "links": [
-              {
-                "text": "Auditor General of Estonia",
-                "type": "internal",
-                "page": "National Audit Office of Estonia"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "7 April 2013"
-          },
-          "term_end3": {
-            "text": "7 March 2018"
-          },
-          "predecessor3": {
-            "text": "Mihkel Oviir",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mihkel Oviir"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Janar Holm",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janar Holm"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Rector of the University of Tartu",
-            "links": [
-              {
-                "text": "Rector of the University of Tartu",
-                "type": "internal",
-                "page": "List of rectors of the University of Tartu"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "3 July 2007"
-          },
-          "term_end4": {
-            "text": "30 June 2012"
-          },
-          "predecessor4": {
-            "text": "Tõnu Lehtsaar (Acting)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tõnu Lehtsaar"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Volli Kalm",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Volli Kalm"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Rector of the Estonian University of Life Sciences",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Estonian University of Life Sciences"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "2003",
-            "number": 2003
-          },
-          "term_end5": {
-            "text": "2007",
-            "number": 2007
-          },
-          "predecessor5": {
-            "text": "Henn Elmet"
-          },
-          "successor5": {
-            "text": "Mait Klaassen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mait Klaassen"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 26, 1958"
-          },
-          "birth_place": {
-            "text": "Tartu, Estonia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tartu"
-              }
-            ]
-          },
-          "party": {
-            "text": "Independent",
-            "links": [
-              {
-                "text": "Independent",
-                "type": "internal",
-                "page": "Independent politician"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Sirje Karis (m. 1977)"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "Estonian University of Life Sciences",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Estonian University of Life Sciences"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Alar Karis",
+  "image": "Alar Karis December 2021 (3) (cropped).jpg",
+  "caption": "Karis in 2021",
+  "office1": "President of Estonia",
+  "primeminister1": "Kaja Kallas",
+  "term_start1": "11 October 2021",
+  "predecessor1": "Kersti Kaljulaid",
+  "office2": "Director of the Estonian National Museum",
+  "term_start2": "9 April 2018",
+  "term_end2": "7 September 2021",
+  "predecessor2": "Tõnis Lukas",
+  "successor2": "Kertu Saks",
+  "office3": "Auditor General of Estonia",
+  "term_start3": "7 April 2013",
+  "term_end3": "7 March 2018",
+  "predecessor3": "Mihkel Oviir",
+  "successor3": "Janar Holm",
+  "office4": "Rector of the University of Tartu",
+  "term_start4": "3 July 2007",
+  "term_end4": "30 June 2012",
+  "predecessor4": "Tõnu Lehtsaar (Acting)",
+  "successor4": "Volli Kalm",
+  "office5": "Rector of the Estonian University of Life Sciences",
+  "term_start5": "2003",
+  "term_end5": "2007",
+  "predecessor5": "Henn Elmet",
+  "successor5": "Mait Klaassen",
+  "birth_date": "March 26, 1958",
+  "birth_place": "Tartu, Estonia",
+  "party": "Independent",
+  "spouse": "Sirje Karis (m. 1977)",
+  "children": "3",
+  "alma_mater": "Estonian University of Life Sciences"
 }
