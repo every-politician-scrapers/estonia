@@ -1,320 +1,36 @@
 {
-  "title": "Jaak Aab",
-  "pageID": 12279552,
-  "categories": [
-    "1960 births",
-    "Living people",
-    "People from Tõrva Parish",
-    "Estonian Centre Party politicians",
-    "Education and Research ministers of Estonia",
-    "Social affairs ministers of Estonia",
-    "Members of the Riigikogu, 1999–2003",
-    "Members of the Riigikogu, 2007–2011",
-    "Members of the Riigikogu, 2019–2023",
-    "Mayors of places in Estonia",
-    "Tallinn University alumni"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jaak Aab (born 9 April 1960) is an Estonian politician of the Centre Party who has been serving as the Minister of Education and Research since 2020.",
-              "links": [
-                {
-                  "text": "Estonian",
-                  "type": "internal",
-                  "page": "Estonians"
-                },
-                {
-                  "text": "Centre Party",
-                  "type": "internal",
-                  "page": "Estonian Centre Party"
-                },
-                {
-                  "text": "Minister of Education and Research",
-                  "type": "internal",
-                  "page": "Minister of Education and Research (Estonia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jaak Aab"
-                ]
-              }
-            },
-            {
-              "text": "He previously served twice as the Minister of Public Administration from 2017 to 2018 and 2019 to 2020 and as the Minister of Social Affairs (Estonia) from 2005 to 2007.",
-              "links": [
-                {
-                  "text": "Minister of Public Administration",
-                  "type": "internal",
-                  "page": "Minister of Public Administration (Estonia)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister of Social Affairs (Estonia)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Estonian politician",
-          "template": "short description"
-        },
-        {
-          "topic": "bio",
-          "date": "April 2017",
-          "template": "expand german"
-        },
-        {
-          "year": "1960",
-          "month": "4",
-          "day": "9",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jaak Aab"
-          },
-          "image": {
-            "text": "Jaak Aab (crop).jpg"
-          },
-          "imagesize": {
-            "text": "250px"
-          },
-          "caption": {
-            "text": "Jaak Aab in 2021"
-          },
-          "office1": {
-            "text": "Minister of Public Administration",
-            "links": [
-              {
-                "text": "Minister of Public Administration",
-                "type": "internal",
-                "page": "Minister of Public Administration (Estonia)"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Kaja Kallas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaja Kallas"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 January 2021"
-          },
-          "predecessor1": {
-            "text": "Anneli Ott",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anneli Ott"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Jüri Ratas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jüri Ratas"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "29 April 2019"
-          },
-          "term_end2": {
-            "text": "25 November 2020"
-          },
-          "predecessor2": {
-            "text": "Janek Mäggi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janek Mäggi"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Anneli Ott",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anneli Ott"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Jüri Ratas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jüri Ratas"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "12 June 2017"
-          },
-          "term_end3": {
-            "text": "2 May 2018"
-          },
-          "predecessor3": {
-            "text": "Mihhail Korb",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mihhail Korb"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Janek Mäggi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Janek Mäggi"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Education and Research",
-            "links": [
-              {
-                "text": "Minister of Education and Research",
-                "type": "internal",
-                "page": "Minister of Education and Research (Estonia)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Jüri Ratas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jüri Ratas"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "25 November 2020"
-          },
-          "term_end4": {
-            "text": "26 January 2021"
-          },
-          "predecessor4": {
-            "text": "Mailis Reps",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mailis Reps"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Liina Kersna",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Liina Kersna"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Social Affairs",
-            "links": [
-              {
-                "text": "Minister of Social Affairs",
-                "type": "internal",
-                "page": "Minister of Social Affairs (Estonia)"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Andrus Ansip",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrus Ansip"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "13 April 2005"
-          },
-          "term_end5": {
-            "text": "5 April 2007"
-          },
-          "predecessor5": {
-            "text": "Marko Pomerants",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Marko Pomerants"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Maret Maripuu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maret Maripuu"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 9, 1960"
-          },
-          "birth_place": {
-            "text": "Taagepera, Estonian SSR",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Taagepera"
-              },
-              {
-                "text": "Estonian SSR",
-                "type": "internal",
-                "page": "Estonian Soviet Socialist Republic"
-              }
-            ]
-          },
-          "party": {
-            "text": "Estonian Centre Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Estonian Centre Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Tallinn University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tallinn University"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jaak Aab",
+  "image": "Jaak Aab (crop).jpg",
+  "imagesize": "250px",
+  "caption": "Jaak Aab in 2021",
+  "office1": "Minister of Public Administration",
+  "primeminister1": "Kaja Kallas",
+  "term_start1": "26 January 2021",
+  "predecessor1": "Anneli Ott",
+  "primeminister2": "Jüri Ratas",
+  "term_start2": "29 April 2019",
+  "term_end2": "25 November 2020",
+  "predecessor2": "Janek Mäggi",
+  "successor2": "Anneli Ott",
+  "primeminister3": "Jüri Ratas",
+  "term_start3": "12 June 2017",
+  "term_end3": "2 May 2018",
+  "predecessor3": "Mihhail Korb",
+  "successor3": "Janek Mäggi",
+  "office4": "Minister of Education and Research",
+  "primeminister4": "Jüri Ratas",
+  "term_start4": "25 November 2020",
+  "term_end4": "26 January 2021",
+  "predecessor4": "Mailis Reps",
+  "successor4": "Liina Kersna",
+  "office5": "Minister of Social Affairs",
+  "primeminister5": "Andrus Ansip",
+  "term_start5": "13 April 2005",
+  "term_end5": "5 April 2007",
+  "predecessor5": "Marko Pomerants",
+  "successor5": "Maret Maripuu",
+  "birth_date": "April 9, 1960",
+  "birth_place": "Taagepera, Estonian SSR",
+  "party": "Estonian Centre Party",
+  "alma_mater": "Tallinn University"
 }

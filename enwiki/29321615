@@ -1,268 +1,30 @@
 {
-  "title": "Urmas Kruuse",
-  "pageID": 29321615,
-  "categories": [
-    "1965 births",
-    "Living people",
-    "Mayors of Tartu",
-    "Estonian Reform Party politicians",
-    "People from Elva, Estonia",
-    "Agriculture ministers of Estonia",
-    "Health ministers of Estonia",
-    "Labour ministers of Estonia",
-    "21st-century Estonian politicians",
-    "Members of the Riigikogu, 2015–2019",
-    "Members of the Riigikogu, 2019–2023"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Urmas Kruuse (born 14 July 1965) is an Estonian politician who has been the Minister of Rural Affairs since 2021.",
-              "links": [
-                {
-                  "text": "Minister of Rural Affairs",
-                  "type": "internal",
-                  "page": "Minister of Rural Affairs (Estonia)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Urmas Kruuse"
-                ]
-              }
-            },
-            {
-              "text": "From 2014 to 2015, he was the Minister of Health and Labour.",
-              "links": [
-                {
-                  "text": "Minister of Health and Labour",
-                  "type": "internal",
-                  "page": "Minister of Health and Labour (Estonia)"
-                }
-              ]
-            },
-            {
-              "text": "He is member of the Estonian Reform Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Estonian Reform Party"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "May 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "description": "Estonian politician",
-          "template": "short description"
-        },
-        {
-          "df": "y",
-          "year": "1965",
-          "month": "07",
-          "day": "14",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Urmas Kruuse"
-          },
-          "image": {
-            "text": "Urmas Kruuse (crop).jpg"
-          },
-          "imagesize": {
-            "text": "200px"
-          },
-          "caption": {
-            "text": "Urmas Kruuse in 2021"
-          },
-          "primeminister": {
-            "text": "Kaja Kallas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kaja Kallas"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "26 January 2021"
-          },
-          "predecessor": {
-            "text": "Arvo Aller",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arvo Aller"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Taavi Rõivas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Taavi Rõivas"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 April 2015"
-          },
-          "term_end2": {
-            "text": "23 November 2016"
-          },
-          "predecessor2": {
-            "text": "Ivari Padar (as Minister of Agriculture)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ivari Padar"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Martin Repinski",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Martin Repinski"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Rural Affairs",
-            "links": [
-              {
-                "text": "Minister of Rural Affairs",
-                "type": "internal",
-                "page": "Minister of Rural Affairs (Estonia)"
-              }
-            ]
-          },
-          "title3": {
-            "text": "Minister of Health and Labour",
-            "links": [
-              {
-                "text": "Minister of Health and Labour",
-                "type": "internal",
-                "page": "Minister of Health and Labour (Estonia)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 March 2014"
-          },
-          "term_end3": {
-            "text": "30 March 2015"
-          },
-          "primeminister3": {
-            "text": "Taavi Rõivas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Taavi Rõivas"
-              }
-            ]
-          },
-          "predecessor3": {
-            "text": "Taavi Rõivas (as Minister of Social Affairs)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Taavi Rõivas"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Rannar Vassiljev",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rannar Vassiljev"
-              }
-            ]
-          },
-          "title4": {
-            "text": "Mayor of Tartu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mayor of Tartu"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "26 April 2007"
-          },
-          "term_end4": {
-            "text": "26 March 2014"
-          },
-          "predecessor4": {
-            "text": "Laine Jänes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laine Jänes"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Urmas Klaas",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Urmas Klaas"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "July 14, 1965"
-          },
-          "birth_place": {
-            "text": "Elva, Estonia",
-            "links": [
-              {
-                "text": "Elva",
-                "type": "internal",
-                "page": "Elva, Estonia"
-              }
-            ]
-          },
-          "party": {
-            "text": "Reform Party",
-            "links": [
-              {
-                "text": "Reform Party",
-                "type": "internal",
-                "page": "Estonian Reform Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "International University Audentes",
-            "links": [
-              {
-                "type": "internal",
-                "page": "International University Audentes"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Urmas Kruuse",
+  "image": "Urmas Kruuse (crop).jpg",
+  "imagesize": "200px",
+  "caption": "Urmas Kruuse in 2021",
+  "primeminister": "Kaja Kallas",
+  "term_start": "26 January 2021",
+  "predecessor": "Arvo Aller",
+  "primeminister2": "Taavi Rõivas",
+  "term_start2": "9 April 2015",
+  "term_end2": "23 November 2016",
+  "predecessor2": "Ivari Padar (as Minister of Agriculture)",
+  "successor2": "Martin Repinski",
+  "office": "Minister of Rural Affairs",
+  "title3": "Minister of Health and Labour",
+  "term_start3": "26 March 2014",
+  "term_end3": "30 March 2015",
+  "primeminister3": "Taavi Rõivas",
+  "predecessor3": "Taavi Rõivas (as Minister of Social Affairs)",
+  "successor3": "Rannar Vassiljev",
+  "title4": "Mayor of Tartu",
+  "term_start4": "26 April 2007",
+  "term_end4": "26 March 2014",
+  "predecessor4": "Laine Jänes",
+  "successor4": "Urmas Klaas",
+  "birth_date": "July 14, 1965",
+  "birth_place": "Elva, Estonia",
+  "party": "Reform Party",
+  "alma_mater": "International University Audentes"
 }
