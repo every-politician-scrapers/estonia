@@ -65,7 +65,6 @@ padding: 0 !important;
 <link rel='stylesheet' id='mCustomScrollbar-css'  href='https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/css/vendor/jquery.mCustomScrollbar.css?ver=2.0' type='text/css' media='all' />
 <link rel='stylesheet' id='oi-style-css'  href='https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/css/style.css?ver=2.1' type='text/css' media='all' />
 <link rel='stylesheet' id='oi-print-css'  href='https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/css/print.css?ver=2.1' type='text/css' media='print' />
-<link rel='stylesheet' id='cookie-notice-front-css'  href='https://www.riigikogu.ee/wpcms/wp-content/plugins/cookie-notice/includes/../css/front.min.css?ver=5.3.2' type='text/css' media='all' />
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/js/libs/jquery-ui-1.11.4.min.js?ver=2.0'></script>
@@ -75,18 +74,12 @@ padding: 0 !important;
 <script type='text/javascript'>
 /* <![CDATA[ */
 var myAjax = {"ajaxurl":"https:\/\/www.riigikogu.ee\/wpcms\/wp-admin\/admin-ajax.php","checkAction":"reservation_checker_wppublic","addListAction":"reservation_visitors_add","reservationDefaultTimes":["11:00 - 11:45","13:00 - 13:45","15:00 - 15:45"],"getFirstFreeTime":"reservation_get_first_free","getReservationDaysAvailable":"reservation_get_days_times_available","getReservationCalendarData":"reservation_get_calendar_data","getReservationVisitorsList":"reservation_get_visitors_list","cancelReservation":"reservation_cancel","noAvailableTimes":"Kahjuks vabad ajad puuduvad","areYouSure":"Are you sure you want to cancel booking? This can't be undone!"};
-var takenDates = {"2022-03-29":{"1":["13:00","11:00"]},"2022-03-30":{"1":["10:00"]},"2022-04-06":{"1":["10:00","11:00"]},"2022-04-07":{"1":["11:00"]},"2022-04-14":{"1":["10:00"]},"2022-04-18":{"1":["11:00","10:00"]},"2022-04-21":{"1":["11:00","15:00"]},"2022-05-05":{"1":["11:00"]},"2022-05-11":{"1":["11:00"]},"2022-04-26":{"1":["10:00","11:00"]},"2022-03-28":{"1":["10:00"]},"2022-03-31":{"1":["13:00"]},"2022-04-08":{"1":["11:00"]},"2022-04-05":{"1":["13:00"]},"2022-04-20":{"1":["10:00","11:00"]},"2022-04-22":{"1":["10:00","11:00"]},"2022-05-17":{"1":["10:00","15:00","13:00"]},"2022-04-01":{"1":["10:00"]}};
+var takenDates = {"2022-03-30":{"1":["10:00"]},"2022-04-06":{"1":["10:00","11:00"]},"2022-04-07":{"1":["11:00"]},"2022-04-14":{"1":["10:00"]},"2022-04-18":{"1":["11:00","10:00"]},"2022-04-21":{"1":["11:00","15:00"]},"2022-05-05":{"1":["11:00"]},"2022-05-11":{"1":["11:00"]},"2022-04-26":{"1":["10:00","11:00"]},"2022-03-31":{"1":["13:00"]},"2022-04-08":{"1":["11:00"]},"2022-04-05":{"1":["13:00"]},"2022-04-20":{"1":["10:00","11:00"]},"2022-04-22":{"1":["10:00","11:00"]},"2022-05-17":{"1":["10:00","15:00","13:00"]},"2022-04-01":{"1":["10:00"]}};
 var availableNumbers = ["1"];
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/js/broneerimine.js?ver=2.2'></script>
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-content/themes/riigikogu/js/libs/jquery.csv.min.js?ver=1.0.8'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var cnArgs = {"ajaxUrl":"https:\/\/www.riigikogu.ee\/wpcms\/wp-admin\/admin-ajax.php","nonce":"ab9c8aeb6e","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1"};
-/* ]]> */
-</script>
-<script async type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-content/plugins/cookie-notice/includes/../js/front.min.js?ver=2.2.3'></script>
 <script type="text/javascript">
 if (typeof ajaxurl == 'undefined')
 var ajaxurl = 'https://www.riigikogu.ee/wpcms/wp-admin/admin-ajax.php';
@@ -144,7 +137,7 @@ window.location.replace("//m.riigikogu.ee/riigikogu/koosseis/riigikogu-liikmed/"
 }
 </script>
 </head>
-<body class="page-template page-template-page-html-riigikogu-liikmed page-template-page-html-riigikogu-liikmed-php page page-id-180 page-parent page-child parent-pageid-21 lang-et cookies-not-set">
+<body class="page-template page-template-page-html-riigikogu-liikmed page-template-page-html-riigikogu-liikmed-php page page-id-180 page-parent page-child parent-pageid-21 lang-et">
 <div id="wrapper">
 <div id="skip">
 <a href="#nav_content" tabindex="1">Jäta navigatsioon vahele</a>
@@ -958,7 +951,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;&#101;&#114;r%79%2e&#97;&#97;&#114;&#116;&#64;%72%69%69&#103;i&#107;%6fg%75%2ee%65 ">me&#114;&#114;y&#46;aart&#64;r&#105;&#105;&#103;i&#107;&#111;g&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6d%65rry%2e%61&#97;rt&#64;r&#105;%69%67i&#107;%6fg%75.ee ">&#109;err&#121;.&#97;art&#64;ri&#105;gi&#107;&#111;g&#117;&#46;&#101;e</a></li>
 
 
 </ul>
@@ -1002,7 +995,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: a%6e%6eely.&#97;k&#107;%65%72%6d%61&#110;&#110;%40&#114;&#105;&#105;&#103;&#105;&#107;%6fg&#117;%2e&#101;&#101; ">a&#110;&#110;&#101;ly&#46;ak&#107;&#101;r&#109;&#97;&#110;n&#64;ri&#105;&#103;ikogu&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;%6e%6ee&#108;%79%2e&#97;&#107;%6b%65&#114;%6da%6en%40r%69i%67&#105;ko&#103;&#117;&#46;%65e ">a&#110;&#110;&#101;l&#121;&#46;&#97;k&#107;e&#114;&#109;&#97;&#110;&#110;&#64;&#114;&#105;&#105;giko&#103;u&#46;ee</a></li>
 
 
 </ul>
@@ -1040,7 +1033,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: y%6f%6b&#111;&#46;%61%6c&#101;n%64%65&#114;&#64;%72&#105;&#105;g&#105;&#107;&#111;&#103;%75&#46;%65e ">yo&#107;o.&#97;l&#101;&#110;&#100;er&#64;&#114;iig&#105;&#107;ogu&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %79&#111;%6b%6f&#46;%61l%65n&#100;e%72&#64;&#114;i&#105;%67i%6bo%67u%2eee ">y&#111;&#107;o.a&#108;end&#101;&#114;&#64;&#114;i&#105;&#103;&#105;&#107;&#111;g&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -1078,7 +1071,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %74%69%69u&#46;%61r%6f&#64;&#114;i%69gi&#107;%6fg&#117;&#46;e%65 ">&#116;iiu&#46;&#97;r&#111;&#64;&#114;&#105;i&#103;&#105;k&#111;&#103;u&#46;&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#116;&#105;%69%75&#46;%61ro&#64;%72%69%69&#103;&#105;%6bogu%2e%65&#101; ">&#116;&#105;&#105;u.a&#114;o&#64;&#114;&#105;ig&#105;&#107;&#111;&#103;u&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -1116,7 +1109,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: r&#105;ho.&#98;r%65%69%76%65%6c&#64;ri%69g%69%6b%6f%67u.e&#101; ">&#114;&#105;&#104;o.&#98;&#114;&#101;&#105;&#118;&#101;l&#64;r&#105;&#105;g&#105;ko&#103;u&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: r&#105;&#104;%6f%2ebr&#101;%69%76&#101;%6c&#64;&#114;&#105;i%67&#105;ko%67u%2e%65&#101; ">ri&#104;&#111;.b&#114;e&#105;&#118;e&#108;&#64;riig&#105;&#107;o&#103;&#117;.ee</a></li>
 
 
 </ul>
@@ -1154,7 +1147,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#100;m%69tri%2ed%6d%69&#116;&#114;&#105;%6a%65%76&#64;rii%67&#105;ko&#103;u%2e&#101;&#101; ">dm&#105;tr&#105;&#46;d&#109;it&#114;ijev&#64;&#114;ii&#103;&#105;k&#111;g&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %64&#109;%69&#116;%72i.d%6d%69&#116;&#114;i%6a&#101;%76&#64;r%69&#105;%67i&#107;%6fg&#117;&#46;e&#101; ">&#100;mi&#116;r&#105;.dm&#105;tr&#105;&#106;ev&#64;&#114;&#105;&#105;g&#105;&#107;ogu.&#101;&#101;</a></li>
 
 
 </ul>
@@ -1192,7 +1185,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: i&#118;i%2eeen&#109;a&#97;&#64;r&#105;&#105;g%69&#107;%6fg&#117;.&#101;e ">&#105;v&#105;.&#101;e&#110;&#109;&#97;a&#64;ri&#105;&#103;&#105;&#107;o&#103;&#117;.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %69&#118;i.%65&#101;n&#109;a&#97;&#64;&#114;%69&#105;&#103;ik%6fg&#117;.&#101;%65 ">i&#118;&#105;&#46;&#101;e&#110;&#109;aa&#64;&#114;iigi&#107;&#111;&#103;u&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -1230,7 +1223,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#101;&#110;&#110;%2ee&#101;smaa&#64;&#114;i%69&#103;&#105;%6b&#111;%67%75&#46;%65%65 ">en&#110;.ee&#115;maa&#64;&#114;&#105;&#105;gikog&#117;&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: en&#110;.%65&#101;%73%6daa&#64;&#114;&#105;&#105;&#103;ik%6f%67u&#46;%65&#101; ">en&#110;&#46;e&#101;&#115;maa&#64;r&#105;ig&#105;kogu.e&#101;</a></li>
 
 
 </ul>
@@ -1274,7 +1267,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %70e%65&#116;e%72%2ee%72ni%74&#115;%40&#114;&#105;igik%6f%67u.&#101;%65 ">p&#101;et&#101;&#114;.&#101;&#114;&#110;&#105;&#116;s&#64;&#114;&#105;&#105;&#103;ik&#111;gu.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#112;e%65%74&#101;&#114;&#46;e&#114;&#110;&#105;ts&#64;&#114;i%69&#103;i&#107;o%67&#117;.e&#101; ">&#112;&#101;eter.&#101;&#114;nit&#115;&#64;&#114;iigik&#111;g&#117;&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -1312,7 +1305,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: h&#101;le%2e&#101;&#118;%65r&#97;%75%73&#64;&#114;ii&#103;%69&#107;&#111;&#103;u.&#101;%65 ">h&#101;le.&#101;v&#101;r&#97;&#117;&#115;&#64;r&#105;igik&#111;g&#117;.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: hele.&#101;&#118;er%61%75%73&#64;%72%69&#105;g&#105;&#107;&#111;&#103;u%2e%65e ">&#104;&#101;&#108;e.evera&#117;s&#64;&#114;&#105;i&#103;&#105;&#107;&#111;g&#117;.&#101;e</a></li>
 
 
 </ul>
@@ -1350,7 +1343,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#107;al&#108;e&#46;%67ryn%74&#104;%61&#108;&#64;&#114;i%69g%69%6bog%75%2e&#101;e ">&#107;all&#101;.&#103;&#114;y&#110;t&#104;al&#64;&#114;&#105;&#105;gi&#107;o&#103;&#117;.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6b%61l&#108;&#101;.&#103;&#114;%79&#110;t&#104;&#97;%6c&#64;%72&#105;&#105;%67i%6b%6f&#103;&#117;%2e%65&#101; ">k&#97;&#108;l&#101;&#46;&#103;&#114;&#121;&#110;&#116;&#104;&#97;l&#64;&#114;&#105;&#105;&#103;&#105;k&#111;&#103;&#117;.ee</a></li>
 
 
 </ul>
@@ -1388,7 +1381,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: h%65%6c%6ce&#45;m%6f%6f&#110;i&#107;&#97;.%68&#101;&#108;me&#64;rii&#103;&#105;k%6f&#103;&#117;%2e%65%65 ">&#104;el&#108;e&#45;moo&#110;ika&#46;&#104;&#101;&#108;m&#101;&#64;r&#105;&#105;&#103;ik&#111;g&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: h&#101;&#108;le&#45;%6do%6f%6ei&#107;&#97;&#46;he&#108;%6d&#101;&#64;r%69i&#103;%69%6b%6f%67&#117;&#46;ee ">&#104;&#101;&#108;&#108;&#101;-m&#111;&#111;n&#105;ka&#46;helm&#101;&#64;&#114;iig&#105;&#107;&#111;gu&#46;ee</a></li>
 
 
 </ul>
@@ -1426,7 +1419,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6da&#114;&#116;%2ehe%6c%6d&#101;&#64;r%69%69%67i%6b%6f&#103;&#117;.e&#101; ">m&#97;&#114;t&#46;h&#101;lme&#64;&#114;&#105;i&#103;ik&#111;&#103;u.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%61rt&#46;&#104;e&#108;&#109;e&#64;&#114;%69%69g%69k&#111;g&#117;.ee ">&#109;a&#114;&#116;&#46;h&#101;&#108;&#109;e&#64;&#114;ii&#103;&#105;k&#111;g&#117;.&#101;&#101;</a></li>
 
 
 </ul>
@@ -1459,7 +1452,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;a%72%74&#105;n&#46;h%65&#108;m&#101;%40%72i&#105;%67&#105;k&#111;&#103;%75.&#101;%65 ">&#109;&#97;&#114;t&#105;&#110;.hel&#109;e&#64;riig&#105;k&#111;&#103;&#117;&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6d%61&#114;t%69n.&#104;%65l%6de&#64;%72i%69g%69%6b%6fg%75.&#101;%65 ">&#109;&#97;r&#116;in.&#104;&#101;lme&#64;ri&#105;&#103;&#105;&#107;&#111;&#103;u&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -1497,7 +1490,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#104;e%69k%69&#46;he%70ne&#114;&#64;&#114;i&#105;gi&#107;%6fg&#117;&#46;%65&#101; ">h&#101;&#105;k&#105;.&#104;epne&#114;&#64;r&#105;&#105;&#103;ikogu&#46;e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#104;%65&#105;&#107;&#105;.&#104;epne%72&#64;%72i&#105;&#103;ik&#111;g&#117;&#46;ee ">&#104;&#101;ik&#105;&#46;&#104;e&#112;n&#101;r&#64;r&#105;i&#103;ik&#111;g&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -1541,7 +1534,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: k&#97;%69d&#111;&#46;h%6f%6f%76e&#108;&#115;on&#64;%72&#105;%69&#103;%69k&#111;&#103;&#117;.%65&#101; ">&#107;&#97;ido.h&#111;ov&#101;l&#115;&#111;n&#64;&#114;&#105;igi&#107;&#111;g&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#107;aid&#111;.&#104;oo%76%65l%73%6f&#110;&#64;r%69%69%67%69%6b%6fg&#117;.%65e ">&#107;a&#105;&#100;&#111;&#46;ho&#111;vels&#111;&#110;&#64;&#114;&#105;ig&#105;k&#111;g&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -1579,7 +1572,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#106;&#121;&#114;i%2e&#106;&#97;%61nso%6e%40r&#105;i&#103;%69&#107;og&#117;.%65e ">&#106;&#121;&#114;&#105;.&#106;&#97;&#97;&#110;&#115;&#111;n&#64;&#114;&#105;i&#103;&#105;k&#111;gu.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#106;y%72%69&#46;j%61an%73on%40r&#105;ig%69&#107;%6f%67&#117;&#46;&#101;&#101; ">&#106;&#121;&#114;i&#46;&#106;a&#97;nson&#64;riigik&#111;&#103;u&#46;&#101;e</a></li>
 
 
 </ul>
@@ -1617,7 +1610,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%61%72%69a.%6a&#117;&#102;%65&#114;&#101;%76&#97;&#45;&#115;k&#117;ra&#116;%6f&#118;sk%69&#64;r&#105;%69&#103;&#105;%6b&#111;&#103;%75.%65%65 ">&#109;&#97;&#114;&#105;a.&#106;ufe&#114;&#101;&#118;&#97;-&#115;&#107;&#117;ra&#116;ovs&#107;&#105;&#64;r&#105;&#105;gikog&#117;.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6d%61ri%61&#46;&#106;%75%66e&#114;%65%76&#97;-sk%75&#114;%61&#116;&#111;%76%73&#107;i&#64;%72iigi%6bo%67u%2e%65&#101; ">&#109;&#97;&#114;ia.j&#117;&#102;e&#114;eva&#45;sk&#117;ratov&#115;ki&#64;r&#105;&#105;&#103;ik&#111;&#103;u.&#101;&#101;</a></li>
 
 
 </ul>
@@ -1655,7 +1648,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: ja&#97;&#107;&#46;ju&#115;k&#101;&#64;&#114;%69&#105;%67i&#107;&#111;gu%2ee&#101; ">j&#97;&#97;k.&#106;&#117;&#115;&#107;e&#64;&#114;&#105;&#105;g&#105;k&#111;&#103;u&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: j&#97;%61%6b%2ej&#117;%73%6b&#101;&#64;%72&#105;&#105;&#103;%69%6b&#111;%67&#117;%2e&#101;%65 ">&#106;aak.j&#117;&#115;ke&#64;r&#105;&#105;&#103;&#105;&#107;&#111;gu.&#101;&#101;</a></li>
 
 
 </ul>
@@ -1693,7 +1686,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: t%6f&#111;m%61&#115;&#46;j%61&#114;&#118;%65&#111;j&#97;%40%72%69i&#103;i%6bo%67u%2e%65%65 ">too&#109;&#97;s&#46;&#106;ar&#118;&#101;o&#106;&#97;&#64;ri&#105;&#103;ikogu.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: to&#111;%6d%61%73.&#106;%61%72v&#101;o%6aa&#64;r%69&#105;&#103;&#105;%6b%6f%67&#117;%2eee ">t&#111;om&#97;&#115;.j&#97;&#114;&#118;eoja&#64;r&#105;&#105;g&#105;kogu&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -1737,7 +1730,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: m%61%72&#101;%6b.j%79&#114;%67ens&#111;&#110;&#64;&#114;i%69gi&#107;o%67&#117;.&#101;e ">&#109;&#97;re&#107;&#46;j&#121;rg&#101;&#110;s&#111;n&#64;r&#105;&#105;g&#105;k&#111;&#103;&#117;.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%61r&#101;k%2e&#106;y&#114;&#103;&#101;n&#115;&#111;&#110;&#64;r%69igi&#107;&#111;&#103;u&#46;%65e ">mar&#101;&#107;&#46;j&#121;&#114;&#103;&#101;&#110;so&#110;&#64;&#114;i&#105;&#103;ik&#111;g&#117;.&#101;&#101;</a></li>
 
 
 </ul>
@@ -1775,7 +1768,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#114;&#117;&#117;&#98;en&#46;%6ba%61&#108;%65&#112;%40r%69&#105;%67%69%6b%6f&#103;%75.%65e ">r&#117;&#117;b&#101;&#110;&#46;ka&#97;l&#101;p&#64;&#114;iigiko&#103;u.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: ruu&#98;%65&#110;%2e&#107;%61&#97;%6c&#101;&#112;&#64;r&#105;i%67i&#107;o&#103;&#117;.%65%65 ">r&#117;&#117;&#98;&#101;n.&#107;a&#97;l&#101;p&#64;r&#105;&#105;&#103;&#105;k&#111;g&#117;&#46;&#101;e</a></li>
 
 
 </ul>
@@ -1813,7 +1806,7 @@ Fraktsiooni mittekuuluvad Riigikogu liikmed                                     
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#114;%61&#105;mon%64%2e%6b%61%6cju&#108;%61&#105;&#100;%40%72iig&#105;k&#111;%67u.&#101;e ">&#114;a&#105;m&#111;&#110;&#100;.kal&#106;ul&#97;&#105;d&#64;&#114;&#105;&#105;g&#105;k&#111;g&#117;&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#114;&#97;&#105;&#109;o%6e%64&#46;%6b%61%6c&#106;%75&#108;ai&#100;%40&#114;%69i&#103;&#105;%6b%6fgu%2e&#101;e ">&#114;&#97;imo&#110;d&#46;&#107;&#97;lj&#117;l&#97;&#105;&#100;&#64;rii&#103;&#105;&#107;&#111;g&#117;&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -1851,7 +1844,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %73&#105;%69%6d&#46;&#107;a%6c&#108;a&#115;&#64;%72&#105;i%67ik&#111;g%75.e&#101; ">&#115;&#105;&#105;m.ka&#108;&#108;as&#64;r&#105;&#105;g&#105;k&#111;gu.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#115;%69&#105;%6d%2e&#107;a%6c&#108;%61&#115;&#64;&#114;&#105;i%67&#105;%6b&#111;&#103;&#117;.&#101;e ">s&#105;&#105;&#109;.&#107;al&#108;&#97;s&#64;&#114;i&#105;g&#105;kog&#117;.&#101;&#101;</a></li>
 
 
 </ul>
@@ -1889,7 +1882,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#115;u&#108;e&#118;.%6b%61n&#110;&#105;%6d&#97;e&#64;&#114;ii&#103;i&#107;o%67&#117;&#46;&#101;&#101; ">&#115;ul&#101;&#118;&#46;k&#97;&#110;nim&#97;&#101;&#64;&#114;&#105;&#105;g&#105;&#107;og&#117;.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %73u&#108;%65v%2ek%61%6e%6e&#105;ma%65%40%72&#105;%69g&#105;k%6fg%75&#46;&#101;&#101; ">&#115;ule&#118;.ka&#110;&#110;ima&#101;&#64;&#114;ii&#103;&#105;kog&#117;&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -1927,7 +1920,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#106;aa&#110;u%73%2e&#107;&#97;&#114;%69&#108;%61%69&#100;&#64;r&#105;ig&#105;kog&#117;.%65%65 ">&#106;&#97;a&#110;us&#46;k&#97;ri&#108;&#97;id&#64;r&#105;&#105;gik&#111;g&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#106;%61anu%73&#46;%6ba%72&#105;l&#97;%69%64%40&#114;%69%69%67i&#107;%6f%67&#117;&#46;%65&#101; ">ja&#97;n&#117;s.k&#97;&#114;&#105;la&#105;d&#64;r&#105;&#105;&#103;&#105;&#107;&#111;gu.&#101;&#101;</a></li>
 
 
 </ul>
@@ -1965,7 +1958,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#117;%6eo.k%61%73k%70%65&#105;&#116;&#64;%72%69%69&#103;i&#107;&#111;&#103;&#117;%2e%65&#101; ">&#117;no&#46;&#107;&#97;s&#107;&#112;e&#105;t&#64;r&#105;i&#103;&#105;&#107;og&#117;&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %75%6eo&#46;%6b&#97;&#115;k%70e%69t&#64;&#114;%69%69&#103;%69&#107;o%67&#117;.&#101;&#101; ">&#117;&#110;&#111;.ka&#115;&#107;&#112;&#101;&#105;t&#64;&#114;&#105;igiko&#103;&#117;.&#101;&#101;</a></li>
 
 
 </ul>
@@ -2003,7 +1996,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#101;rk%6b%69%2e&#107;%65l&#100;o%40&#114;i&#105;&#103;&#105;k%6fg%75.e%65 ">e&#114;k&#107;&#105;&#46;&#107;&#101;ldo&#64;&#114;&#105;ig&#105;&#107;&#111;&#103;&#117;.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %65rkk&#105;.k%65%6c&#100;&#111;&#64;r&#105;i%67%69&#107;og&#117;.e%65 ">&#101;&#114;k&#107;&#105;&#46;ke&#108;d&#111;&#64;&#114;i&#105;&#103;&#105;&#107;o&#103;&#117;&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -2047,7 +2040,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: kert%2e%6b&#105;ng&#111;%40r%69i&#103;i%6bogu&#46;e&#101; ">k&#101;&#114;&#116;&#46;&#107;&#105;&#110;g&#111;&#64;&#114;&#105;ig&#105;&#107;&#111;&#103;u&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#107;%65%72t.k&#105;%6e&#103;&#111;&#64;&#114;ii&#103;ik%6fg%75%2ee&#101; ">&#107;e&#114;t.k&#105;&#110;g&#111;&#64;r&#105;&#105;&#103;i&#107;ogu&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -2085,7 +2078,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#115;i%67n%65%2e%6b%69%76%69&#64;&#114;i%69g&#105;k&#111;g&#117;%2e%65&#101; ">s&#105;g&#110;e.&#107;ivi&#64;rii&#103;&#105;ko&#103;u.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %73i%67n%65&#46;k%69&#118;i%40&#114;&#105;%69g%69k%6f&#103;%75&#46;ee ">s&#105;gne&#46;ki&#118;&#105;&#64;ri&#105;g&#105;k&#111;gu.e&#101;</a></li>
 
 
 </ul>
@@ -2123,7 +2116,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %74oom&#97;&#115;&#46;%6bi&#118;im&#97;%67&#105;&#64;&#114;&#105;%69&#103;ik&#111;%67&#117;.&#101;e ">t&#111;o&#109;&#97;&#115;.k&#105;vi&#109;&#97;gi&#64;r&#105;i&#103;&#105;ko&#103;u.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %74%6f&#111;&#109;&#97;&#115;&#46;&#107;%69vi%6d&#97;g%69&#64;r%69%69&#103;&#105;&#107;&#111;&#103;%75&#46;e&#101; ">t&#111;oma&#115;&#46;&#107;&#105;&#118;&#105;m&#97;gi&#64;ri&#105;g&#105;k&#111;g&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -2167,7 +2160,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;&#105;v&#97;r.%6b%6f%6b&#107;&#64;%72i&#105;&#103;%69k%6f&#103;u&#46;%65%65 ">a&#105;&#118;a&#114;&#46;k&#111;kk&#64;r&#105;i&#103;i&#107;&#111;&#103;u&#46;e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %61iv&#97;%72.ko%6b&#107;&#64;%72%69&#105;&#103;%69&#107;o%67u.%65%65 ">ai&#118;a&#114;&#46;kokk&#64;rii&#103;&#105;&#107;&#111;&#103;&#117;&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -2205,7 +2198,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#114;e%6ee%2ekokk&#64;%72&#105;&#105;gi&#107;%6f&#103;u%2ee%65 ">r&#101;&#110;&#101;.ko&#107;&#107;&#64;&#114;i&#105;g&#105;k&#111;&#103;&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#114;&#101;&#110;&#101;&#46;%6b%6fk&#107;&#64;&#114;&#105;%69%67ikogu&#46;%65&#101; ">&#114;&#101;&#110;&#101;&#46;&#107;&#111;kk&#64;&#114;&#105;i&#103;&#105;&#107;o&#103;&#117;&#46;&#101;e</a></li>
 
 
 </ul>
@@ -2243,7 +2236,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: mi&#104;&#104;&#97;%69l%2e&#107;orb&#64;riigi&#107;&#111;&#103;u%2e&#101;%65 ">&#109;&#105;h&#104;&#97;&#105;l&#46;korb&#64;&#114;&#105;&#105;&#103;&#105;&#107;o&#103;&#117;.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: m&#105;%68&#104;%61%69&#108;.&#107;o%72&#98;%40&#114;%69i%67%69k&#111;gu%2e&#101;e ">mi&#104;hai&#108;&#46;korb&#64;r&#105;ig&#105;ko&#103;u.ee</a></li>
 
 
 </ul>
@@ -2281,7 +2274,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: a%6e&#100;&#114;e&#105;.k%6fr&#111;b&#101;&#105;%6ei&#107;&#64;ri&#105;%67i&#107;og&#117;%2eee ">&#97;n&#100;r&#101;&#105;.k&#111;r&#111;be&#105;&#110;&#105;k&#64;riigi&#107;&#111;&#103;u.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;&#110;d&#114;%65%69&#46;%6b%6f&#114;o&#98;eini&#107;&#64;&#114;%69&#105;gik&#111;%67&#117;.%65e ">&#97;nd&#114;ei.&#107;&#111;&#114;obe&#105;&#110;i&#107;&#64;&#114;&#105;i&#103;i&#107;&#111;g&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -2319,7 +2312,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %73%69%72&#101;%74&#46;k&#111;&#116;k&#97;%40&#114;&#105;&#105;&#103;iko&#103;%75.&#101;e ">&#115;i&#114;&#101;&#116;.ko&#116;&#107;a&#64;riig&#105;ko&#103;u&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: s&#105;%72e&#116;&#46;ko%74k&#97;&#64;%72iig&#105;%6bog%75%2e&#101;%65 ">&#115;ir&#101;t.&#107;o&#116;ka&#64;&#114;i&#105;&#103;i&#107;&#111;gu.&#101;&#101;</a></li>
 
 
 </ul>
@@ -2357,7 +2350,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %68&#101;%69%6b%69.&#107;%72&#97;%6ei&#99;%68%40&#114;&#105;%69&#103;i&#107;og%75&#46;%65e ">&#104;&#101;ik&#105;&#46;&#107;&#114;&#97;&#110;i&#99;h&#64;&#114;iigikogu&#46;&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: heik&#105;%2e&#107;%72%61&#110;&#105;c&#104;%40rii&#103;i&#107;ogu&#46;ee ">&#104;eiki.&#107;&#114;&#97;&#110;i&#99;&#104;&#64;&#114;i&#105;g&#105;ko&#103;u.&#101;&#101;</a></li>
 
 
 </ul>
@@ -2395,7 +2388,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: i&#103;&#111;%72.%6bra%76&#116;%73%65n%6bo%40&#114;&#105;&#105;&#103;%69%6b%6f%67%75%2e%65%65 ">&#105;&#103;&#111;&#114;.k&#114;av&#116;&#115;e&#110;&#107;o&#64;riig&#105;&#107;o&#103;u&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: igor&#46;kra%76t&#115;%65&#110;ko%40r&#105;&#105;giko&#103;&#117;.&#101;%65 ">i&#103;o&#114;.krav&#116;se&#110;&#107;o&#64;r&#105;&#105;&#103;&#105;&#107;&#111;gu.&#101;&#101;</a></li>
 
 
 </ul>
@@ -2439,7 +2432,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#101;&#101;r%69k&#45;%6e%69%69les%2e%6br&#111;ss&#64;%72&#105;&#105;&#103;%69%6b&#111;&#103;%75%2e&#101;e ">e&#101;ri&#107;-&#110;&#105;&#105;le&#115;&#46;k&#114;&#111;ss&#64;&#114;&#105;&#105;gik&#111;g&#117;&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#101;%65r&#105;&#107;&#45;n&#105;&#105;l%65s&#46;%6br%6f&#115;&#115;&#64;%72i&#105;&#103;%69%6b%6f%67u%2e%65%65 ">&#101;e&#114;&#105;k&#45;n&#105;&#105;l&#101;&#115;.&#107;ro&#115;&#115;&#64;&#114;iigiko&#103;u&#46;e&#101;</a></li>
 
 
 </ul>
@@ -2483,7 +2476,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %74%61r%6d&#111;%2e%6bruu&#115;&#105;m%61&#101;%40&#114;ii%67%69%6b%6f%67%75%2e%65&#101; ">t&#97;r&#109;&#111;&#46;k&#114;u&#117;&#115;ima&#101;&#64;ri&#105;&#103;ik&#111;&#103;u&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %74%61rmo&#46;kruus&#105;%6d%61%65%40r%69%69&#103;i&#107;&#111;&#103;%75&#46;ee ">&#116;&#97;r&#109;o&#46;&#107;r&#117;&#117;&#115;ima&#101;&#64;&#114;ii&#103;&#105;ko&#103;u&#46;&#101;e</a></li>
 
 
 </ul>
@@ -2521,7 +2514,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#108;e&#111;.&#107;u&#110;n&#97;&#115;%40%72ii%67i&#107;&#111;%67%75%2ee%65 ">le&#111;.&#107;&#117;nn&#97;&#115;&#64;&#114;i&#105;g&#105;&#107;o&#103;&#117;&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6ceo%2e%6b%75&#110;%6e&#97;%73&#64;%72&#105;%69%67&#105;&#107;o&#103;u&#46;&#101;%65 ">&#108;&#101;&#111;.&#107;&#117;&#110;&#110;a&#115;&#64;ri&#105;&#103;&#105;ko&#103;&#117;&#46;&#101;e</a></li>
 
 
 </ul>
@@ -2565,7 +2558,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: k%61lv%69&#46;k&#111;&#118;%61&#64;&#114;%69igi%6b%6f%67u&#46;e%65 ">kal&#118;i&#46;ko&#118;a&#64;&#114;&#105;igi&#107;ogu.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#107;%61%6c%76i%2e&#107;ov%61%40r%69%69%67&#105;&#107;og%75&#46;%65&#101; ">&#107;&#97;&#108;&#118;&#105;&#46;&#107;ov&#97;&#64;riigiko&#103;u&#46;ee</a></li>
 
 
 </ul>
@@ -2609,7 +2602,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %68%65&#108;%6de&#110;.%6b%79tt&#64;r%69i&#103;iko&#103;u&#46;&#101;&#101; ">h&#101;lm&#101;&#110;&#46;&#107;&#121;&#116;t&#64;riigik&#111;g&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#104;&#101;%6c%6d%65&#110;.%6b&#121;t%74&#64;&#114;&#105;&#105;&#103;%69k%6f%67%75.%65&#101; ">he&#108;&#109;e&#110;.&#107;y&#116;&#116;&#64;r&#105;&#105;&#103;ik&#111;gu.ee</a></li>
 
 
 </ul>
@@ -2647,7 +2640,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;%6e%74s%2e%6c&#97;%61ne%6ft%73&#64;%72&#105;&#105;%67&#105;%6b&#111;%67&#117;&#46;%65e ">&#97;nts&#46;l&#97;a&#110;&#101;&#111;ts&#64;&#114;iig&#105;&#107;&#111;gu&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;n%74s%2e&#108;%61&#97;neots&#64;%72&#105;%69g%69kog&#117;%2eee ">&#97;n&#116;&#115;&#46;la&#97;ne&#111;ts&#64;&#114;i&#105;g&#105;k&#111;&#103;u&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -2685,7 +2678,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %76i&#107;t&#111;r&#105;%61&#46;&#108;&#97;&#100;on&#115;%6b&#97;&#106;a-&#107;ub&#105;t&#115;&#64;&#114;&#105;&#105;%67%69ko%67&#117;%2e%65&#101; ">v&#105;&#107;to&#114;i&#97;.&#108;ad&#111;n&#115;&#107;aja&#45;&#107;&#117;bi&#116;s&#64;rii&#103;ik&#111;&#103;u.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %76i&#107;%74%6f%72i&#97;&#46;l%61d%6fn%73k&#97;&#106;a&#45;%6b%75bi%74%73&#64;&#114;%69&#105;&#103;ik%6fg&#117;%2e&#101;&#101; ">v&#105;ktor&#105;a&#46;&#108;&#97;d&#111;&#110;s&#107;&#97;ja-&#107;&#117;&#98;&#105;&#116;s&#64;&#114;iig&#105;k&#111;g&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -2723,7 +2716,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;%6c%61%72&#46;%6c%61&#110;e%6d&#97;n%40&#114;i&#105;&#103;ik&#111;g&#117;%2e&#101;%65 ">&#97;&#108;a&#114;&#46;&#108;an&#101;&#109;&#97;n&#64;rii&#103;&#105;&#107;&#111;&#103;u&#46;&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;%6c&#97;%72.&#108;%61%6eem%61&#110;&#64;&#114;i&#105;%67i%6b%6f&#103;u.%65e ">a&#108;a&#114;.l&#97;nema&#110;&#64;r&#105;&#105;gi&#107;ogu&#46;&#101;e</a></li>
 
 
 </ul>
@@ -2767,7 +2760,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#106;yr%67&#101;n%2e%6c%69g&#105;%40ri&#105;%67ik%6fg&#117;&#46;%65%65 ">&#106;&#121;r&#103;e&#110;&#46;l&#105;gi&#64;&#114;&#105;&#105;g&#105;k&#111;g&#117;&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: j%79%72&#103;en&#46;li&#103;&#105;&#64;ri&#105;g&#105;&#107;&#111;%67u.%65&#101; ">j&#121;&#114;g&#101;&#110;&#46;&#108;&#105;gi&#64;&#114;iig&#105;&#107;o&#103;&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -2805,7 +2798,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: ou&#100;e&#107;&#107;i.l&#111;%6f%6e%65&#64;ri%69g&#105;%6b%6f&#103;&#117;&#46;e%65 ">o&#117;&#100;ekk&#105;&#46;loone&#64;rii&#103;i&#107;&#111;gu.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#111;&#117;%64e&#107;ki%2e&#108;%6f&#111;&#110;&#101;&#64;&#114;&#105;%69%67&#105;k&#111;&#103;&#117;.%65%65 ">o&#117;de&#107;k&#105;.&#108;&#111;&#111;ne&#64;ri&#105;g&#105;k&#111;&#103;u&#46;ee</a></li>
 
 
 </ul>
@@ -2843,7 +2836,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6dih%68a&#105;l.&#108;o%74%6d%61%6e&#64;%72%69i%67&#105;%6b%6f%67%75.%65%65 ">&#109;&#105;hh&#97;il.&#108;&#111;&#116;&#109;an&#64;ri&#105;gi&#107;ogu&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: mihhai%6c%2e%6co&#116;&#109;a%6e&#64;ri&#105;%67ik%6f%67&#117;%2eee ">&#109;ih&#104;&#97;i&#108;.lo&#116;&#109;&#97;&#110;&#64;ri&#105;&#103;&#105;ko&#103;u&#46;e&#101;</a></li>
 
 
 </ul>
@@ -2881,7 +2874,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: la%75%72&#105;%2ela&#97;&#110;e%6d&#101;&#116;s&#64;r%69&#105;&#103;i&#107;&#111;%67%75&#46;&#101;%65 ">&#108;&#97;u&#114;i&#46;&#108;aa&#110;&#101;&#109;&#101;&#116;&#115;&#64;&#114;iigi&#107;o&#103;u.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: l&#97;&#117;%72%69%2e%6c%61ane&#109;e&#116;&#115;&#64;&#114;&#105;%69%67&#105;&#107;&#111;%67%75.e%65 ">l&#97;&#117;&#114;&#105;.&#108;a&#97;nemet&#115;&#64;rii&#103;&#105;k&#111;g&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -2925,7 +2918,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#110;&#97;t&#97;%6c%69%61%2e&#109;&#97;&#108;&#108;e&#117;s%40r&#105;%69&#103;%69&#107;o&#103;%75%2e%65%65 ">nat&#97;li&#97;&#46;&#109;&#97;&#108;&#108;&#101;&#117;s&#64;&#114;iig&#105;k&#111;&#103;u.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6e&#97;&#116;al&#105;%61.&#109;a%6c&#108;&#101;%75%73&#64;r%69%69gi&#107;o%67&#117;%2e%65&#101; ">n&#97;&#116;a&#108;&#105;a.&#109;alleu&#115;&#64;&#114;&#105;&#105;&#103;iko&#103;u&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -2963,7 +2956,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %61&#110;&#100;%72e&#115;&#46;m&#101;%74so&#106;%61&#64;%72ii%67&#105;k%6f%67&#117;&#46;%65%65 ">&#97;ndres&#46;&#109;&#101;&#116;s&#111;ja&#64;r&#105;i&#103;&#105;&#107;&#111;g&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %61%6e%64&#114;e%73&#46;%6de&#116;&#115;o%6a%61&#64;%72%69&#105;&#103;&#105;%6bog&#117;%2e&#101;%65 ">an&#100;r&#101;s.m&#101;&#116;&#115;&#111;&#106;&#97;&#64;ri&#105;g&#105;&#107;o&#103;u.&#101;&#101;</a></li>
 
 
 </ul>
@@ -3001,7 +2994,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: k%72%69s%74%65%6e.m&#105;%63h%61l%40%72%69&#105;&#103;&#105;%6b%6f&#103;&#117;&#46;e%65 ">k&#114;&#105;sten&#46;&#109;&#105;c&#104;al&#64;ri&#105;&#103;ik&#111;g&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#107;%72%69%73&#116;e%6e&#46;&#109;i%63&#104;&#97;&#108;&#64;r&#105;&#105;&#103;ik&#111;&#103;u&#46;&#101;%65 ">&#107;r&#105;&#115;ten&#46;&#109;&#105;&#99;ha&#108;&#64;ri&#105;&#103;&#105;k&#111;&#103;&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -3039,7 +3032,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6da%72&#107;&#111;%2e%6d&#105;&#104;%6b&#101;lso&#110;&#64;&#114;ii%67ik&#111;g&#117;&#46;%65&#101; ">mar&#107;o&#46;&#109;&#105;&#104;ke&#108;&#115;&#111;n&#64;r&#105;i&#103;&#105;&#107;&#111;g&#117;.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%61&#114;k%6f.mi%68%6bel%73&#111;%6e&#64;&#114;%69i&#103;&#105;&#107;o%67u%2e%65&#101; ">&#109;a&#114;k&#111;.&#109;&#105;hke&#108;&#115;o&#110;&#64;r&#105;&#105;&#103;i&#107;o&#103;&#117;&#46;&#101;e</a></li>
 
 
 </ul>
@@ -3077,7 +3070,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: a%61&#100;u&#46;%6d&#117;%73%74&#64;%72&#105;i%67%69&#107;%6f&#103;&#117;.e&#101; ">a&#97;&#100;&#117;.m&#117;&#115;&#116;&#64;r&#105;ig&#105;&#107;og&#117;&#46;e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %61&#97;%64u&#46;%6dus&#116;&#64;%72ii&#103;%69%6b%6f&#103;u%2ee%65 ">a&#97;du&#46;m&#117;&#115;&#116;&#64;rii&#103;&#105;&#107;og&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -3115,7 +3108,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %74%6f%6e&#105;%73%2e&#109;%6f&#108;&#100;&#101;r%40r%69&#105;%67%69k%6f%67&#117;&#46;e%65 ">tonis.mo&#108;&#100;e&#114;&#64;rii&#103;&#105;&#107;&#111;&#103;&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %74%6f&#110;i%73%2emo&#108;d&#101;&#114;&#64;%72i%69%67i&#107;o%67u%2e%65%65 ">t&#111;&#110;&#105;&#115;&#46;&#109;&#111;&#108;d&#101;&#114;&#64;&#114;&#105;&#105;&#103;ik&#111;&#103;u.ee</a></li>
 
 
 </ul>
@@ -3159,7 +3152,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %65&#100;&#117;&#97;&#114;%64&#46;od%69%6e%65&#116;&#115;&#64;%72%69%69&#103;&#105;kogu.&#101;&#101; ">ed&#117;&#97;rd.od&#105;n&#101;ts&#64;&#114;iigik&#111;&#103;&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: e&#100;%75a&#114;d.&#111;%64%69%6e&#101;%74%73%40&#114;%69i&#103;i&#107;&#111;gu&#46;&#101;%65 ">eduar&#100;&#46;o&#100;&#105;&#110;&#101;&#116;s&#64;r&#105;i&#103;&#105;k&#111;&#103;u&#46;&#101;e</a></li>
 
 
 </ul>
@@ -3197,7 +3190,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6a&#101;%76%67%65n%69&#46;o%73&#115;&#105;nov&#115;&#107;i%40&#114;i&#105;&#103;i%6b%6f%67&#117;&#46;e%65 ">j&#101;&#118;g&#101;&#110;i.o&#115;si&#110;o&#118;&#115;k&#105;&#64;&#114;ii&#103;i&#107;&#111;&#103;&#117;.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#106;&#101;v%67&#101;%6e&#105;&#46;&#111;s&#115;%69&#110;%6fv%73ki&#64;%72&#105;%69&#103;i%6b%6f%67%75%2e%65%65 ">&#106;e&#118;g&#101;&#110;i.ossi&#110;&#111;vski&#64;&#114;ii&#103;i&#107;ogu.e&#101;</a></li>
 
 
 </ul>
@@ -3235,7 +3228,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: a&#110;&#110;&#101;%6ci%2e%6f%74%74&#64;%72%69%69g%69&#107;%6fgu&#46;%65e ">an&#110;&#101;&#108;&#105;.o&#116;&#116;&#64;&#114;ii&#103;&#105;&#107;&#111;&#103;u&#46;e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %61&#110;%6e%65l&#105;.&#111;&#116;&#116;%40r&#105;i%67&#105;%6b%6fgu&#46;%65&#101; ">a&#110;&#110;&#101;&#108;&#105;&#46;o&#116;&#116;&#64;&#114;i&#105;giko&#103;&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -3279,7 +3272,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %69va&#114;%69%2e%70ad%61&#114;&#64;%72&#105;%69&#103;i%6bo%67%75&#46;&#101;%65 ">i&#118;ar&#105;.p&#97;d&#97;&#114;&#64;r&#105;&#105;&#103;&#105;ko&#103;u&#46;&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: iv%61&#114;i.&#112;%61d&#97;%72&#64;&#114;&#105;&#105;gi&#107;%6fg&#117;.&#101;%65 ">i&#118;ari&#46;pad&#97;&#114;&#64;&#114;&#105;&#105;g&#105;k&#111;gu&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -3312,7 +3305,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %68&#97;&#110;n%6f%2e&#112;e%76%6bu%72%40%72%69%69gi&#107;o%67&#117;&#46;%65&#101; ">&#104;a&#110;n&#111;.&#112;e&#118;&#107;ur&#64;ri&#105;&#103;ik&#111;gu&#46;&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#104;%61nno%2ep&#101;%76&#107;u%72%40r&#105;%69g&#105;%6bo%67&#117;&#46;%65e ">h&#97;&#110;no&#46;pe&#118;&#107;&#117;&#114;&#64;ri&#105;&#103;&#105;kogu.&#101;&#101;</a></li>
 
 
 </ul>
@@ -3350,7 +3343,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %68e%6cjo%2epi%6b%68%6ff&#64;riigik&#111;%67&#117;&#46;ee ">he&#108;&#106;&#111;.p&#105;&#107;h&#111;&#102;&#64;ri&#105;&#103;&#105;kog&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: h&#101;%6c&#106;&#111;&#46;p%69&#107;%68of&#64;&#114;%69%69gi%6bo&#103;u&#46;&#101;&#101; ">&#104;&#101;&#108;j&#111;&#46;p&#105;k&#104;&#111;f&#64;rii&#103;&#105;&#107;ogu.&#101;&#101;</a></li>
 
 
 </ul>
@@ -3388,7 +3381,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6fn&#110;%65%2e&#112;&#105;%6cl&#97;%6b&#64;%72%69%69%67%69%6b%6f%67%75%2e%65e ">&#111;n&#110;e&#46;p&#105;ll&#97;&#107;&#64;&#114;i&#105;&#103;ik&#111;&#103;u&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6fnn&#101;.%70&#105;&#108;l%61%6b&#64;%72i%69%67%69&#107;o%67%75.%65&#101; ">o&#110;&#110;&#101;.&#112;&#105;&#108;l&#97;&#107;&#64;ri&#105;gi&#107;&#111;&#103;u.&#101;e</a></li>
 
 
 </ul>
@@ -3426,7 +3419,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#115;i%69&#109;%2epo&#104;l&#97;&#107;&#64;r%69igi%6b&#111;&#103;&#117;&#46;%65&#101; ">&#115;&#105;i&#109;.&#112;&#111;h&#108;&#97;k&#64;&#114;i&#105;g&#105;&#107;&#111;g&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#115;i&#105;%6d%2epohl&#97;k&#64;&#114;&#105;%69&#103;&#105;%6b&#111;&#103;%75&#46;e&#101; ">&#115;ii&#109;&#46;&#112;oh&#108;a&#107;&#64;ri&#105;giko&#103;u&#46;ee</a></li>
 
 
 </ul>
@@ -3464,7 +3457,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: a&#110;t%69%2e&#112;&#111;&#111;%6c&#97;%6d&#101;t%73%40&#114;%69&#105;g%69%6b%6f&#103;u%2e%65%65 ">&#97;&#110;t&#105;.&#112;oolam&#101;t&#115;&#64;&#114;i&#105;&#103;ik&#111;&#103;u&#46;e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#97;&#110;t%69.p&#111;&#111;%6ca&#109;e&#116;&#115;%40r&#105;&#105;gi&#107;%6f&#103;u&#46;&#101;e ">an&#116;i&#46;&#112;o&#111;&#108;ame&#116;s&#64;ri&#105;g&#105;k&#111;&#103;&#117;&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -3502,7 +3495,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#104;e&#105;&#100;y%2e%70&#117;%72ga%40&#114;i&#105;&#103;%69k&#111;gu%2eee ">&#104;eid&#121;.p&#117;&#114;&#103;&#97;&#64;rii&#103;&#105;&#107;&#111;g&#117;.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: h%65&#105;&#100;&#121;%2e%70u&#114;g%61%40%72ii&#103;&#105;&#107;&#111;%67&#117;&#46;e%65 ">heidy.&#112;&#117;rg&#97;&#64;&#114;&#105;ig&#105;kogu.&#101;e</a></li>
 
 
 </ul>
@@ -3546,7 +3539,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#112;%61%75l%2ep&#117;&#117;&#115;%74%75&#115;&#109;aa&#64;%72i&#105;%67ik&#111;%67u.e&#101; ">pa&#117;&#108;&#46;&#112;&#117;u&#115;t&#117;&#115;ma&#97;&#64;&#114;ii&#103;iko&#103;&#117;&#46;e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %70%61u%6c.%70%75%75%73&#116;&#117;sm%61%61%40&#114;i%69%67ik%6fg&#117;%2e&#101;&#101; ">pa&#117;l&#46;pu&#117;&#115;&#116;&#117;sma&#97;&#64;&#114;&#105;&#105;g&#105;k&#111;gu&#46;&#101;e</a></li>
 
 
 </ul>
@@ -3584,7 +3577,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#104;&#101;&#110;&#110;%2e&#112;%6f%6c%6cu%61&#97;%73%40r%69%69&#103;i&#107;o&#103;&#117;%2ee%65 ">h&#101;n&#110;.poll&#117;&#97;as&#64;r&#105;i&#103;&#105;&#107;&#111;gu&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#104;&#101;nn.%70%6fl&#108;u&#97;&#97;s&#64;%72&#105;%69&#103;%69%6b%6fgu.e%65 ">h&#101;n&#110;&#46;p&#111;l&#108;ua&#97;s&#64;&#114;iig&#105;&#107;o&#103;&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -3628,7 +3621,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: p%65%65t%65&#114;.rah&#110;%65%6c&#64;&#114;%69igi&#107;&#111;%67&#117;.&#101;e ">p&#101;&#101;ter&#46;rahne&#108;&#64;&#114;iigiko&#103;&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %70e&#101;te&#114;&#46;r&#97;hn%65&#108;%40&#114;i&#105;%67&#105;%6b&#111;&#103;u%2e&#101;&#101; ">&#112;ee&#116;&#101;&#114;.rah&#110;e&#108;&#64;r&#105;&#105;&#103;&#105;&#107;&#111;&#103;&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -3672,7 +3665,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;&#97;&#116;i.r&#97;%69d%6d%61&#64;%72%69igik%6f%67u%2eee ">ma&#116;&#105;&#46;&#114;&#97;id&#109;&#97;&#64;ri&#105;gi&#107;ogu.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: ma%74&#105;&#46;r&#97;i%64&#109;a&#64;%72%69i%67i&#107;&#111;&#103;u%2e&#101;&#101; ">&#109;a&#116;i.ra&#105;dma&#64;r&#105;i&#103;ikog&#117;.&#101;e</a></li>
 
 
 </ul>
@@ -3710,7 +3703,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#121;l&#108;e.%72&#97;%6a&#97;%73al&#117;%40%72i%69&#103;i&#107;%6f&#103;&#117;.&#101;e ">&#121;l&#108;&#101;&#46;ra&#106;a&#115;a&#108;&#117;&#64;r&#105;i&#103;i&#107;ogu.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: y%6c&#108;&#101;.&#114;a&#106;&#97;%73a%6cu&#64;%72i%69&#103;%69&#107;&#111;%67u&#46;%65%65 ">&#121;l&#108;e.r&#97;j&#97;s&#97;lu&#64;riig&#105;&#107;o&#103;&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -3754,7 +3747,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#118;%61%6c&#100;%6f.%72&#97;%6e%64pe&#114;e%40%72%69&#105;%67i%6b%6fg%75%2eee ">&#118;&#97;&#108;&#100;&#111;.ran&#100;&#112;&#101;r&#101;&#64;&#114;&#105;ig&#105;&#107;&#111;gu&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %76%61&#108;%64&#111;%2er&#97;%6ed%70&#101;%72&#101;&#64;&#114;ii&#103;&#105;ko&#103;&#117;%2e&#101;e ">v&#97;ldo&#46;&#114;&#97;&#110;d&#112;&#101;re&#64;ri&#105;g&#105;k&#111;g&#117;.&#101;e</a></li>
 
 
 </ul>
@@ -3787,7 +3780,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6a&#121;&#114;%69&#46;%72&#97;t&#97;%73&#64;&#114;%69i&#103;i&#107;%6f%67&#117;.&#101;&#101; ">j&#121;r&#105;.r&#97;t&#97;s&#64;r&#105;ig&#105;&#107;&#111;g&#117;&#46;&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#106;y%72&#105;.&#114;%61%74as&#64;%72%69%69g&#105;%6b%6f&#103;&#117;%2e%65%65 ">&#106;&#121;&#114;i&#46;&#114;&#97;tas&#64;&#114;&#105;igiko&#103;u&#46;e&#101;</a></li>
 
 
 </ul>
@@ -3831,7 +3824,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#117;%72&#109;&#97;&#115;&#46;%72%65&#105;&#110;%73&#97;l%75%40ri&#105;g%69&#107;o&#103;u.e&#101; ">urmas&#46;&#114;e&#105;n&#115;&#97;&#108;u&#64;&#114;iigi&#107;ogu.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: u&#114;m&#97;&#115;.&#114;eins&#97;l&#117;%40&#114;i%69&#103;iko&#103;%75%2ee%65 ">u&#114;&#109;&#97;&#115;.reinsa&#108;u&#64;&#114;&#105;&#105;&#103;i&#107;ogu&#46;ee</a></li>
 
 
 </ul>
@@ -3869,7 +3862,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#117;&#114;mas%2er%65&#105;&#116;&#101;l%6d%61nn%40&#114;%69%69g&#105;&#107;&#111;&#103;%75.ee ">&#117;rm&#97;&#115;&#46;&#114;e&#105;telm&#97;&#110;&#110;&#64;&#114;&#105;igikogu&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: u%72ma%73.&#114;ei%74%65%6c&#109;&#97;%6e%6e%40ri%69&#103;i&#107;&#111;&#103;&#117;&#46;ee ">&#117;&#114;m&#97;s&#46;&#114;eite&#108;&#109;&#97;nn&#64;r&#105;i&#103;ikogu.e&#101;</a></li>
 
 
 </ul>
@@ -3907,7 +3900,7 @@ Fraktsiooni mittekuuluvad Riigikogu liikmed                                     
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: m%61%72%74&#105;n&#46;%72e&#112;in%73k&#105;&#64;%72%69%69g&#105;%6b%6f&#103;&#117;%2ee&#101; ">&#109;&#97;&#114;t&#105;n&#46;&#114;&#101;p&#105;ns&#107;&#105;&#64;&#114;&#105;i&#103;iko&#103;u.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;ar%74%69%6e%2er&#101;&#112;i%6e%73k%69&#64;%72&#105;%69&#103;&#105;%6b%6fg&#117;%2ee&#101; ">martin&#46;r&#101;&#112;i&#110;ski&#64;ri&#105;g&#105;ko&#103;u.&#101;e</a></li>
 
 
 </ul>
@@ -3945,7 +3938,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%61i&#108;i%73.%72e%70&#115;&#64;&#114;%69%69giko&#103;&#117;.&#101;&#101; ">ma&#105;lis&#46;&#114;e&#112;&#115;&#64;ri&#105;&#103;ik&#111;gu.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6d&#97;%69li&#115;.%72%65&#112;%73%40&#114;%69&#105;%67&#105;%6b%6fgu.%65%65 ">&#109;ail&#105;s.&#114;e&#112;s&#64;ri&#105;&#103;ikog&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -3983,7 +3976,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %69%6e&#100;%72e&#107;&#46;s&#97;&#97;r&#64;%72ii%67&#105;k%6f%67u&#46;&#101;&#101; ">&#105;n&#100;rek&#46;s&#97;&#97;r&#64;r&#105;igikogu&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %69%6e%64%72&#101;k%2es&#97;%61&#114;&#64;&#114;%69%69&#103;%69&#107;&#111;%67%75&#46;e%65 ">&#105;nd&#114;ek.sa&#97;&#114;&#64;&#114;i&#105;g&#105;kogu.&#101;e</a></li>
 
 
 </ul>
@@ -4021,7 +4014,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %79ll&#97;%72.s&#97;%61r%65&#109;ae%40%72%69&#105;%67&#105;k%6fg%75%2e%65&#101; ">&#121;l&#108;ar.s&#97;ar&#101;&#109;ae&#64;ri&#105;&#103;&#105;k&#111;gu&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: y%6c&#108;&#97;&#114;&#46;saa&#114;&#101;%6d&#97;e%40%72i&#105;gi&#107;og%75&#46;&#101;&#101; ">yll&#97;r&#46;&#115;&#97;ar&#101;m&#97;&#101;&#64;&#114;iigi&#107;&#111;g&#117;.ee</a></li>
 
 
 </ul>
@@ -4059,7 +4052,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: ke%72s%74i&#46;%73a%72%61puu&#64;%72ii&#103;ik%6f%67u.&#101;e ">k&#101;&#114;sti&#46;sa&#114;&#97;puu&#64;ri&#105;&#103;&#105;k&#111;gu.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: k&#101;%72&#115;&#116;i%2e&#115;&#97;r&#97;&#112;&#117;&#117;%40&#114;&#105;&#105;&#103;&#105;k%6fg&#117;&#46;ee ">&#107;&#101;rsti&#46;&#115;ara&#112;uu&#64;&#114;&#105;i&#103;&#105;k&#111;gu&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -4097,7 +4090,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: h&#101;l&#105;&#114;%2dv&#97;ld%6fr&#46;&#115;eede&#114;%40%72i%69&#103;&#105;%6bog%75%2ee&#101; ">&#104;eli&#114;&#45;v&#97;&#108;d&#111;r&#46;seeder&#64;r&#105;ig&#105;&#107;o&#103;&#117;.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %68elir&#45;%76a&#108;%64%6f%72.s%65&#101;&#100;%65%72%40&#114;%69%69%67%69ko%67%75.e%65 ">h&#101;&#108;ir&#45;va&#108;do&#114;&#46;se&#101;&#100;&#101;&#114;&#64;riig&#105;ko&#103;u&#46;e&#101;</a></li>
 
 
 </ul>
@@ -4135,7 +4128,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %61&#110;%64&#114;us&#46;%73e&#101;me%40r&#105;%69&#103;i&#107;&#111;&#103;u.ee ">&#97;&#110;&#100;&#114;&#117;s&#46;se&#101;me&#64;r&#105;&#105;g&#105;ko&#103;u.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %61&#110;&#100;&#114;u%73.&#115;ee&#109;&#101;%40%72%69&#105;%67%69k%6fgu&#46;e&#101; ">&#97;&#110;d&#114;&#117;s.se&#101;m&#101;&#64;&#114;i&#105;&#103;&#105;k&#111;&#103;u.ee</a></li>
 
 
 </ul>
@@ -4173,7 +4166,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: sve%6e&#46;%73&#101;&#115;t&#101;&#114;&#64;%72%69%69g&#105;&#107;o%67%75%2e&#101;e ">&#115;v&#101;&#110;&#46;se&#115;&#116;&#101;r&#64;r&#105;&#105;g&#105;&#107;ogu.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#115;v&#101;%6e&#46;se%73&#116;er&#64;ri&#105;g&#105;%6b&#111;&#103;&#117;%2e%65e ">&#115;v&#101;&#110;.s&#101;s&#116;&#101;&#114;&#64;r&#105;ig&#105;&#107;og&#117;&#46;e&#101;</a></li>
 
 
 </ul>
@@ -4217,7 +4210,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %70%72&#105;i%74%2es&#105;b&#117;%6c%40&#114;i&#105;g&#105;%6b%6f%67u%2e%65e ">p&#114;&#105;it&#46;&#115;i&#98;u&#108;&#64;&#114;i&#105;g&#105;&#107;&#111;&#103;u.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %70%72%69&#105;%74&#46;s&#105;%62&#117;&#108;&#64;r%69ig&#105;k&#111;%67&#117;.ee ">p&#114;&#105;i&#116;&#46;&#115;&#105;&#98;ul&#64;&#114;&#105;i&#103;&#105;&#107;&#111;g&#117;&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -4255,7 +4248,7 @@ Sotsiaaldemokraatliku Erakonna fraktsioon                                       
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %72&#105;&#105;%6e%61&#46;&#115;%69&#107;k&#117;&#116;&#64;%72i&#105;%67&#105;k&#111;%67u.ee ">r&#105;&#105;&#110;a.sik&#107;ut&#64;r&#105;igi&#107;&#111;gu.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: r%69&#105;n%61&#46;%73%69k&#107;u&#116;&#64;&#114;ii%67%69ko&#103;%75&#46;&#101;%65 ">&#114;i&#105;na.&#115;ikku&#116;&#64;rii&#103;&#105;&#107;og&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -4299,7 +4292,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%69hhai&#108;.&#115;t&#97;ln%75%68%68i%6e%40&#114;ii&#103;%69%6b&#111;%67%75%2e%65e ">&#109;i&#104;h&#97;i&#108;.s&#116;&#97;&#108;nu&#104;&#104;i&#110;&#64;&#114;i&#105;&#103;i&#107;og&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;i&#104;&#104;&#97;i%6c%2e&#115;&#116;a&#108;%6euh&#104;%69%6e%40r&#105;&#105;g&#105;&#107;ogu.%65&#101; ">&#109;&#105;&#104;&#104;&#97;&#105;l&#46;st&#97;l&#110;&#117;hh&#105;&#110;&#64;r&#105;&#105;g&#105;&#107;og&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -4337,7 +4330,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: t%69&#109;&#111;%2es%75&#115;&#108;o%76&#64;%72&#105;%69&#103;&#105;&#107;o%67u&#46;%65%65 ">&#116;&#105;m&#111;.s&#117;sl&#111;v&#64;r&#105;&#105;&#103;&#105;&#107;&#111;g&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: t&#105;&#109;o.s%75&#115;&#108;&#111;v&#64;%72%69ig&#105;%6b&#111;gu%2e&#101;%65 ">&#116;i&#109;&#111;.&#115;u&#115;l&#111;v&#64;rii&#103;&#105;ko&#103;&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -4375,7 +4368,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6dar&#103;%69%74&#46;&#115;%75t%72o%70&#64;r&#105;%69%67i&#107;%6f&#103;u&#46;&#101;%65 ">ma&#114;&#103;&#105;t&#46;&#115;&#117;&#116;r&#111;p&#64;&#114;&#105;&#105;gi&#107;og&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%61%72g&#105;t&#46;&#115;ut&#114;%6f&#112;&#64;&#114;i%69%67%69kog%75&#46;&#101;e ">&#109;&#97;r&#103;&#105;&#116;&#46;s&#117;&#116;&#114;op&#64;ri&#105;&#103;&#105;&#107;o&#103;u&#46;e&#101;</a></li>
 
 
 </ul>
@@ -4413,7 +4406,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %61i%76&#97;&#114;&#46;&#115;&#111;&#101;%72&#100;&#64;r&#105;%69%67&#105;&#107;%6f%67&#117;%2e&#101;e ">&#97;&#105;va&#114;.s&#111;e&#114;&#100;&#64;&#114;iigiko&#103;&#117;.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: a&#105;%76&#97;&#114;%2es%6fe&#114;%64&#64;ri&#105;&#103;i&#107;o%67u%2e%65&#101; ">&#97;&#105;v&#97;r.&#115;o&#101;r&#100;&#64;&#114;i&#105;g&#105;&#107;o&#103;u&#46;&#101;e</a></li>
 
 
 </ul>
@@ -4457,7 +4450,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6br%69&#115;&#116;i&#110;&#97;.%73m%69&#103;un%2dva%68i&#64;r%69&#105;g&#105;&#107;og&#117;%2eee ">&#107;r&#105;st&#105;&#110;a&#46;&#115;&#109;&#105;&#103;&#117;n&#45;va&#104;i&#64;&#114;&#105;ig&#105;kog&#117;.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6b&#114;&#105;s%74i%6e&#97;%2esm&#105;&#103;&#117;&#110;-&#118;%61h%69&#64;ri&#105;%67ik&#111;&#103;%75&#46;e%65 ">&#107;&#114;i&#115;&#116;&#105;na&#46;&#115;&#109;ig&#117;n-v&#97;hi&#64;r&#105;ig&#105;k&#111;&#103;&#117;&#46;&#101;e</a></li>
 
 
 </ul>
@@ -4501,7 +4494,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;&#97;%72k&#111;.&#115;&#111;rin&#64;r%69i%67%69&#107;%6fg%75%2e&#101;%65 ">&#109;&#97;&#114;ko&#46;&#115;&#111;rin&#64;&#114;&#105;ig&#105;k&#111;gu.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;&#97;r%6b&#111;&#46;s%6fri&#110;&#64;%72&#105;i&#103;%69k&#111;&#103;&#117;&#46;&#101;%65 ">&#109;ar&#107;&#111;&#46;&#115;or&#105;n&#64;&#114;&#105;&#105;g&#105;k&#111;&#103;u&#46;&#101;&#101;</a></li>
 
 
 </ul>
@@ -4539,7 +4532,7 @@ Isamaa fraktsioon                                                        </stron
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: ra&#105;vo.%74&#97;%6d&#109;%40&#114;%69%69%67&#105;&#107;%6f%67%75&#46;%65%65 ">rai&#118;o.ta&#109;m&#64;&#114;i&#105;gik&#111;g&#117;.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#114;aivo&#46;ta&#109;%6d&#64;%72&#105;&#105;g&#105;&#107;o&#103;&#117;&#46;%65%65 ">&#114;ai&#118;&#111;&#46;ta&#109;&#109;&#64;&#114;i&#105;gi&#107;&#111;&#103;&#117;&#46;ee</a></li>
 
 
 </ul>
@@ -4577,7 +4570,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %74a&#114;&#109;o%2e%74%61m&#109;&#64;ri&#105;g&#105;%6b&#111;%67&#117;&#46;%65%65 ">ta&#114;mo&#46;&#116;amm&#64;&#114;&#105;&#105;gik&#111;g&#117;&#46;&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %74ar&#109;&#111;.t%61&#109;&#109;%40ri%69gi%6b%6fg%75.e&#101; ">&#116;&#97;&#114;&#109;&#111;.&#116;&#97;mm&#64;ri&#105;&#103;i&#107;&#111;&#103;&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -4615,7 +4608,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: u%72&#118;e.%74%69&#105;&#100;%75%73&#64;&#114;i%69%67&#105;&#107;%6fg%75&#46;&#101;&#101; ">u&#114;ve&#46;t&#105;i&#100;u&#115;&#64;&#114;&#105;&#105;&#103;iko&#103;&#117;.e&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: urve&#46;%74&#105;i%64&#117;&#115;&#64;r&#105;&#105;&#103;%69&#107;ogu%2e%65%65 ">ur&#118;&#101;.&#116;i&#105;d&#117;&#115;&#64;r&#105;&#105;g&#105;k&#111;g&#117;&#46;&#101;e</a></li>
 
 
 </ul>
@@ -4653,7 +4646,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: v&#105;%6c%6a%61&#46;&#116;&#111;%6fm&#97;&#115;%74%40r&#105;ig&#105;k&#111;g&#117;.e&#101; ">&#118;&#105;&#108;&#106;a.t&#111;&#111;&#109;&#97;&#115;t&#64;&#114;&#105;ig&#105;&#107;ogu&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: v%69l%6aa%2e%74%6fom%61%73&#116;&#64;&#114;%69i&#103;&#105;k&#111;&#103;%75&#46;e%65 ">&#118;&#105;l&#106;&#97;&#46;&#116;&#111;o&#109;&#97;st&#64;ri&#105;g&#105;ko&#103;&#117;.&#101;&#101;</a></li>
 
 
 </ul>
@@ -4691,7 +4684,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6dar%6b&#111;&#46;%74o&#114;m%40&#114;i%69&#103;i%6b&#111;&#103;&#117;&#46;&#101;&#101; ">&#109;&#97;r&#107;o.to&#114;m&#64;&#114;&#105;igik&#111;&#103;u&#46;ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: &#109;%61%72%6b&#111;.tor&#109;&#64;%72iigik%6fg&#117;.%65&#101; ">&#109;&#97;&#114;ko&#46;to&#114;&#109;&#64;r&#105;ig&#105;k&#111;&#103;u.&#101;e</a></li>
 
 
 </ul>
@@ -4729,7 +4722,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: %6da%72i%6b%61%2e%74uu&#115;%2dl&#97;u%6c%40&#114;i&#105;%67iko&#103;&#117;.&#101;&#101; ">m&#97;&#114;&#105;&#107;a.t&#117;&#117;&#115;&#45;&#108;&#97;u&#108;&#64;rii&#103;i&#107;&#111;gu.&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: m%61&#114;%69k%61&#46;%74&#117;%75%73&#45;%6c%61%75%6c&#64;r&#105;&#105;g%69%6b&#111;g&#117;%2e%65&#101; ">&#109;ari&#107;a.&#116;u&#117;s-lau&#108;&#64;&#114;i&#105;gi&#107;o&#103;&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -4773,7 +4766,7 @@ Eesti Konservatiivse Rahvaerakonna fraktsioon                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: j&#97;%61k%2e%76&#97;%6c&#103;%65&#64;r&#105;&#105;%67i&#107;o&#103;%75%2ee%65 ">jaak.&#118;&#97;lge&#64;&#114;i&#105;&#103;iko&#103;u.ee</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: j&#97;a&#107;&#46;v%61%6c%67%65&#64;&#114;&#105;%69&#103;&#105;k&#111;g&#117;.%65&#101; ">&#106;a&#97;k.v&#97;l&#103;&#101;&#64;&#114;&#105;&#105;&#103;&#105;&#107;o&#103;&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -4811,7 +4804,7 @@ Eesti Keskerakonna fraktsioon                                                   
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: &#118;&#105;k%74%6f%72&#46;&#118;&#97;%73si&#108;%6a%65&#118;&#64;riig%69&#107;o%67%75&#46;e&#101; ">&#118;i&#107;&#116;o&#114;.va&#115;si&#108;j&#101;v&#64;&#114;ii&#103;ik&#111;g&#117;&#46;&#101;e</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: v&#105;%6b&#116;&#111;&#114;&#46;v&#97;%73&#115;&#105;%6cj&#101;v%40%72%69%69&#103;%69k&#111;g&#117;.&#101;e ">&#118;ik&#116;&#111;r.&#118;ass&#105;l&#106;&#101;v&#64;rii&#103;i&#107;&#111;&#103;u.&#101;e</a></li>
 
 
 </ul>
@@ -4849,7 +4842,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: ai&#118;a%72%2e&#118;&#105;%69d%69k&#64;%72%69%69g%69ko%67&#117;%2ee&#101; ">&#97;i&#118;ar.&#118;ii&#100;&#105;&#107;&#64;&#114;&#105;i&#103;&#105;&#107;ogu.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: ai&#118;ar.v%69&#105;di&#107;&#64;%72iig%69&#107;&#111;g%75%2ee%65 ">a&#105;var&#46;viidik&#64;&#114;ii&#103;&#105;&#107;&#111;&#103;&#117;.&#101;e</a></li>
 
 
 </ul>
@@ -4887,7 +4880,7 @@ Eesti Reformierakonna fraktsioon                                                
 
 
 
-<li><span class="icon icon-mail">E-post</span><a href="mailto: m%61%72%74&#46;%76%6f&#114;k&#108;&#97;%65&#118;&#64;%72&#105;%69g&#105;k%6fg&#117;.e%65 ">&#109;a&#114;&#116;.&#118;&#111;r&#107;l&#97;ev&#64;&#114;iig&#105;&#107;&#111;g&#117;.&#101;&#101;</a></li>
+<li><span class="icon icon-mail">E-post</span><a href="mailto: %6d%61r%74%2e&#118;or%6b%6ca%65&#118;&#64;%72&#105;i&#103;i%6b%6f%67&#117;%2e&#101;&#101; ">&#109;&#97;&#114;t&#46;&#118;o&#114;k&#108;a&#101;v&#64;rii&#103;i&#107;og&#117;.e&#101;</a></li>
 
 
 </ul>
@@ -5019,11 +5012,6 @@ var VfbAjax = {"ajaxurl":"https:\/\/www.riigikogu.ee\/wpcms\/wp-admin\/admin-aja
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-content/plugins/visual-form-builder-pro/js/vfb-validation.min.js?ver=20141015'></script>
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-content/plugins/visual-form-builder-pro/js/jquery.metadata.min.js?ver=2.0'></script>
 <script type='text/javascript' src='https://www.riigikogu.ee/wpcms/wp-content/plugins/visual-form-builder-pro/js/i18n/validate/messages-en_US.js?ver=1.9.0'></script>
-
-
-<div id="cookie-notice" role="dialog" class="cookie-notice-hidden cookie-revoke-hidden cn-position-bottom" aria-label="Cookie Notice" style="background-color: rgba(0,0,0,1);"><div class="cookie-notice-container" style="color: #ffffff;"><span id="cn-notice-text" class="cn-text-container">Riigikogu kodulehekülg kasutab küpsiseid. Palun lugege läbi meie küpsiste kasutamise poliitika. Võite küpsistest igal hetkel loobuda, kui muudate enda kasutuses oleva seadme brauseri seadeid ning kustutate sinna salvestatud küpsised.</span><span id="cn-notice-buttons" class="cn-buttons-container"><a href="#" id="cn-accept-cookie" data-cookie-set="accept" class="cn-set-cookie cn-button" aria-label="Nõustun" style="background-color: #0033a0">Nõustun</a><a href="https://www.riigikogu.ee/kupsiste-kasutamise-poliitika/" target="_blank" id="cn-more-info" class="cn-more-info cn-button" aria-label="Küpsiste kasutamise poliitika" style="background-color: #0033a0">Küpsiste kasutamise poliitika</a></span><span id="cn-close-notice" data-cookie-set="accept" class="cn-close-icon" title="No"></span></div>
-
-</div>
 <script type="text/javascript">
 (function (i, s, o, g, r, a, m) {
 i['GoogleAnalyticsObject'] = r;
