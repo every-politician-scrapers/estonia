@@ -123,6 +123,9 @@ Q16405510,Katri Raik,sibling,Q16405514,Mart Raik
 Q16406074,Artur Talvik,father,Q12370001,Mati Talvik
 Q16406074,Artur Talvik,mother,Q16406069,Alice Talvik
 Q16406074,Artur Talvik,spouse,Q12362202,Epp Eespäev
+Q16406166,Aino Lepik von Wirén,child,Q111509156,Illimar Lepik von Wirén
+Q16406166,Aino Lepik von Wirén,father,Q969815,Kalju Lepik
+Q16406166,Aino Lepik von Wirén,spouse,Q111509160,Jorma von Wirén
 Q16406227,Raivo E. Tamm,partner,Q24545471,Külli Palmsaar
 Q16406227,Raivo E. Tamm,spouse,Q12363701,Helena Merzin
 Q16406227,Raivo E. Tamm,spouse,Q17362506,Katariina Unt
@@ -131,6 +134,7 @@ Q16406955,Toomas Tiivel,mother,Q24546203,Irene Tiivel
 Q16407368,Matti Maasikas,father,Q24546242,Uno Maasikas
 Q16407395,Ülle Madise,father,Q12377528,Tõnu Anton
 Q16407395,Ülle Madise,mother,Q50375216,Sirje Anton
+Q16407395,Ülle Madise,spouse,Q111530559,Lauri Madise
 Q16412204,Sven Sakkov,father,Q12361930,Elmar-Oskar Sakkov
 Q16412204,Sven Sakkov,mother,Q24545982,Helmi Sakkov
 Q16412204,Sven Sakkov,sibling,Q24545891,Erik Sakkov
@@ -141,6 +145,7 @@ Q1676748,Jaak Jõerüüt,father,Q50376136,Sigurd-Hans Jõerüüt
 Q1676748,Jaak Jõerüüt,mother,Q50376137,Hella Jõerüüt
 Q1676748,Jaak Jõerüüt,spouse,Q299334,Viivi Luik
 Q17446896,Yoko Alender,father,Q2492624,Urmas Alender
+Q18642208,Anastassia Kovalenko,spouse,Q4250802,Mihhail Kõlvart
 Q1916766,Meelis Atonen,father,Q50375279,Aleksander Atonen
 Q1916766,Meelis Atonen,mother,Q50375280,Koidu Atonen
 Q194000,Arnold Rüütel,spouse,Q457794,Ingrid Rüütel
@@ -172,6 +177,7 @@ Q253515,Jaak Aaviksoo,father,Q50375002,Ülo Aaviksoo
 Q253515,Jaak Aaviksoo,mother,Q50375013,Laine Aaviksoo
 Q2621730,Jüri Ratas,father,Q12373774,Rein Ratas
 Q2621730,Jüri Ratas,mother,Q12377841,Urve Ratas
+Q2621730,Jüri Ratas,spouse,Q111530599,Karin Ratas
 Q272240,Siiri Oviir,child,Q21009735,Liisa Oviir
 Q272240,Siiri Oviir,spouse,Q1577141,Mihkel Oviir
 Q27430407,Raimond Kaljulaid,sibling,Q12366816,Kersti Kaljulaid
@@ -184,6 +190,7 @@ Q3735691,Eerik-Niiles Kross,sibling,Q12370719,Märten Kross
 Q3735691,Eerik-Niiles Kross,spouse,Q6779958,Mary Jordan
 Q3736786,Lauri Vahtre,father,Q3738894,Sulev Vahtre
 Q3737434,Aleksei Lotman,father,Q360084,Juri Lotman
+Q3737434,Aleksei Lotman,mother,Q8066536,Zara Mints
 Q3737434,Aleksei Lotman,sibling,Q2012757,Mihhail Lotman
 Q3739506,Üllar Saaremäe,child,Q27587316,Karl Robert Saaremäe
 Q3739506,Üllar Saaremäe,partner,Q12376880,Tiina Mälberg
@@ -193,6 +200,7 @@ Q3742259,Kaljo Kiisk,relative,Q544460,Elo Viiding
 Q3785077,Taavi Rõivas,spouse,Q3741148,Luisa Rõivas
 Q39468117,Lauri Lepik,spouse,Q2152903,Riina Kionka
 Q4232659,Valeri Korb,child,Q16404020,Mihhail Korb
+Q4250802,Mihhail Kõlvart,spouse,Q18642208,Anastassia Kovalenko
 Q439102,Ene Ergma,father,Q50375469,Vambola Ergma
 Q439102,Ene Ergma,mother,Q50375470,Helmi Ergma
 Q439111,Marina Kaljurand,spouse,Q1722443,Kalle Kaljurand
