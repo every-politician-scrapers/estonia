@@ -23,7 +23,8 @@ class MemberList
     private
 
     def member_container
-      noko.css('.list-with-image-vp .font-weight-bold')
+      # TODO: find the most recent accordion and restrict to that
+      noko.css('#alates-3062022--accordion .list-with-image-vp .font-weight-bold')
     end
 
     def pm_container
