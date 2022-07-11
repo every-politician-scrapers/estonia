@@ -89,7 +89,7 @@ Q1453245,Mart Helme,relative,Q12362142,Enn Auksmann
 Q1453245,Mart Helme,sibling,Q16407924,Rein Helme
 Q1453245,Mart Helme,sibling,Q60686547,Reet Auksmann
 Q1453245,Mart Helme,spouse,Q16405654,Sirje Helme
-Q1453245,Mart Helme,spouse,Q26695944,Helle-Monika Helme
+Q1453245,Mart Helme,spouse,Q26695944,Helle-Moonika Helme
 Q153149,Lennart Meri,child,Q12369879,Mart Meri
 Q153149,Lennart Meri,father,Q1505386,Georg Meri
 Q153149,Lennart Meri,sibling,Q16403508,Hindrek Meri
@@ -179,6 +179,7 @@ Q253515,Jaak Aaviksoo,mother,Q50375013,Laine Aaviksoo
 Q2621730,Jüri Ratas,father,Q12373774,Rein Ratas
 Q2621730,Jüri Ratas,mother,Q12377841,Urve Ratas
 Q2621730,Jüri Ratas,spouse,Q111530599,Karin Ratas
+Q26695944,Helle-Moonika Helme,spouse,Q1453245,Mart Helme
 Q272240,Siiri Oviir,child,Q21009735,Liisa Oviir
 Q272240,Siiri Oviir,spouse,Q1577141,Mihkel Oviir
 Q27430407,Raimond Kaljulaid,sibling,Q12366816,Kersti Kaljulaid
@@ -223,7 +224,6 @@ Q463099,Andres Tarand,spouse,Q12369753,Mari Tarand
 Q4756115,Andres Herkel,mother,Q50375767,Alide-Johanna Herkel
 Q509232,Maret Maripuu,spouse,Q5993313,Igor Gräzin
 Q535290,Marianne Mikko,spouse,Q16407596,Peter Andrekson
-Q53998188,Helle-Moonika Helme,spouse,Q1453245,Mart Helme
 Q544472,Maimu Berg,child,Q544426,Julia Laffranque
 Q544472,Maimu Berg,father,Q50375304,Helmut Seping
 Q544472,Maimu Berg,mother,Q50375305,Elviine Seping
