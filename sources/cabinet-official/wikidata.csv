@@ -1,9 +1,16 @@
-wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
-Q11869065,Kaja Kallas,Kaja Kallas,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q737115,Peaminister,2021-01-26,Q11869065-0551f3af-48c3-17fd-be15-1956c6fa1a79
-Q16405768,Maris Lauri,Maris Lauri,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q20528230,Justiitsminister,2021-01-26,Q16405768-e2f16b12-4bcb-7876-d33e-ef335e94d5d7
-Q20933509,Liina Kersna,Liina Kersna,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q6866110,Haridus- ja teadusminister,2021-01-26,Q20933509-aa986fe2-4e0e-03f9-b0c9-50a23aa160c9
-Q3741429,Urmas Kruuse,Urmas Kruuse,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q24060239,Maaeluminister,2021-01-26,Q3741429-252cf14d-4c98-9195-e7ba-25868371bb22
-Q458003,Keit Pentus-Rosimannus,Keit Pentus-Rosimannus,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q21103025,Rahandusminister,2021-01-26,Q458003-73ef823f-4d27-7be7-811d-b128aef3f1d7
-Q62975823,Andres Sutt,Andres Sutt,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q20933474,Ettevõtlus- ja infotehnoloogiaminister,2021-01-26,Q62975823-4f154feb-47eb-6bd5-391e-e798d7ab5029
-Q64850482,Signe Riisalo,Signe Riisalo,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q24060088,Sotsiaalkaitseminister,2021-01-26,Q64850482-5327818b-4b20-d375-028e-16c315545638
-Q978349,Kalle Laanet,Kalle Laanet,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q3741249,Kaitseminister,2021-01-26,Q978349-faf71ab3-4b1d-5055-9ad6-bbcc9c904eae
+item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
+Q113090056,Piret Hartman,Q16402952,Kultuuriminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q113090056-AAEE2408-54C0-400F-A74A-3E1F6740B177
+Q113138530,Kristjan Järvan,Q20933474,Ettevõtlus- ja infotehnoloogiaminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q113138530-3E9C3158-75E0-4C03-AAB4-08853944A519
+Q113138551,Lea Danilson-Järg,Q20528230,Justiitsminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q113138551-6C1E5A91-A244-4621-AB0D-9FAF6B4E45BD
+Q1149033,Tõnis Lukas,Q6866110,Haridus- ja teadusminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q1149033-EF372359-9E89-4B33-B181-A092D4A65DD5
+Q11869065,Kaja Kallas,Q737115,Peaminister,2021-01-26,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2021-07-29,Q11869065-0551f3af-48c3-17fd-be15-1956c6fa1a79
+Q12368349,Lauri Läänemets,Q6866431,Siseminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q12368349-9C2EECFF-D648-4002-9970-14644987A373
+Q12369450,Madis Kallas,Q12361541,Keskkonnaminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q12369450-C6830C8D-F4D3-46E5-B500-086FB25C1CCF
+Q12372152,Peep Peterson,Q24060082,Tervise- ja tööminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q12372152-4AAFA9BB-4641-4919-8DF0-8A99DA87F369
+Q1399218,Hanno Pevkur,Q3741249,Kaitseminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q1399218-915DDB03-1000-444B-97EE-5F82DCA0D825
+Q18753192,Riina Solman,Q20528404,Riigihalduse minister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q18753192-14D16E6E-83A8-4D87-9223-54CA03B274D9
+Q3741429,Urmas Kruuse,Q24060239,Maaeluminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q3741429-E3BAD0D8-DB8A-468C-89AB-3E1C2109AB6B
+Q458003,Keit Pentus-Rosimannus,Q21103025,Rahandusminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q458003-899E27C0-91C8-48D1-85F0-4558753A0F5D
+Q52704406,Riina Sikkut,Q16403845,Majandus- ja taristuminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q52704406-A49A329F-7B2B-4EAD-BC42-CB6533B2209D
+Q645970,Urmas Reinsalu,Q1760777,Välisminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q645970-B358601B-1476-4AD6-B2CF-2783E415AD7A
+Q64850482,Signe Riisalo,Q24060088,Sotsiaalkaitseminister,2022-07-18,,https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis,2022-07-18,Q64850482-D3096A16-B414-4F17-90EC-A4EE67FE617C
