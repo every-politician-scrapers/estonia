@@ -8,13 +8,16 @@
       "start": "2022-07-18",
       "parent": "Q2421589"
     },
-    "source": {
-      "url": "https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis",
-      "title": "Vabariigi Valitsuse 51. koosseis",
-      "lang": {
-        "code": "et",
-        "wikidata": "Q9072"
-      }
+    "reference": {
+        "P854":   "https://www.valitsus.ee/peaminister-ministrid/valitsuse-koosseis",
+        "P1476": {
+            "text": "Eesti Vabariigi Valitsus",
+            "language": "et"
+        }
     },
-    "agent": "every-politican-scrapers/estonia-cabinet"
+    "current_only": "true",
+    "lang": "et",
+    "person_description": {
+        "en": "Estonian politician"
+    }
 }

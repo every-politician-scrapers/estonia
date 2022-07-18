@@ -7,28 +7,23 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.text.tidy
+      parts[1].tidy
     end
 
     def position
-      noko.xpath('following-sibling::p[1]').text.tidy
-    end
-  end
-
-  class Members
-    def members
-      super + pm_container.map { |member| fragment(member => Member).to_h }
+      parts[0].tidy
     end
 
     private
 
-    def member_container
-      # TODO: find the most recent accordion and restrict to that
-      noko.css('#alates-3062022--accordion .list-with-image-vp .font-weight-bold')
+    def parts
+      noko.text.tidy.split(/(?<=minister)/)
     end
+  end
 
-    def pm_container
-      noko.css('.col-xl-8 .mb-3 h3')
+  class Members
+    def member_container
+      noko.css('a.list-group-item').select { |node| node.text.to_s.include? 'minister' }
     end
   end
 end
