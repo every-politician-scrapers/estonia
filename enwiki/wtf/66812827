@@ -1,0 +1,245 @@
+{
+  "title": "Lauri Läänemets",
+  "pageID": 66812827,
+  "categories": [
+    "Living people",
+    "1983 births",
+    "Social Democratic Party (Estonia) politicians",
+    "Members of the Riigikogu, 2019–2023",
+    "Mayors of places in Estonia",
+    "Tallinn University alumni",
+    "Politicians from Tallinn"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lauri Läänemets (born 31 January 1983 in Tallinn) is an Estonian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tallinn"
+                },
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lauri Läänemets"
+                ]
+              }
+            },
+            {
+              "text": "He is currently Minister of Inetrior Affairs and was a member of XIV Riigikogu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "XIV Riigikogu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007 he graduated from Tallinn University in recreation management.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tallinn University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2013 to 2017 he was mayor of the Väätsa Rural Municipality.",
+              "links": [
+                {
+                  "text": "Väätsa Rural Municipality",
+                  "type": "internal",
+                  "page": "Väätsa Parish"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 2010, he has been a member of the Estonian Social Democratic Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Estonian Social Democratic Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lauri Läänemets was elected chairman of the Social Democratic Party (SDE) on 5th of February 2022 by party members at the General Assembly."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use british english"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1983",
+          "month": "1",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Lauri Lääenemets"
+          },
+          "image": {
+            "text": "Läänemets Lauri.jpg"
+          },
+          "office": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Ministry of the Interior (Estonia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "18 July 2022"
+          },
+          "predecessor": {
+            "text": "Kalle Laanet (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kalle Laanet"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Leader of the Socialdemocrats",
+            "links": [
+              {
+                "text": "Socialdemocrats",
+                "type": "internal",
+                "page": "Estonian Social Democratic Party"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "5 February 2022"
+          },
+          "predecessor1": {
+            "text": "Indrek Saar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Indrek Saar"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Riigikogu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Riigikogu"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 June 2019"
+          },
+          "birth_date": {
+            "text": "January 31, 1983"
+          },
+          "birth_place": {
+            "text": "Tallinn, Estonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tallinn"
+              }
+            ]
+          },
+          "party": {
+            "text": "Socialdemocrats",
+            "links": [
+              {
+                "text": "Socialdemocrats",
+                "type": "internal",
+                "page": "Estonian Social Democratic Party"
+              }
+            ]
+          },
+          "children": {
+            "text": "1",
+            "number": 1
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.err.ee/1608490457/gallery-sde-elects-new-chairman",
+          "title": "Gallery: SDE elects new chairman",
+          "date": "5 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "101_biographies_2019",
+          "url": "https://www.riigikogu.ee/wpcms/wp-content/uploads/2015/02/101_biographies_2019_june_eng.pdf",
+          "website": "riigikogu.ee",
+          "access-date": "4 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

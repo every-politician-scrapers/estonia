@@ -1,0 +1,101 @@
+{
+  "title": "Villu Kõve",
+  "pageID": 67075187,
+  "categories": [
+    "Living people",
+    "1971 births",
+    "21st-century Estonian judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Villu Kõve (born 26 August 1971 in Saare County) is an Estonian judge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saare County"
+                },
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Villu Kõve"
+                ]
+              }
+            },
+            {
+              "text": "Since on 4 February 2019, he is the Chief Justice of the Supreme Court of Estonia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Estonia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2009, he finished his PhD studies at Tartu University's Faculty of Law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "PhD"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tartu University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2014–2019, he worked as the Chairman of the Civil Chamber of the Supreme Court of Estonia."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian judge (born 1971)",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Chief Justice of the Supreme Court {{!}} The Estonian Supreme Court",
+          "url": "https://www.riigikohus.ee/en/supreme-court-estonia/chief-justice-supreme-court",
+          "website": "www.riigikohus.ee",
+          "access-date": "12 March 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "title": "Riina Solman",
+  "pageID": 66561671,
+  "categories": [
+    "Living people",
+    "1972 births",
+    "Government ministers of Estonia",
+    "Women government ministers of Estonia",
+    "21st-century Estonian politicians",
+    "21st-century Estonian women politicians",
+    "Isamaa politicians",
+    "People from Viljandi",
+    "Tallinn University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Riina Solman (born 23 June 1972) is an Estonian politician.",
+              "formatting": {
+                "bold": [
+                  "Riina Solman"
+                ]
+              }
+            },
+            {
+              "text": "She served as Minister of Population Affairs in the second cabinet of Jüri Ratas from 29 April 2019 to 26 January 2021.",
+              "links": [
+                {
+                  "text": "second cabinet",
+                  "type": "internal",
+                  "page": "Jüri Ratas' second cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jüri Ratas"
+                }
+              ]
+            },
+            {
+              "text": "The office of Minister of Population Affairs was removed in the cabinet of Prime Minister Kaja Kallas.",
+              "links": [
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Kaja Kallas' cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kaja Kallas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Riina_Solman_2021._aasta_Arvamusfestivalil.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Riina_Solman_2021._aasta_Arvamusfestivalil.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Riina_Solman_2021._aasta_Arvamusfestivalil.jpg",
+          "caption": "Riina Solman at the Opinion Festival 2021 in Paide, Estonia",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1972",
+          "month": "6",
+          "day": "23",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Riina Solman"
+          },
+          "image": {
+            "text": "Solman, Riina.IMG 3863 (cropped).JPG"
+          },
+          "caption": {
+            "text": "Riina Solman in 2014"
+          },
+          "office": {
+            "text": "Minister of Population Affairs"
+          },
+          "primeminister": {
+            "text": "Jüri Ratas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jüri Ratas"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 April 2019"
+          },
+          "term_end": {
+            "text": "26 January 2021"
+          },
+          "predecessor": {
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
+          },
+          "successor": {
+            "text": "Office disestablished",
+            "formatting": {
+              "italic": [
+                "Office disestablished"
+              ]
+            }
+          },
+          "party": {
+            "text": "Isamaa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Isamaa"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 23, 1972"
+          },
+          "birth_place": {
+            "text": "Viljandi, Estonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viljandi"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Tallinn University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tallinn University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Riina Solman",
+          "url": "https://valitsus.ee/en/prime-minister-ministers/minister-population-riina-solman",
+          "url-status": "live",
+          "access-date": "27 January 2021",
+          "website": "Estonian Government",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "14 January 2021",
+          "title": "Q&A: Estonia's government has resigned – what happens next?",
+          "work": "ERR",
+          "url": "https://news.err.ee/1608072376/q-a-estonia-s-government-has-resigned-what-happens-next",
+          "url-status": "live",
+          "access-date": "31 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "25 January 2021",
+          "title": "Outgoing ministers to receive benefit equaling six months' pay",
+          "work": "ERR",
+          "url": "https://news.err.ee/1608085819/outgoing-ministers-to-receive-benefit-equaling-six-months-pay",
+          "url-status": "live",
+          "access-date": "31 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "27 January 2021",
+          "title": "Minister: Hopefully new coalition will see fewer spats than its predecessor",
+          "work": "ERR",
+          "url": "https://news.err.ee/1608087418/minister-hopefully-new-coalition-will-see-fewer-spats-than-its-predecessor",
+          "url-status": "live",
+          "access-date": "31 January 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

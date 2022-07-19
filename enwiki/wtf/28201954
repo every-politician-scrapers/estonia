@@ -1,0 +1,229 @@
+{
+  "title": "Madis Kallas",
+  "pageID": 28201954,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "People from Kuressaare",
+    "Sportspeople from Kuressaare",
+    "Mayors of Kuressaare",
+    "Estonian decathletes",
+    "Estonian sportsperson-politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Madis Kallas (born 22 April 1981) is an Estonian decathlete and politician, Minister of the Environment of Estonia.",
+              "links": [
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                },
+                {
+                  "text": "decathlete",
+                  "type": "internal",
+                  "page": "decathlete"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "Politics of Estonia"
+                },
+                {
+                  "text": "Minister of the Environment of Estonia",
+                  "type": "internal",
+                  "page": "Ministry of the Environment (Estonia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Madis Kallas"
+                ]
+              }
+            },
+            {
+              "text": "From 2017 to 2020 and again from 2021 to 2022 he was Mayor of Saaremaa Municipality.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saaremaa Municipality"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian decathlete",
+          "template": "short description"
+        },
+        {
+          "date": "April 2020",
+          "template": "update"
+        },
+        {
+          "mf": "yes",
+          "year": "1981",
+          "month": "04",
+          "day": "22",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Madis Kallas"
+          },
+          "image": {
+            "text": "Kallas, Madis.IMG 1419.JPG"
+          },
+          "caption": {
+            "text": "Kallas in Kuressaare during the Võidupüha celebrations, June 23, 2014",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuressaare"
+              },
+              {
+                "type": "internal",
+                "page": "Võidupüha"
+              }
+            ]
+          },
+          "fullname": {
+            "text": "Madis Kallas"
+          },
+          "birth_date": {
+            "text": "April 22, 1981"
+          },
+          "birth_place": {
+            "text": "Kuressaare, Estonia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kuressaare"
+              },
+              {
+                "type": "internal",
+                "page": "Estonia"
+              }
+            ]
+          },
+          "height": {
+            "text": "189 cm"
+          },
+          "weight": {
+            "text": "82 kg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "26 November 2021",
+          "title": "Volikogu valis Saaremaa vallavanemaks Madis Kallase ning kinnitas valitsuse liikmed",
+          "url": "https://www.saaremaavald.ee/teated/-/asset_publisher/FhgRyTHrrja4/content/volikogu-valis-saaremaa-vallavanemaks-madis-kallase-ning-kinnitas-valitsuse-liikmed",
+          "url-status": "live",
+          "access-date": "7 December 2021",
+          "website": "Saaremaa Municipality",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "About",
+          "url": "https://www.saaremaavald.ee/en/web/en/saaremaa-municipality",
+          "url-status": "live",
+          "access-date": "7 December 2021",
+          "website": "Saaremaa Municipality",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Achievements",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Year": {
+              "text": "2006",
+              "number": 2006
+            },
+            "Tournament": {
+              "text": "European Championships",
+              "links": [
+                {
+                  "text": "European Championships",
+                  "type": "internal",
+                  "page": "2006 European Athletics Championships"
+                }
+              ]
+            },
+            "Venue": {
+              "text": "Gothenburg, Sweden",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gothenburg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sweden"
+                }
+              ]
+            },
+            "Points": {
+              "text": "7503",
+              "number": 7503
+            },
+            "Rank": {
+              "text": "17",
+              "number": 17
+            },
+            "Event": {
+              "text": "Decathlon",
+              "links": [
+                {
+                  "text": "Decathlon",
+                  "type": "internal",
+                  "page": "2006 European Athletics Championships – Men's decathlon"
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "id": "181288",
+          "template": "iaaf name"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-athletics-bio-stub"
+        }
+      ]
+    }
+  ]
+}

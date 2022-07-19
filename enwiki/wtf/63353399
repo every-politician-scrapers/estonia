@@ -1,0 +1,156 @@
+{
+  "title": "Urmas Klaas",
+  "pageID": 63353399,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "Estonian Reform Party politicians",
+    "Mayors of Tartu",
+    "Members of the Riigikogu, 2007–2011",
+    "Members of the Riigikogu, 2011–2015",
+    "Members of the Riigikogu, 2019–2023",
+    "University of Tartu alumni",
+    "People from Räpina"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Urmas Klaas (born on 17 March 1971 Räpina) is an Estonian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Räpina"
+                },
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Urmas Klaas"
+                ]
+              }
+            },
+            {
+              "text": "Since 2014 he is the mayor of Tartu.",
+              "links": [
+                {
+                  "text": "mayor of Tartu",
+                  "type": "internal",
+                  "page": "mayor of Tartu"
+                }
+              ]
+            },
+            {
+              "text": "Since 2006 he belongs to Estonian Reform Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Estonian Reform Party"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "1998 he graduated from University of Tartu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tartu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "2004-2007 Ummi was elder of Põlva County (Põlva maavanem).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Põlva County"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has been member of the Riigikogu since 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Riigikogu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:RE_Urmas_Klaas.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/RE_Urmas_Klaas.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/RE_Urmas_Klaas.jpg",
+          "caption": "Urmas Klaas",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2020",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "title": "Riigikogu",
+          "url": "http://www.riigikogu.ee/?page=isikukaart&op=ems&pid=73319",
+          "website": "Riigikogu",
+          "archiveurl": "https://web.archive.org/web/20120422051602/http://www.riigikogu.ee/?page=isikukaart&op=ems&pid=73319",
+          "archivedate": "22 April 2012",
+          "language": "et",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Urmas Klaas ja Tartu Ülikooli Narva kolledži direktor.",
+          "url": "https://www.postimees.ee/6458972/kes-on-uueks-siseministriks-tousev-katri-raik",
+          "website": "PPM",
+          "date": "21 November 2018",
+          "language": "et",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

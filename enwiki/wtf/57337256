@@ -1,0 +1,188 @@
+{
+  "title": "Riina Sikkut",
+  "pageID": 57337256,
+  "categories": [
+    "1983 births",
+    "Living people",
+    "Social Democratic Party (Estonia) politicians",
+    "Government ministers of Estonia",
+    "21st-century Estonian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Riina Sikkut (born 12 January 1983 ) is an Estonian politician and former Minister of Health and Labour in Jüri Ratas' first cabinet.",
+              "links": [
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jüri Ratas' first cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Riina Sikkut"
+                ]
+              }
+            },
+            {
+              "text": "She was sworn in on 2 May 2018, after the former minister Jevgeni Ossinovski had vacated the seat, and left the office on 29 April 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jevgeni Ossinovski"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Estonian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1983",
+          "month": "1",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Riina Sikkut"
+          },
+          "image": {
+            "text": "Riina Sikkut.jpg"
+          },
+          "office2": {
+            "text": "Minister of Health and Labour",
+            "links": [
+              {
+                "text": "Minister of Health and Labour",
+                "type": "internal",
+                "page": "Ministry of Social Affairs (Estonia)"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Jüri Ratas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jüri Ratas"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2 May 2018"
+          },
+          "term_end2": {
+            "text": "29 April 2019"
+          },
+          "predecessor2": {
+            "text": "Jevgeni Ossinovski",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jevgeni Ossinovski"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Tanel Kiik (as Minister of Social Affairs)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tanel Kiik"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 12, 1983"
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Social Democratic Party (Estonia)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tartu University of London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tartu"
+              },
+              {
+                "type": "internal",
+                "page": "University of London"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://news.err.ee/828022/sikkut-joins-social-democrats-as-party-names-her-ossinovski-s-successor",
+          "title": "Sikkut joins Social Democrats as party names her Ossinovski's successor",
+          "publisher": "ERR",
+          "date": "2 May 2018",
+          "access-date": "5 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.err.ee/828121/new-ministers-sikkut-maggi-sworn-in",
+          "title": "New ministers Sikkut, Mäggi sworn in",
+          "date": "2 May 2018",
+          "publisher": "ERR",
+          "access-date": "5 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2 May 2018",
+          "title": "New ministers Riina Sikkut and Janek Mäggi took an oath of office",
+          "work": "Estonian Government",
+          "url": "https://www.valitsus.ee/en/uudised/new-ministers-riina-sikkut-and-janek-maggi-took-oath-office",
+          "url-status": "live",
+          "access-date": "6 February 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "estonia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
