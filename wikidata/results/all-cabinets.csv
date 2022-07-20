@@ -50,5 +50,5 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 48,Q19776482,Taavi Rõivas' second cabinet,2015-04-09,11,,,2016-11-23,11,,,Q15980310,Taavi Rõivas' first cabinet,Q27907838,Jüri Ratas' first cabinet,Q15980310,Taavi Rõivas' first cabinet,,
 49,Q27907838,Jüri Ratas' first cabinet,2016-11-23,11,,,2019-04-29,11,,,Q19776482,Taavi Rõivas' second cabinet,Q63343147,Jüri Ratas' second cabinet,,,,
 50,Q63343147,Jüri Ratas' second cabinet,2019-04-29,11,,,2021-01-14,11,,,Q27907838,Jüri Ratas' first cabinet,Q105071498,Kaja Kallas' first cabinet,,,,
-51,Q105071498,Kaja Kallas' first cabinet,2021-01-26,11,,,2022-07-14,11,,,Q63343147,Jüri Ratas' second cabinet,Q113115767,Q113115767,,,,
+51,Q105071498,Kaja Kallas' first cabinet,2021-01-26,11,,,2022-07-14,11,,,Q63343147,Jüri Ratas' second cabinet,Q113136898,Kaja Kallas' second cabinet,,,,
 ,Q113136898,Kaja Kallas' second cabinet,2022-07-18,11,,,,,,,Q105071498,Kaja Kallas' first cabinet,,,,,,
