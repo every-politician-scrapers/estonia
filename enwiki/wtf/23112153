@@ -300,6 +300,36 @@
           "sentences": [
             {
               "text": "Hanno Pevkur is married and has two children – a son and a daughter."
+            },
+            {
+              "text": "In addition to his native Estonian, he speaks Russian, English, German and Finnish.",
+              "links": [
+                {
+                  "text": "Estonian",
+                  "type": "internal",
+                  "page": "Estonian language"
+                },
+                {
+                  "text": "Russian",
+                  "type": "internal",
+                  "page": "Russian language"
+                },
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                },
+                {
+                  "text": "German",
+                  "type": "internal",
+                  "page": "German language"
+                },
+                {
+                  "text": "Finnish",
+                  "type": "internal",
+                  "page": "Finnish language"
+                }
+              ]
             }
           ]
         }
